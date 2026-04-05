@@ -1,0 +1,3000 @@
+1, Liam Smith, M, 28, USA, Boston, 02:23:45
+2, Emma Johnson, F, 32, Canada, Toronto, 02:45:12
+3, Noah Williams, M, 25, UK, London, 02:18:33
+4, Olivia Brown, F, 29, Australia, Sydney, 02:56:07
+5, Mason Jones, M, 35, USA, Chicago, 02:31:22
+6, Sophia Garcia, F, 27, Spain, Madrid, 03:01:45
+7, Ethan Miller, M, 31, Germany, Berlin, 02:28:19
+8, Isabella Davis, F, 26, France, Paris, 02:52:34
+9, Lucas Rodriguez, M, 33, Italy, Rome, 02:41:50
+10, Amelia Martinez, F, 24, Mexico, Mexico City, 03:12:28
+11, Oliver Wilson, M, 40, Canada, Vancouver, 02:36:15
+12, Mia Anderson, F, 22, USA, Los Angeles, 02:59:44
+13, James Taylor, M, 29, Australia, Melbourne, 02:19:57
+14, Charlotte Thomas, F, 34, UK, Manchester, 02:48:23
+15, Benjamin Jackson, M, 38, Germany, Munich, 02:33:08
+16, Amelia White, F, 31, France, Lyon, 03:05:33
+17, Elijah Harris, M, 26, Spain, Barcelona, 02:25:40
+18, Evelyn Martin, F, 30, Italy, Milan, 02:53:19
+19, Alexander Thompson, M, 45, USA, Houston, 02:39:27
+20, Harper Moore, F, 28, Canada, Montreal, 03:08:52
+21, Daniel Walker, M, 23, Mexico, Guadalajara, 02:44:11
+22, Victoria Hall, F, 36, UK, Birmingham, 02:58:06
+23, Matthew Allen, M, 41, Australia, Perth, 02:30:49
+24, Scarlett Young, F, 27, Germany, Hamburg, 03:02:37
+25, David King, M, 34, France, Marseille, 02:37:15
+26, Grace Wright, F, 33, Spain, Valencia, 02:55:22
+27, Joseph Scott, M, 39, USA, Phoenix, 02:26:48
+28, Chloe Green, F, 25, Canada, Calgary, 03:09:44
+29, Samuel Baker, M, 30, Italy, Naples, 02:42:03
+30, Lily Adams, F, 37, UK, Glasgow, 02:49:56
+31, John Nelson, M, 42, Germany, Cologne, 02:34:29
+32, Zoe Carter, F, 29, Australia, Brisbane, 03:00:17
+33, Wyatt Mitchell, M, 35, France, Nice, 02:27:34
+34, Lillian Perez, F, 32, Mexico, Monterrey, 02:51:48
+35, Jack Roberts, M, 27, USA, Seattle, 02:21:52
+36, Avery Turner, F, 43, Canada, Ottawa, 03:06:41
+37, Luke Phillips, M, 38, UK, Leeds, 02:38:25
+38, Ella Campbell, F, 26, Spain, Seville, 02:57:13
+39, Gabriel Parker, M, 44, Germany, Frankfurt, 02:32:07
+40, Nora Evans, F, 31, Italy, Turin, 03:03:59
+41, Isaac Edwards, M, 36, Australia, Adelaide, 02:29:46
+42, Hannah Collins, F, 28, USA, Denver, 02:46:38
+43, Caleb Stewart, M, 33, France, Toulouse, 02:35:21
+44, Addison Sanchez, F, 39, Mexico, Puebla, 02:54:17
+45, Ryan Morris, M, 47, Canada, Edmonton, 02:40:52
+46, Layla Rogers, F, 34, UK, Liverpool, 03:07:28
+47, Nathan Reed, M, 30, Germany, Stuttgart, 02:24:14
+48, Peyton Cook, F, 41, Australia, Gold Coast, 02:50:30
+49, Julian Morgan, M, 37, USA, Miami, 02:22:33
+50, Aria Bell, F, 29, Spain, Malaga, 02:59:05
+51, Christian Murphy, M, 46, France, Nantes, 02:43:29
+52, Mila Bailey, F, 35, Italy, Florence, 02:56:48
+53, Jonathan Rivera, M, 24, Mexico, Tijuana, 02:20:16
+54, Sofia Cooper, F, 38, UK, Edinburgh, 03:04:37
+55, Brandon Richardson, M, 43, USA, Austin, 02:38:52
+56, Eleanor Cox, F, 27, Canada, Winnipeg, 02:58:41
+57, Thomas Howard, M, 32, Germany, Dusseldorf, 02:27:55
+58, Madison Ward, F, 40, Australia, Canberra, 03:11:23
+59, Dylan Torres, M, 34, Spain, Zaragoza, 02:32:44
+60, Grace Peterson, F, 29, France, Strasbourg, 02:54:36
+61, Andrew Gray, M, 48, Italy, Bologna, 02:46:17
+62, Emily Ramirez, F, 31, USA, Portland, 03:02:48
+63, Joshua James, M, 26, Mexico, Leon, 02:25:22
+64, Abigail Watson, F, 37, UK, Bristol, 02:59:59
+65, Christopher Brooks, M, 39, Canada, Quebec City, 02:35:08
+66, Elizabeth Kelly, F, 33, Germany, Leipzig, 03:06:14
+67, Anthony Sanders, M, 42, Australia, Hobart, 02:41:33
+68, Samantha Price, M, 30, France, Montpellier, 02:29:12
+69, Andrew Bennett, M, 44, Spain, Bilbao, 02:37:49
+70, Victoria Wood, F, 36, Italy, Genoa, 02:57:22
+71, Nathan Barnes, M, 28, USA, Atlanta, 02:22:47
+72, Anna Ross, F, 34, Mexico, Queretaro, 03:08:15
+73, Zachary Henderson, M, 41, UK, Sheffield, 02:39:04
+74, Sarah Coleman, F, 26, Canada, Hamilton, 02:55:48
+75, David Jenkins, M, 37, Germany, Dresden, 02:33:51
+76, Hailey Perry, F, 43, Australia, Newcastle, 03:01:29
+77, Jose Powell, M, 31, France, Bordeaux, 02:28:37
+78, Claire Long, F, 29, Spain, Alicante, 02:52:55
+79, Jesse Patterson, M, 45, Italy, Venice, 02:42:22
+80, Alice Hughes, F, 32, USA, Dallas, 02:59:32
+81, Scott Flores, M, 35, Mexico, Merida, 02:31:44
+82, Natalie Washington, F, 38, UK, Newcastle, 03:05:18
+83, Eric Butler, M, 27, Canada, London, 02:24:38
+84, Jocelyn Simmons, F, 41, Germany, Bonn, 02:56:09
+85, Brian Foster, M, 39, Australia, Wollongong, 02:36:25
+86, Maria Gonzales, F, 30, Spain, Cordoba, 03:00:42
+87, Kyle Bryant, M, 46, France, Lille, 02:45:31
+88, Stephanie Alexander, F, 33, Italy, Palermo, 02:58:17
+89, Trevor Russell, M, 36, USA, San Francisco, 02:27:16
+90, Autumn Griffin, F, 44, Mexico, Cancun, 03:09:33
+91, Patrick Diaz, M, 29, UK, Nottingham, 02:21:08
+92, Leah Hayes, F, 35, Canada, Halifax, 02:54:29
+93, Sean Myers, M, 43, Germany, Essen, 02:38:47
+94, Julia Ford, F, 31, Australia, Darwin, 03:02:55
+95, Adam Hamilton, M, 38, Spain, Granada, 02:30:11
+96, Kaitlyn Graham, F, 27, France, Rennes, 02:57:38
+97, Peter Sullivan, M, 49, Italy, Bari, 02:47:24
+98, Madeline Wallace, F, 39, USA, Nashville, 03:04:12
+99, Justin Woods, M, 32, Mexico, Juarez, 02:34:59
+100, Caroline West, F, 28, Germany, Dortmund, 02:59:47
+101, Austin Cole, M, 42, Canada, Victoria, 02:40:33
+102, Gabriella Murray, F, 36, UK, Southampton, 03:06:28
+103, Juan Freeman, M, 34, France, Grenoble, 02:32:19
+104, Vanessa Wells, F, 41, Australia, Sunshine Coast, 02:55:37
+105, Charles Webb, M, 47, Spain, Palma, 02:43:12
+106, Lillian Simpson, F, 30, Italy, Verona, 03:01:18
+107, Louis Stevens, M, 37, USA, St. Louis, 02:29:28
+108, Molly Tucker, F, 44, Mexico, Guadalajara, 02:58:46
+109, Henry Porter, M, 26, UK, Cardiff, 02:23:54
+110, Audrey Hicks, F, 33, Canada, Regina, 03:07:52
+111, Carl Crawford, M, 45, Germany, Hannover, 02:39:41
+112, Eliana Henry, F, 29, France, Dijon, 02:56:23
+113, Jeremy Boyd, M, 39, Australia, Geelong, 02:31:56
+114, Brianna Mason, F, 42, Spain, Murcia, 03:03:34
+115, Keith Morales, M, 35, Italy, Catania, 02:27:48
+116, Sadie Kennedy, F, 38, USA, Indianapolis, 02:59:14
+117, Bradley Butler, M, 48, Mexico, Puebla, 02:44:29
+118, Katherine Bell, F, 31, UK, Leicester, 03:05:47
+119, Russell Dixon, M, 41, Canada, Saskatoon, 02:37:33
+120, Alyssa Fisher, M, 34, Germany, Nuremberg, 02:30:28
+121, Bryan Reyes, M, 36, France, Le Havre, 02:35:18
+122, Margaret Ellis, F, 39, Australia, Townsville, 02:57:55
+123, Shaun Edwards, M, 44, Spain, Oviedo, 02:42:08
+124, Melody Collins, F, 27, Italy, Venice, 03:00:31
+125, Mark Richardson, M, 50, USA, Columbus, 02:48:54
+126, Rose Stewart, F, 35, Mexico, Monterrey, 02:54:12
+127, Alan Morris, M, 38, UK, Coventry, 02:33:40
+128, Sydney Rogers, F, 43, Canada, Kelowna, 03:06:59
+129, Vincent Reed, M, 32, Germany, Bochum, 02:29:09
+130, Teagan Cook, F, 30, France, Reims, 02:58:33
+131, Evan Morgan, M, 46, Australia, Cairns, 02:41:17
+132, Melissa Bell, F, 37, Spain, Santander, 03:02:14
+133, Devin Murphy, M, 41, Italy, Trieste, 02:36:42
+134, Arianna Bailey, F, 33, USA, Philadelphia, 02:55:49
+135, Marcus Rivera, M, 44, Mexico, Toluca, 02:38:56
+136, Kate Cooper, F, 29, UK, Bradford, 03:04:28
+137, Travis Cox, M, 39, Canada, Abbotsford, 02:32:07
+138, Sophie Howard, M, 42, Germany, Wuppertal, 02:47:35
+139, Derek Ward, M, 48, France, Saint-Etienne, 02:43:50
+140, Payton Torres, F, 36, Australia, Albury, 02:59:22
+141, George Peterson, M, 51, Spain, Badajoz, 02:49:43
+142, Jocelyn Gray, F, 34, Italy, Modena, 03:01:55
+143, Troy Ramirez, M, 40, Mexico, Leon, 02:34:28
+144, Kimberly James, F, 45, USA, San Antonio, 02:57:11
+145, Brett Watson, M, 37, UK, Hull, 02:28:54
+146, Lucy Brooks, F, 41, Canada, Sudbury, 03:05:39
+147, Shane Kelly, M, 43, Germany, Bielefeld, 02:39:23
+148, Marissa Sanders, F, 32, France, Toulon, 02:56:47
+149, Cory Price, M, 47, Australia, Launceston, 02:45:38
+150, Bianca Bennett, F, 39, Spain, Gijon, 03:00:18
+151, Edgar Wood, M, 35, Italy, Parma, 02:31:32
+152, Fiona Barnes, F, 44, USA, San Diego, 02:58:52
+153, Phillip Ross, M, 42, Mexico, Queretaro, 02:37:15
+154, Gabrielle Henderson, F, 30, UK, Stoke-on-Trent, 03:03:49
+155, Derrick Coleman, M, 49, Canada, Kingston, 02:46:29
+156, Ashlyn Jenkins, F, 38, Germany, Mannheim, 02:54:36
+157, Franklin Perry, M, 45, France, Nancy, 02:41:44
+158, Heidi Long, M, 36, Australia, Bendigo, 02:33:59
+159, Terrance Patterson, M, 52, Spain, Cartagena, 02:50:12
+160, Miranda Hughes, F, 41, Italy, Ravenna, 03:02:48
+161, Marvin Flores, M, 44, USA, Jacksonville, 02:38:37
+162, Christina Washington, F, 35, Mexico, Cancun, 02:55:24
+163, Dustin Butler, M, 48, UK, Wolverhampton, 02:42:55
+164, Lindsay Simmons, F, 43, Canada, Barrie, 03:06:17
+165, Marc Foster, M, 39, Germany, Bonn, 02:29:48
+166, Cassandra Gonzales, F, 46, France, Clermont-Ferrand, 02:59:03
+167, Rick Bryant, M, 50, Australia, Rockhampton, 02:44:41
+168, Natalie Alexander, F, 37, Spain, Almeria, 03:01:29
+169, Joel Russell, M, 42, Italy, Ferrara, 02:35:14
+170, Alexa Griffin, F, 45, USA, Fort Worth, 02:57:36
+171, Edwin Diaz, M, 47, Mexico, Mexicali, 02:43:22
+172, Camila Hayes, F, 40, UK, Reading, 03:04:55
+173, Jon Myers, M, 53, Canada, Sherbrooke, 02:48:07
+174, Jade Ford, F, 36, Germany, Karlsruhe, 02:56:41
+175, Derek Hamilton, M, 49, France, Brest, 02:40:59
+176, Jazmin Graham, F, 44, Australia, Mackay, 03:03:27
+177, Erik Sullivan, M, 51, Spain, Huelva, 02:49:33
+178, Nina Wallace, F, 42, Italy, Salerno, 02:58:18
+179, Casey Woods, M, 48, USA, Memphis, 02:39:15
+180, Tessa Cole, F, 47, Mexico, Culiacan, 03:05:48
+181, Ruben Murray, M, 55, UK, Derby, 02:51:24
+182, Adriana Freeman, F, 39, Canada, Richmond, 02:57:12
+183, Seth Wells, M, 46, Germany, Wiesbaden, 02:44:33
+184, Macie Webb, M, 43, France, Amiens, 02:38:49
+185, Claude Simpson, M, 54, Australia, Toowoomba, 02:46:55
+186, Aniyah Tucker, F, 41, Spain, Lleida, 03:01:44
+187, Marshall Porter, M, 50, Italy, Rimini, 02:42:37
+188, Evangeline Hicks, F, 48, USA, Baltimore, 02:59:26
+189, Wade Crawford, M, 56, Mexico, Acapulco, 02:50:18
+190, Joy Henry, F, 44, UK, Plymouth, 03:04:29
+191, Leonardo Boyd, M, 52, Canada, Oshawa, 02:47:42
+192, Annalise Mason, F, 50, Germany, Munster, 02:58:59
+193, Blake Morales, M, 57, France, Limoges, 02:52:13
+194, Evie Kennedy, F, 46, Australia, Darwin, 03:02:56
+195, Terry Butler, M, 60, Spain, Tarragona, 02:54:47
+196, Phoebe Bell, F, 52, Italy, Bergamo, 03:00:38
+197, Morgan Dixon, M, 59, USA, Milwaukee, 02:49:21
+198, Ada Fisher, F, 55, Mexico, Chihuahua, 03:07:14
+199, Jermaine Reyes, M, 63, UK, Brighton, 02:56:33
+200, Thea Ellis, F, 58, Canada, St. Catharines, 03:09:47
+201, Fernando Edwards, M, 65, Germany, Monchengladbach, 02:58:26
+202, Willa Collins, F, 61, France, Villeurbanne, 03:11:52
+203, Chad Richardson, M, 68, Australia, Ballarat, 03:02:11
+204, Jada Stewart, F, 64, Spain, Sabadell, 03:13:45
+205, Alvin Morris, M, 70, Italy, Brescia, 03:05:29
+206, Amira Rogers, F, 66, USA, Albuquerque, 03:15:38
+207, Lee Reed, M, 69, Mexico, Hermosillo, 03:07:52
+208, Maliyah Cook, F, 71, UK, Bolton, 03:18:24
+209, Glen Morgan, M, 72, Canada, Guelph, 03:10:16
+210, Saylor Bell, F, 68, Germany, Braunschweig, 03:16:43
+211, Kirk Murphy, M, 74, France, Besancon, 03:12:59
+212, Zariyah Bailey, F, 70, Australia, Wagga Wagga, 03:19:37
+213, Guy Rivera, M, 76, Spain, Alcala de Henares, 03:14:28
+214, Ember Cooper, F, 73, Italy, Prato, 03:21:55
+215, Malcolm Cox, M, 78, USA, Tucson, 03:17:34
+216, Nylah Howard, F, 75, Mexico, Saltillo, 03:23:48
+217, Grant Ward, M, 80, UK, Milton Keynes, 03:20:19
+218, Lyric Torres, F, 77, Canada, Red Deer, 03:25:07
+219, Rory Peterson, M, 82, Germany, Chemnitz, 03:22:53
+220, Lainey Gray, F, 79, France, Orleans, 03:27:36
+221, Warren Ramirez, M, 85, Australia, Shepparton, 03:25:44
+222, Iliana James, F, 81, Spain, Jerez, 03:30:18
+223, Zander Watson, M, 87, Italy, Terni, 03:28:32
+224, Kelsey Brooks, F, 83, USA, Fresno, 03:33:27
+225, Sterling Kelly, M, 90, Mexico, Morelia, 03:31:49
+226, Zariah Sanders, F, 86, UK, Wigan, 03:36:15
+227, Frank Price, M, 92, Canada, Kamloops, 03:34:38
+228, Jayleen Bennett, F, 88, Germany, Bremerhaven, 03:39:22
+229, Rex Wood, M, 94, France, Perpignan, 03:37:56
+230, Kaiya Barnes, F, 90, Australia, Mildura, 03:42:48
+231, Lance Ross, M, 96, Spain, Burgos, 03:41:07
+232, Malia Henderson, F, 92, Italy, Livorno, 03:45:33
+233, Toby Coleman, M, 98, USA, Sacramento, 03:44:19
+234, Celeste Jenkins, F, 94, Mexico, Torreon, 03:48:27
+235, Harold Perry, M, 100, UK, Oxford, 03:47:52
+236, Laurel Long, F, 96, Canada, Nanaimo, 03:51:44
+237, Rodrigo Patterson, M, 102, Germany, Halle, 03:50:35
+238, Milana Hughes, F, 98, France, Avignon, 03:55:18
+239, Rene Flores, M, 104, Australia, Dubbo, 03:54:06
+240, Novah Washington, F, 100, Spain, Salamanca, 03:58:42
+241, Julian Butler, M, 106, Italy, Forli, 03:57:29
+242, Bellamy Simmons, F, 102, USA, Long Beach, 04:01:55
+243, Jared Foster, M, 108, Mexico, Ensenada, 04:00:47
+244, Alani Gonzales, F, 104, UK, Norwich, 04:04:33
+245, Ernesto Bryant, M, 110, Canada, Lethbridge, 04:03:21
+246, Ellen Alexander, F, 106, Germany, Rostock, 04:07:49
+247, Rocco Russell, M, 112, France, Caen, 04:06:38
+248, Kennedi Griffin, F, 108, Australia, Nowra, 04:10:52
+249, Keegan Diaz, M, 114, Spain, Logrono, 04:09:44
+250, Hallie Hayes, F, 110, Italy, Monza, 04:13:27
+251, Quincy Ford, M, 116, USA, Mesa, 04:12:19
+252, Charleigh Hamilton, F, 112, Mexico, Colima, 04:16:05
+253, Randy Graham, M, 118, UK, Aberdeen, 04:15:43
+254, Adrienne Sullivan, F, 114, Canada, Belleville, 04:19:38
+255, Raul Wallace, M, 120, Germany, Krefeld, 04:18:56
+256, Kora Woods, F, 116, France, Boulogne-Billancourt, 04:22:47
+257, Nolan Cole, M, 122, Australia, Orange, 04:21:35
+258, Brylee Murray, F, 118, Spain, Castello, 04:25:28
+259, Myles Freeman, M, 124, Italy, Latina, 04:24:16
+260, Itzel Wells, F, 120, USA, Kansas City, 04:28:03
+261, Kian Webb, M, 126, Mexico, Manzanillo, 04:27:41
+262, Jemma Simpson, M, 122, UK, Luton, 04:31:15
+263, Tate Tucker, M, 128, Canada, Medicine Hat, 04:30:29
+264, Oaklyn Porter, F, 124, Germany, Oberhausen, 04:34:37
+265, Roy Hicks, M, 130, France, Nancy, 04:33:52
+266, Annabella Crawford, F, 126, Australia, Whyalla, 04:37:44
+267, Sterling Henry, M, 132, Spain, Girona, 04:36:38
+268, Lorelei Boyd, F, 128, Italy, Cagliari, 04:40:51
+269, Braylen Mason, M, 134, USA, Virginia Beach, 04:39:46
+270, Maren Morales, F, 130, Mexico, Pachuca, 04:43:59
+271, Dion Kennedy, M, 136, UK, Islington, 04:43:08
+272, Kamilah Butler, F, 132, Canada, White Rock, 04:47:23
+273, Kobe Bell, M, 138, Germany, Hagen, 04:46:41
+274, Tegan Dixon, F, 134, France, Argenteuil, 04:50:28
+275, Conrad Fisher, M, 140, Australia, Mount Gambier, 04:49:56
+276, Armani Reyes, F, 136, Spain, Santiago, 04:53:49
+277, Jerry Ellis, M, 142, Italy, Vicenza, 04:52:57
+278, Jaslyn Edwards, F, 138, USA, Oakland, 04:56:35
+279, Kenny Collins, M, 144, Mexico, Tepic, 04:55:49
+280, Elora Stewart, F, 140, UK, Swindon, 04:59:28
+281, Remy Morris, M, 146, Canada, Brantford, 04:58:42
+282, Zola Rogers, M, 142, Germany, Hamm, 05:02:17
+283, Kyrie Reed, M, 148, France, Saint-Denis, 05:01:33
+284, Anya Cook, F, 144, Australia, Port Macquarie, 05:05:49
+285, Kyson Morgan, M, 150, Spain, Vigo, 05:05:08
+286, Paola Bell, F, 146, Italy, Ancona, 05:09:24
+287, Casen Murphy, M, 152, USA, Minneapolis, 05:08:42
+288, Samara Bailey, F, 148, Mexico, La Paz, 05:12:58
+289, Korbin Rivera, M, 154, UK, Crawley, 05:12:19
+290, Romina Cooper, F, 150, Canada, Grande Prairie, 05:16:36
+291, Kael Cox, M, 156, Germany, Herne, 05:15:54
+292, Rayna Howard, F, 152, France, Tourcoing, 05:20:11
+293, Zayn Ward, M, 158, Australia, Warrnambool, 05:19:29
+294, Aviana Torres, F, 154, Spain, San Sebastian, 05:23:47
+295, Blaine Peterson, M, 160, Italy, Pesaro, 05:23:05
+296, Kaia Gray, F, 156, USA, Tulsa, 05:27:23
+297, Bronson Ramirez, M, 162, Mexico, Zacatecas, 05:26:42
+298, Emberly James, F, 158, UK, Walsall, 05:31:00
+299, Crue Watson, M, 164, Canada, Peterborough, 05:30:18
+300, Kyndall Brooks, F, 160, Germany, Ludwigshafen, 05:34:37
+301, Aldo Kelly, M, 166, France, Montreuil, 05:33:55
+302, Emelia Sanders, F, 162, Australia, Devonport, 05:38:14
+303, Elian Price, M, 168, Spain, Leon, 05:37:33
+304, Amayah Bennett, F, 164, Italy, Andria, 05:41:52
+305, Franco Wood, M, 170, USA, Wichita, 05:41:11
+306, Keilani Barnes, F, 166, Mexico, Cuernavaca, 05:45:31
+307, Karsyn Ross, M, 172, UK, Solihull, 05:44:49
+308, Emeri Henderson, F, 168, Canada, Saint-Jean-sur-Richelieu, 05:49:10
+309, Leonel Coleman, M, 174, Germany, Oldenburg, 05:48:28
+310, Evalyn Jenkins, F, 170, France, Nanterre, 05:52:50
+311, Zechariah Perry, M, 176, Australia, Sale, 05:52:08
+312, Elliana Long, M, 172, Spain, Cadiz, 05:56:31
+313, Dax Patterson, M, 178, Italy, Pescara, 05:55:49
+314, Ansley Hughes, F, 174, USA, New Orleans, 06:00:12
+315, Tripp Flores, M, 180, Mexico, Ciudad Victoria, 05:59:31
+316, Rylan Washington, M, 176, UK, Rochdale, 06:03:55
+317, Malaysia Butler, F, 178, Canada, Fredericton, 06:03:13
+318, Brentley Simmons, M, 182, Germany, Osnabruck, 06:07:37
+319, Novalee Foster, F, 180, France, Vitry-sur-Seine, 06:06:56
+320, Kace Gonzales, M, 184, Australia, Kalgoorlie, 06:11:20
+321, Collins Bryant, M, 182, Spain, Albacete, 06:10:39
+322, Keily Alexander, F, 186, Italy, Piacenza, 06:15:04
+323, Kylan Russell, M, 188, USA, Cleveland, 06:14:22
+324, Zaylee Griffin, F, 184, Mexico, Durango, 06:18:48
+325, Ayan Diaz, M, 190, UK, Basildon, 06:18:06
+326, Ellison Hayes, F, 186, Canada, Drummondville, 06:22:32
+327, Brent Ford, M, 192, Germany, Leverkusen, 06:21:51
+328, Lilliana Hamilton, F, 188, France, Avignon, 06:26:18
+329, Kairo Graham, M, 194, Australia, Burnie, 06:25:36
+330, Ayleen Sullivan, F, 190, Spain, Getafe, 06:30:04
+331, Kohen Wallace, M, 196, Italy, Reggio Calabria, 06:29:22
+332, Amani Woods, F, 192, USA, Santa Clarita, 06:33:50
+333, Reyansh Cole, M, 198, Mexico, Tlaquepaque, 06:33:09
+334, Arlet Murray, F, 194, UK, Bath, 06:37:38
+335, Yosef Freeman, M, 200, Canada, North Bay, 06:36:56
+336, Cali Wells, F, 196, Germany, Neuss, 06:41:26
+337, Eithan Webb, M, 202, France, Clichy, 06:40:44
+338, Jaycee Simpson, F, 198, Australia, Coffs Harbour, 06:45:15
+339, Jakobe Tucker, M, 204, Spain, Ourense, 06:44:33
+340, Dayana Porter, F, 200, Italy, Modena, 06:49:05
+341, Kye Hicks, M, 206, USA, Irvine, 06:48:23
+342, Ailani Crawford, F, 202, Mexico, San Luis Potosi, 06:52:56
+343, Kannon Henry, M, 208, UK, Worthing, 06:52:14
+344, Mckinley Boyd, F, 204, Canada, Moncton, 06:56:48
+345, Erick Mason, M, 210, Germany, Heidelberg, 06:56:06
+346, Tinsley Morales, F, 206, France, Colombes, 07:00:41
+347, Kenji Kennedy, M, 212, Australia, Gladstone, 06:59:59
+348, Karter Butler, F, 208, Spain, Alcorcon, 07:04:35
+349, Adonis Bell, M, 214, Italy, Rimini, 07:03:53
+350, Veda Dixon, F, 210, USA, Huntsville, 07:08:30
+351, Kyro Fisher, M, 216, Mexico, Aguascalientes, 07:07:48
+352, Rayna Reyes, F, 212, UK, Southend-on-Sea, 07:12:26
+353, Ayaan Ellis, M, 218, Canada, Chilliwack, 07:11:44
+354, Ensley Edwards, F, 214, Germany, Darmstadt, 07:16:23
+355, Maxton Collins, M, 220, France, Poitiers, 07:15:41
+356, Ensley Stewart, M, 216, Australia, Hervey Bay, 07:20:21
+357, Braxton Morris, M, 222, Spain, Leganes, 07:19:39
+358, Ryann Rogers, M, 218, Italy, Biella, 07:24:20
+359, Jakari Reed, M, 224, USA, Rochester, 07:23:38
+360, Milani Cook, F, 220, Mexico, Xalapa, 07:28:20
+361, Jakai Morgan, M, 226, UK, Poole, 07:27:38
+362, Nala Bell, F, 222, Canada, Courtenay, 07:32:21
+363, Kamdyn Murphy, M, 228, Germany, Wurzburg, 07:31:39
+364, Ayleen Bailey, F, 224, France, Courbevoie, 07:36:23
+365, Kaelen Rivera, M, 230, Australia, Traralgon, 07:35:41
+366, Sevyn Cooper, M, 226, Spain, Fuengirola, 07:40:26
+367, Vihaan Cox, M, 232, Italy, Lecco, 07:39:44
+368, Emeri Howard, F, 228, USA, Erie, 07:44:30
+369, Lian Ward, M, 234, Mexico, Tuxtla Gutierrez, 07:43:48
+370, Alanna Torres, F, 230, Canada, Brandon, 07:48:35
+371, Omari Peterson, M, 236, UK, Chelmsford, 07:47:53
+372, Collins Gray, M, 232, Germany, Regensburg, 07:52:41
+373, Magnus Ramirez, M, 238, France, Neuilly-sur-Seine, 07:51:59
+374, Adley James, F, 234, Australia, Tamworth, 07:56:48
+375, Dimitri Watson, M, 240, Spain, Benidorm, 07:56:06
+376, Liv Brooks, F, 236, Italy, Siena, 08:00:56
+377, Cashton Kelly, M, 242, USA, Spokane, 08:00:14
+378, Kenna Sanders, F, 238, Mexico, Reynosa, 08:05:05
+379, Kylo Price, M, 244, UK, Colchester, 08:04:23
+380, Jream Bennett, F, 240, Canada, Saint-Georges, 08:09:15
+381, Jakobe Wood, M, 246, Germany, Gottingen, 08:08:33
+382, Dalary Barnes, F, 242, France, Levallois-Perret, 08:13:26
+383, Axton Ross, M, 248, Australia, Rockhampton, 08:12:44
+384, Ellarose Henderson, F, 244, Spain, Torrevieja, 08:17:38
+385, Brailen Coleman, M, 250, Italy, Novara, 08:16:56
+386, Jaylani Jenkins, F, 246, USA, Garland, 08:21:51
+387, Tripp Perry, M, 252, Mexico, Matamoros, 08:21:09
+388, Kamila Long, M, 248, UK, Eastbourne, 08:26:05
+389, Cru Patterson, M, 254, Canada, Sarnia, 08:25:23
+390, Anaiya Hughes, F, 250, Germany, Paderborn, 08:30:20
+391, Edric Flores, M, 256, France, Cergy, 08:29:38
+392, Kamryn Washington, F, 252, Australia, Morwell, 08:34:36
+393, Trey Butler, M, 258, Spain, Ferrol, 08:33:54
+394, Mikaela Simmons, F, 254, Italy, Monza, 08:38:53
+395, Eliezer Foster, M, 260, USA, Hialeah, 08:38:11
+396, Malayah Gonzales, F, 256, Mexico, Juarez, 08:43:11
+397, Koa Bryant, M, 262, UK, Rotherham, 08:42:29
+398, Sahar Alexander, F, 258, Canada, Port Coquitlam, 08:47:30
+399, Karsyn Russell, M, 264, Germany, Wolfsburg, 08:46:48
+400, Micaela Griffin, F, 260, France, Asnieres-sur-Seine, 08:51:50
+401, Yadiel Diaz, M, 266, Australia, Goulburn, 08:51:08
+402, Aislinn Hayes, F, 262, Spain, Gandia, 08:56:11
+403, Bodhi Ford, M, 268, Italy, Giugliano, 08:55:29
+404, Azalea Hamilton, F, 264, USA, Reno, 09:00:33
+405, Ulises Graham, M, 270, Mexico, Uruapan, 08:59:51
+406, Daleyza Sullivan, F, 266, UK, St Helens, 09:04:56
+407, Zev Wallace, M, 272, Canada, Midland, 09:04:14
+408, Royalty Woods, F, 268, Germany, Ulm, 09:09:20
+409, Maverick Cole, M, 274, France, Nanterre, 09:08:38
+410, Emberlynn Murray, F, 270, Australia, Bunbury, 09:13:45
+411, Youssef Freeman, M, 276, Spain, Elche, 09:13:03
+412, Azaria Wells, F, 272, Italy, Bergamo, 09:18:11
+413, Kace Webb, M, 278, USA, Henderson, 09:17:29
+414, Promise Simpson, F, 274, Mexico, Tehuacan, 09:22:38
+415, Andres Tucker, M, 280, UK, Halifax, 09:21:56
+416, Joslyn Porter, F, 276, Canada, Owen Sound, 09:27:06
+417, Korbin Hicks, M, 282, Germany, Ingolstadt, 09:26:24
+418, Aubree Crawford, F, 278, France, Antony, 09:31:35
+419, Kylian Henry, M, 284, Australia, Bathurst, 09:30:53
+420, Jream Boyd, M, 280, Spain, Lorca, 09:36:05
+421, Zayd Mason, M, 286, Italy, Sassari, 09:35:23
+422, Kolbie Morales, F, 282, USA, Plano, 09:40:36
+423, Eliel Kennedy, M, 288, Mexico, Los Mochis, 09:39:54
+424, Amaia Butler, F, 284, UK, Cambridge, 09:45:08
+425, Lucca Bell, M, 290, Canada, Truro, 09:44:26
+426, Lainey Dixon, F, 286, Germany, Potsdam, 09:49:41
+427, Tatum Fisher, M, 292, France, Clamart, 09:48:59
+428, Lylah Reyes, F, 288, Australia, Lismore, 09:54:15
+429, Kannon Ellis, M, 294, Spain, Marbella, 09:53:33
+430, Leyla Edwards, F, 290, Italy, Arezzo, 09:58:50
+431, Rayan Collins, M, 296, USA, Newark, 09:58:08
+432, Milani Richardson, F, 292, Mexico, Monclova, 10:03:26
+433, Nikolas Stewart, M, 298, UK, Crawley, 10:02:44
+434, Zaniyah Morris, F, 294, Canada, Portage la Prairie, 10:08:03
+435, Elian Rogers, M, 300, Germany, Bottrop, 10:07:21
+436, Maleah Reed, M, 296, France, Sevres, 10:12:41
+437, Ayan Cook, M, 302, Australia, Gladstone, 10:11:59
+438, Meadow Morgan, F, 298, Spain, Palencia, 10:17:20
+439, Ezra Bell, M, 304, Italy, Pordenone, 10:16:38
+440, Kimberly Murphy, F, 300, USA, Chula Vista, 10:22:00
+441, Marcellus Bailey, M, 306, Mexico, Ciudad Acuna, 10:21:18
+442, Nyra Rivera, F, 302, UK, Blackpool, 10:26:41
+443, Marcel Cooper, M, 308, Canada, Brockville, 10:25:59
+444, Novah Cox, F, 304, Germany, Offenbach, 10:31:23
+445, Lyric Howard, M, 310, France, Villetaneuse, 10:30:41
+446, Legacy Ward, F, 306, Australia, Moe, 10:36:06
+447, Kian Torres, M, 312, Spain, Avila, 10:35:24
+448, Legacy Peterson, M, 308, Italy, Alessandria, 10:40:50
+449, Om Gray, M, 314, USA, Orlando, 10:40:08
+450, Ayleen Ramirez, F, 310, Mexico, Ciudad Obregon, 10:45:35
+451, Kaizer James, M, 316, UK, Barnsley, 10:44:53
+452, Novalee Watson, F, 312, Canada, Corner Brook, 10:50:21
+453, Cassius Brooks, M, 318, Germany, Trier, 10:49:39
+454, Alaiya Kelly, M, 314, France, Suresnes, 10:55:08
+455, Creed Sanders, M, 320, Australia, Port Pirie, 10:54:26
+456, Kyleigh Price, F, 316, Spain, Ponferrada, 10:59:56
+457, Bronson Wood, M, 322, Italy, Caserta, 10:59:14
+458, Vienna Barnes, F, 318, USA, Winston-Salem, 11:04:45
+459, Jonathon Ross, M, 324, Mexico, Cuautla, 11:04:03
+460, Everlee Henderson, F, 320, UK, Middlesbrough, 11:09:35
+461, Keanu Coleman, M, 326, Canada, Spruce Grove, 11:08:53
+462, Elina Jenkins, F, 322, Germany, Marburg, 11:14:26
+463, Azael Perry, M, 328, France, Bastia, 11:13:44
+464, Emeri Long, M, 324, Australia, Maryborough, 11:19:18
+465, Zaylen Patterson, M, 330, Spain, Zamora, 11:18:36
+466, Jimena Hughes, F, 326, Italy, Massa, 11:24:11
+467, Brennen Flores, M, 332, USA, North Las Vegas, 11:23:29
+468, Lara Washington, F, 328, Mexico, Ciudad del Carmen, 11:29:05
+469, Jabari Butler, M, 334, UK, Peterborough, 11:28:23
+470, Denisse Simmons, F, 330, Canada, Duncan, 11:34:00
+471, Koda Foster, M, 336, Germany, Flensburg, 11:33:18
+472, Maddison Gonzales, F, 332, France, Calais, 11:38:56
+473, Izaiah Bryant, M, 338, Australia, Mount Barker, 11:38:14
+474, Elora Alexander, F, 334, Spain, Villareal, 11:43:53
+475, Kaiden Russell, M, 340, Italy, Viterbo, 11:43:11
+476, Kataleya Griffin, F, 336, USA, Gilbert, 11:48:51
+477, Eithan Diaz, M, 342, Mexico, Ciudad Juarez, 11:48:09
+478, Madisyn Hayes, F, 338, UK, Doncaster, 11:53:50
+479, Eliezer Ford, M, 344, Canada, Moose Jaw, 11:53:08
+480, Mckinley Hamilton, F, 340, Germany, Gie?en, 11:58:50
+481, Jamir Graham, M, 346, France, Chambéry, 11:58:08
+482, Liv Sullivan, F, 342, Australia, Griffith, 12:03:51
+483, Kyan Wallace, M, 348, Spain, Soria, 12:03:09
+484, Arleth Woods, F, 344, Italy, Savona, 12:08:53
+485, Marcelo Cole, M, 350, USA, Aurora, 12:08:11
+486, Maryam Murray, F, 346, Mexico, Cd. Altamirano, 12:13:56
+487, Kensley Freeman, M, 352, UK, Telford, 12:13:14
+488, Maia Wells, F, 348, Canada, Penticton, 12:19:00
+489, Tadeo Webb, M, 354, Germany, Bielefeld, 12:18:18
+490, Naya Simpson, F, 350, France, Aix-en-Provence, 12:24:05
+491, Kylan Tucker, M, 356, Australia, Busselton, 12:23:23
+492, Zendaya Porter, F, 352, Spain, Merida, 12:29:11
+493, Karsen Hicks, M, 358, Italy, Crotone, 12:28:29
+494, Emory Crawford, F, 354, USA, Madison, 12:34:18
+495, Boston Henry, M, 360, Mexico, Tecate, 12:33:36
+496, Amari Boyd, F, 356, UK, York, 12:39:26
+497, Braylen Mason, M, 362, Canada, Camrose, 12:38:44
+498, Alaia Morales, F, 358, Germany, Erfurt, 12:44:35
+499, Kace Kennedy, M, 364, France, Le Mans, 12:43:53
+500, Elodie Butler, F, 360, Australia, Grafton, 12:49:45
+501, Alden Bell, M, 366, Spain, Cuenca, 12:49:03
+502, Mylah Dixon, F, 362, Italy, Trapani, 12:54:55
+503, Kylian Fisher, M, 368, USA, Akron, 12:54:13
+504, Ensley Reyes, F, 364, Mexico, Ciudad Madero, 13:00:06
+505, Edison Ellis, M, 370, UK, Chester, 12:59:24
+506, Kamila Edwards, F, 366, Canada, St. Thomas, 13:05:18
+507, Marcel Collins, M, 372, Germany, Jena, 13:04:36
+508, Kaia Richardson, F, 368, France, La Rochelle, 13:10:31
+509, Zaire Stewart, M, 374, Australia, Forster, 13:09:49
+510, Ainhoa Morris, F, 370, Spain, Lugo, 13:15:45
+511, Kael Rogers, M, 376, Italy, Foggia, 13:15:03
+512, Ryan Reed, M, 372, USA, Corpus Christi, 13:21:00
+513, Mikaela Cook, F, 374, Mexico, Ciudad Mante, 13:20:18
+514, Briar Morgan, M, 378, UK, Guildford, 13:26:16
+515, Avah Bell, F, 376, Canada, Stratford, 13:25:34
+516, Edwin Murphy, M, 380, Germany, Recklinghausen, 13:31:33
+517, Mariana Bailey, F, 378, France, Saint-Quentin, 13:30:51
+518, Koen Rivera, M, 382, Australia, Wangaratta, 13:36:51
+519, Alanna Cooper, F, 380, Spain, Toledo, 13:36:09
+520, Briggs Cox, M, 384, Italy, Andria, 13:42:10
+521, Lilia Howard, F, 382, USA, Raleigh, 13:41:28
+522, Elian Ward, M, 386, Mexico, Ciudad Hidalgo, 13:47:30
+523, Kenia Torres, F, 384, UK, Watford, 13:46:48
+524, Zachariah Peterson, M, 388, Canada, New Glasgow, 13:52:51
+525, Milani Gray, F, 386, Germany, Salzgitter, 13:52:09
+526, Tripp Ramirez, M, 390, France, Niort, 13:58:13
+527, Bellamy James, F, 388, Australia, Nowra, 13:57:31
+528, Koda Watson, M, 392, Spain, Huesca, 14:03:36
+529, Angelica Brooks, F, 390, Italy, Caltanissetta, 14:02:54
+530, Cassius Kelly, M, 394, USA, Stockton, 14:09:00
+531, Gia Sanders, F, 392, Mexico, Nogales, 14:08:18
+532, Kylan Price, M, 396, UK, Newport, 14:14:25
+533, Alianna Bennett, F, 394, Canada, Brockville, 14:13:43
+534, Marcel Wood, M, 398, Germany, Gelsenkirchen, 14:19:51
+535, Arely Barnes, F, 396, France, Bayonne, 14:19:09
+536, Ari Ross, M, 400, Australia, Ballina, 14:25:18
+537, Treasure Henderson, F, 398, Spain, Teruel, 14:24:36
+538, Kairo Coleman, M, 402, Italy, L’Aquila, 14:30:46
+539, Paola Jenkins, F, 400, USA, Boise, 14:30:04
+540, Nasir Perry, M, 404, Mexico, Iguala, 14:36:15
+541, Ellianna Long, F, 402, UK, West Bromwich, 14:35:33
+542, Kyson Patterson, M, 406, Canada, Sault Ste. Marie, 14:41:45
+543, Hadlee Hughes, F, 404, Germany, Siegen, 14:41:03
+544, Emmitt Flores, M, 408, France, Carcassonne, 14:47:16
+545, Alessia Washington, F, 406, Australia, Echuca, 14:46:34
+546, Zev Butler, M, 410, Spain, Jaen, 14:52:48
+547, Bailee Simmons, F, 408, Italy, Potenza, 14:52:06
+548, Johnny Foster, M, 412, USA, Anaheim, 14:58:21
+549, Lorelai Gonzales, F, 410, Mexico, Salina Cruz, 14:57:39
+550, Sterling Bryant, M, 414, UK, Stevenage, 15:03:55
+551, Ember Alexander, F, 412, Canada, Okotoks, 15:03:13
+552, Ray Russell, M, 416, Germany, Hildesheim, 15:09:30
+553, Cadence Griffin, F, 414, France, Albi, 15:08:48
+554, Erick Diaz, M, 418, Australia, Sale, 15:15:06
+555, Zaniyah Hayes, F, 416, Spain, Caceres, 15:14:24
+556, Jamir Ford, M, 420, Italy, Brindisi, 15:20:43
+557, Iliana Hamilton, F, 418, USA, Santa Ana, 15:20:01
+558, Kiaan Graham, M, 422, Mexico, Chimalhuacan, 15:26:21
+559, Melani Sullivan, F, 420, UK, Derby, 15:25:39
+560, Kase Wallace, M, 424, Canada, Leduc, 15:32:00
+561, Raelyn Woods, F, 422, Germany, Herford, 15:31:18
+562, Ayan Cole, M, 426, France, Montauban, 15:37:40
+563, Kyndall Murray, F, 424, Australia, Port Macquarie, 15:36:58
+564, Devin Freeman, M, 428, Spain, Palmas, 15:43:21
+565, Zariyah Wells, F, 426, Italy, Avellino, 15:42:39
+566, Kacen Webb, M, 430, USA, Riverside, 15:49:03
+567, Novah Simpson, F, 428, Mexico, Oaxaca, 15:48:21
+568, Memphis Tucker, M, 432, UK, Crawley, 15:54:46
+569, Azariah Porter, F, 430, Canada, Campbell River, 15:54:04
+570, Jon Hicks, M, 434, Germany, Pforzheim, 16:00:30
+571, Ayleen Crawford, F, 432, France, Alencon, 15:59:48
+572, Cassian Henry, M, 436, Australia, Yeppoon, 16:06:15
+573, Nalani Boyd, F, 434, Spain, Guadalajara, 16:05:33
+574, Turner Mason, M, 438, Italy, Barletta, 16:12:01
+575, Madilynn Morales, F, 436, USA, San Bernardino, 16:11:19
+576, Karsen Kennedy, M, 440, Mexico, Mazatlan, 16:17:48
+577, Anahi Butler, F, 438, UK, Eastleigh, 16:17:06
+578, Kyler Bell, M, 442, Canada, Parksville, 16:23:36
+579, Yara Dixon, F, 440, Germany, Gutersloh, 16:22:54
+580, Keegan Fisher, M, 444, France, Bethune, 16:29:25
+581, Treasure Reyes, F, 442, Australia, Port Augusta, 16:28:43
+582, Miller Ellis, M, 446, Spain, Sanlucar, 16:35:15
+583, Aarya Edwards, F, 444, Italy, Caserta, 16:34:33
+584, Casen Collins, M, 448, USA, Oxnard, 16:41:06
+585, Zaylee Richardson, F, 446, Mexico, Villahermosa, 16:40:24
+586, Omari Stewart, M, 450, UK, Chesterfield, 16:46:58
+587, Milena Morris, F, 448, Canada, Steinbach, 16:46:16
+588, Mekhi Rogers, M, 452, Germany, Iserlohn, 16:52:51
+589, Amayah Reed, F, 450, France, Laval, 16:52:09
+590, Zayd Cook, M, 454, Australia, Bendigo, 16:58:45
+591, Elina Morgan, F, 452, Spain, Mijas, 16:58:03
+592, Kristian Bell, M, 456, Italy, Cosenza, 17:04:40
+593, Kaylani Murphy, F, 454, USA, Fontana, 17:03:58
+594, Khalil Bailey, M, 458, Mexico, Culiacan, 17:10:36
+595, Lainey Rivera, F, 456, UK, Scunthorpe, 17:09:54
+596, Byron Cooper, M, 460, Canada, Strathmore, 17:16:33
+597, Jaylee Cox, F, 458, Germany, Duren, 17:15:51
+598, Zaire Howard, M, 462, France, Evreux, 17:22:31
+599, Emberlynn Ward, F, 460, Australia, Horsham, 17:21:49
+600, Callum Torres, M, 464, Spain, Arrecife, 17:28:30
+601, Joelle Peterson, F, 462, Italy, Terni, 17:27:48
+602, Idris Gray, M, 466, USA, Moreno Valley, 17:34:30
+603, Ansley Ramirez, F, 464, Mexico, Tlalnepantla, 17:33:48
+604, Aldo James, M, 468, UK, Carlton, 17:40:31
+605, Ivanna Watson, F, 466, Canada, Cochrane, 17:39:49
+606, Korbin Brooks, M, 470, Germany, Remscheid, 17:46:33
+607, Briella Kelly, F, 468, France, Angouleme, 17:45:51
+608, Idris Sanders, M, 472, Australia, Devonport, 17:52:36
+609, Malaysia Price, F, 470, Spain, Telde, 17:51:54
+610, Kaisen Bennett, M, 474, Italy, Rovigo, 17:58:40
+611, Amora Wood, F, 472, USA, Santa Clarita, 17:57:58
+612, Kian Barnes, M, 476, Mexico, Poza Rica, 18:04:45
+613, Lorelei Ross, F, 474, UK, Wallsend, 18:04:03
+614, Maddex Henderson, F, 478, Canada, Airdrie, 18:10:51
+615, Azalea Coleman, M, 476, Germany, Schwerin, 18:10:09
+616, Trey Jenkins, M, 480, France, Dieppe, 18:16:58
+617, Ellen Perry, F, 478, Australia, Shepparton, 18:16:16
+618, Lyric Long, M, 482, Spain, Girona, 18:23:06
+619, Ayleen Patterson, F, 480, Italy, Ercolano, 18:22:24
+620, Brantley Hughes, M, 484, USA, Huntington Beach, 18:29:15
+621, Anahi Flores, F, 482, Mexico, Lazaro Cardenas, 18:28:33
+622, Om Washington, M, 486, UK, Rhondda, 18:35:25
+623, Brielle Butler, F, 484, Canada, Parksville, 18:34:43
+624, Eithan Simmons, M, 488, Germany, Esslingen, 18:41:36
+625, Jayleen Foster, F, 486, France, La Seyne-sur-Mer, 18:40:54
+626, Kenji Gonzales, M, 490, Australia, Tamworth, 18:47:48
+627, Jianna Bryant, F, 488, Spain, Melilla, 18:47:06
+628, Eithan Alexander, M, 492, Italy, Manfredonia, 18:54:01
+629, Kamilah Russell, F, 490, USA, Modesto, 18:53:19
+630, Rayan Griffin, M, 494, Mexico, Salamanca, 19:00:15
+631, Avah Diaz, F, 492, UK, Nuneaton, 18:59:33
+632, Kairo Hayes, M, 496, Canada, Yellowknife, 19:06:30
+633, Novah Ford, F, 494, Germany, Herten, 19:05:48
+634, Brixton Hamilton, M, 498, France, Annecy, 19:12:46
+635, Emely Graham, F, 496, Australia, Armidale, 19:12:04
+636, Karsyn Sullivan, M, 500, Spain, Ourense, 19:19:03
+637, Miley Wallace, F, 498, Italy, Aversa, 19:18:21
+638, Zavier Woods, M, 502, USA, Fayetteville, 19:25:21
+639, Kaliyah Cole, F, 500, Mexico, Texcoco, 19:24:39
+640, Sincere Murray, M, 504, UK, Tamworth, 19:31:40
+641, Maleah Freeman, F, 502, Canada, Mission, 19:30:58
+642, Kye Wells, M, 506, Germany, Minden, 19:38:00
+643, Alora Webb, F, 504, France, Charleville-Mezieres, 19:37:18
+644, Kylian Simpson, M, 508, Australia, Alice Springs, 19:44:21
+645, Emberly Tucker, F, 506, Spain, Sant Boi, 19:43:39
+646, Ayden Porter, M, 510, Italy, Catanzaro, 19:50:43
+647, Ariah Hicks, F, 508, USA, Fremont, 19:50:01
+648, Marcel Crawford, M, 512, Mexico, Metepec, 19:57:06
+649, Arlet Henry, F, 510, UK, East Kilbride, 19:56:24
+650, Kallen Boyd, M, 514, Canada, Grande Prairie, 20:03:30
+651, Mira Mason, F, 512, Germany, Neumünster, 20:02:48
+652, Emerick Morales, M, 516, France, Castres, 20:09:55
+653, Salma Kennedy, F, 514, Australia, Port Hedland, 20:09:13
+654, Zaire Butler, M, 518, Spain, Santa Coloma, 20:16:21
+655, Ivanna Bell, F, 516, Italy, Guidonia, 20:15:39
+656, Maison Dixon, M, 520, USA, Montgomery, 20:22:48
+657, Nia Fisher, F, 518, Mexico, Zihuatanejo, 20:22:06
+658, Cashton Reyes, M, 522, UK, Salford, 20:29:16
+659, Milani Ellis, F, 520, Canada, Port Alberni, 20:28:34
+660, Krew Edwards, M, 524, Germany, Steinfurt, 20:35:45
+661, Mira Collins, F, 522, France, Arras, 20:35:03
+662, Tadeo Richardson, M, 526, Australia, Mount Isa, 20:42:15
+663, Jaylani Stewart, F, 524, Spain, Cartaya, 20:41:33
+664, Jarrett Morris, M, 528, Italy, Acireale, 20:48:46
+665, Dayana Rogers, F, 526, USA, Shreveport, 20:48:04
+666, Jabari Reed, M, 530, Mexico, Tepic, 20:55:18
+667, Maren Cook, F, 528, UK, Rochford, 20:54:36
+668, Kacen Morgan, M, 532, Canada, Penticton, 21:01:51
+669, Mylah Bell, F, 530, Germany, Witten, 21:01:09
+670, Brixton Murphy, M, 534, France, Grasse, 21:08:25
+671, Nalani Bailey, F, 532, Australia, Rockhampton, 21:07:43
+672, Koen Rivera, M, 536, Spain, Arona, 21:15:00
+673, Giavanna Cooper, F, 534, Italy, Torre del Greco, 21:14:18
+674, Creed Cox, M, 538, USA, Columbus, 21:21:36
+675, Jaylee Howard, F, 536, Mexico, Chilpancingo, 21:20:54
+676, Rhys Ward, M, 540, UK, Worthing, 21:28:13
+677, Marisol Torres, F, 538, Canada, Whitehorse, 21:27:31
+678, Graysen Peterson, M, 542, Germany, Moers, 21:34:51
+679, Kaia Gray, F, 540, France, Chalon-sur-Saone, 21:34:09
+680, Deacon Ramirez, M, 544, Australia, Maitland, 21:41:30
+681, Aubriella James, F, 542, Spain, Linares, 21:40:48
+682, Eliel Watson, M, 546, Italy, Marano, 21:48:10
+683, Ainhoa Brooks, F, 544, USA, Lubbock, 21:47:28
+684, Zakai Kelly, M, 548, Mexico, Huixquilucan, 21:54:51
+685, Mattie Sanders, F, 546, UK, Rotherham, 21:54:09
+686, Kael Price, M, 550, Canada, Corner Brook, 22:01:33
+687, Salem Bennett, F, 548, Germany, Bergisch Gladbach, 22:00:51
+688, Reyansh Wood, M, 552, France, Sete, 22:08:16
+689, Jaslyn Barnes, F, 550, Australia, Kalgoorlie, 22:07:34
+690, Emmitt Ross, M, 554, Spain, Torremolinos, 22:15:00
+691, Liv Henderson, F, 552, Italy, Battipaglia, 22:14:18
+692, Zayd Coleman, M, 556, USA, Garland, 22:21:45
+693, Emelia Jenkins, F, 554, Mexico, San Cristobal, 22:21:03
+694, Byron Perry, M, 558, UK, Harlow, 22:28:31
+695, Remy Long, F, 556, Canada, Langford, 22:27:49
+696, Casen Patterson, M, 560, Germany, Wesel, 22:35:18
+697, Brylee Hughes, F, 558, France, Meaux, 22:34:36
+698, Kannon Flores, M, 562, Australia, Port Lincoln, 22:42:06
+699, Jaylani Washington, F, 560, Spain, Figueres, 22:41:24
+700, Omari Butler, M, 564, Italy, Scafati, 22:48:55
+701, Elora Simmons, F, 562, USA, Reno, 22:48:13
+702, Koda Foster, M, 566, Mexico, Ciudad Juarez, 22:55:45
+703, Zola Gonzales, F, 564, UK, Exeter, 22:55:03
+704, Kase Bryant, M, 568, Canada, Dawson Creek, 23:02:36
+705, Royalty Alexander, F, 566, Germany, Zwickau, 23:01:54
+706, Kylen Russell, M, 570, France, La Roche-sur-Yon, 23:09:28
+707, Treasure Griffin, F, 568, Australia, Emerald, 23:08:46
+708, Magnus Diaz, M, 572, Spain, Reus, 23:16:21
+709, Ila Hayes, F, 570, Italy, Cinisello Balsamo, 23:15:39
+710, Kohen Ford, M, 574, USA, Scottsdale, 23:23:15
+711, Novalee Hamilton, F, 572, Mexico, Tijuana, 23:22:33
+712, Brentley Graham, M, 576, UK, Bury, 23:30:10
+713, Elia Sullivan, F, 574, Canada, Prince Albert, 23:29:28
+714, Kace Wallace, M, 578, Germany, Schwerin, 23:37:06
+715, Emersyn Woods, F, 576, France, Bourges, 23:36:24
+716, Raylan Cole, M, 580, Australia, Mount Gambier, 23:44:03
+717, Gianna Murray, F, 578, Spain, Mijas, 23:43:21
+718, Lyric Freeman, M, 582, Italy, Afragola, 23:51:01
+719, Zendaya Wells, F, 580, USA, Glendale, 23:50:19
+720, Kyrie Webb, M, 584, Mexico, Mexicali, 23:58:00
+721, Shiloh Simpson, F, 582, UK, Burnley, 23:57:18
+722, Zavier Tucker, M, 586, Canada, Saint-Georges, 00:05:00
+723, Emery Porter, F, 584, Germany, Ratingen, 00:04:18
+724, Kairo Hicks, M, 588, France, Valence, 00:12:01
+725, Lyanna Crawford, F, 586, Australia, Gladstone, 00:11:19
+726, Aziel Henry, M, 590, Spain, Puerto Real, 00:19:03
+727, Ayleen Boyd, F, 588, Italy, Viareggio, 00:18:21
+728, Kael Mason, M, 592, USA, Irving, 00:26:06
+729, Liv Morales, F, 590, Mexico, Guanajuato, 00:25:24
+730, Kace Kennedy, M, 594, UK, Lisburn, 00:33:10
+731, Mckinley Butler, F, 592, Canada, Miramichi, 00:32:28
+732, Cassius Bell, M, 596, Germany, Luneburg, 00:40:15
+733, Paola Dixon, F, 594, France, Colmar, 00:39:33
+734, Erick Fisher, M, 598, Australia, Bathurst, 00:47:21
+735, Julissa Reyes, F, 596, Spain, Algeciras, 00:46:39
+736, Bronson Ellis, M, 600, Italy, Aprilia, 00:54:28
+737, Malayah Edwards, F, 598, USA, Chesapeake, 00:53:46
+738, Kylan Collins, M, 602, Mexico, Apodaca, 01:01:36
+739, Amaia Richardson, F, 600, UK, Dunfermline, 01:00:54
+740, Westin Stewart, M, 604, Canada, Medicine Hat, 01:08:45
+741, Magdalena Morris, F, 602, Germany, Koblenz, 01:08:03
+742, Jayceon Rogers, M, 606, France, Drancy, 01:15:55
+743, Amani Reed, F, 604, Australia, Warrnambool, 01:15:13
+744, Kacen Cook, M, 608, Spain, San Sebastian, 01:23:06
+745, Lexi Morgan, F, 606, Italy, Casoria, 01:22:24
+746, Marcel Bell, M, 610, USA, Manchester, 01:30:18
+747, Khloe Murphy, F, 608, Mexico, Zacatecas, 01:29:36
+748, Zaylen Bailey, M, 612, UK, Sutton Coldfield, 01:37:31
+749, Aylin Rivera, F, 610, Canada, Drummondville, 01:36:49
+750, Yadiel Cooper, M, 614, Germany, Bad Homburg, 01:44:45
+751, Avianna Cox, F, 612, France, Villenave-d’Ornon, 01:44:03
+752, Wilson Howard, M, 616, Australia, Burnie, 01:52:00
+753, Jamie Ward, F, 614, Spain, Mataro, 01:51:18
+754, Konnor Torres, M, 618, Italy, Bagheria, 01:59:16
+755, Guinevere Peterson, F, 616, USA, Baltimore, 01:58:34
+756, Alfred Gray, M, 620, Mexico, Ciudad Lopez Mateos, 02:06:33
+757, Coraline Ramirez, F, 618, UK, Chester, 02:05:51
+758, Kase James, M, 622, Canada, Sydney, 02:13:51
+759, Itzel Watson, F, 620, Germany, Norderstedt, 02:13:09
+760, Lyric Brooks, M, 624, France, Saint-Herblain, 02:21:10
+761, Katalina Kelly, F, 622, Australia, Wangaratta, 02:20:28
+762, Misael Sanders, M, 626, Spain, San Fernando, 02:28:30
+763, Marilyn Price, F, 624, Italy, Cuneo, 02:27:48
+764, Karsen Bennett, M, 628, USA, Baton Rouge, 02:35:51
+765, Elodie Wood, F, 626, Mexico, Guasave, 02:35:09
+766, Jamison Barnes, M, 630, UK, Llanelli, 02:43:13
+767, Novalee Ross, F, 628, Canada, Penticton, 02:42:31
+768, Cassian Henderson, M, 632, Germany, Gera, 02:50:36
+769, Madeline Coleman, F, 630, France, Talence, 02:49:54
+770, Kylan Jenkins, M, 634, Australia, Whyalla, 02:58:00
+771, Naya Perry, F, 632, Spain, Villanueva, 02:57:18
+772, Kylian Long, M, 636, Italy, Olbia, 03:05:25
+773, Arlet Patterson, F, 634, USA, Aurora, 03:04:43
+774, Jonathon Hughes, M, 638, Mexico, Irapuato, 03:12:51
+775, Celeste Flores, F, 636, UK, Widnes, 03:12:09
+776, Kashton Washington, M, 640, Canada, Port Moody, 03:20:18
+777, Saige Butler, F, 638, Germany, Bayreuth, 03:19:36
+778, Kyro Simmons, M, 642, France, Bourg-en-Bresse, 03:27:46
+779, Jaliyah Foster, F, 640, Australia, Orange, 03:27:04
+780, Brantley Gonzales, M, 644, Spain, Elda, 03:35:15
+781, Kallie Bryant, F, 642, Italy, Sanremo, 03:34:33
+782, Beckham Alexander, M, 646, USA, Little Rock, 03:42:45
+783, Zara Russell, F, 644, Mexico, Orizaba, 03:42:03
+784, Davian Griffin, M, 648, UK, Basingstoke, 03:50:16
+785, Ariella Diaz, F, 646, Canada, St. Albert, 03:49:34
+786, Kiaan Hayes, M, 650, Germany, Hamm, 03:57:48
+787, Daleyza Ford, F, 648, France, Aix-les-Bains, 03:57:06
+788, Kacen Hamilton, M, 652, Australia, Coffs Harbour, 04:05:21
+789, Kimberly Graham, F, 650, Spain, Santander, 04:04:39
+790, Kristian Sullivan, M, 654, Italy, Andria, 04:12:55
+791, Dayana Wallace, F, 652, USA, Stockton, 04:12:13
+792, Idris Woods, M, 656, Mexico, San Juan del Rio, 04:20:30
+793, Belle Cole, F, 654, UK, Kings Lynn, 04:19:48
+794, Koen Murray, M, 658, Canada, Spruce Grove, 04:28:06
+795, Anika Freeman, F, 656, Germany, Gladbeck, 04:27:24
+796, Azael Wells, M, 660, France, Saint-Brieuc, 04:35:43
+797, Rayne Webb, F, 658, Australia, Port Pirie, 04:35:01
+798, Camdyn Simpson, M, 662, Spain, Siero, 04:43:21
+799, Heaven Tucker, F, 660, Italy, Foligno, 04:42:39
+800, Sutton Porter, M, 664, USA, Winston-Salem, 04:51:00
+801, Nala Hicks, F, 662, Mexico, Tehuacan, 04:50:18
+802, Alijah Crawford, M, 666, UK, Harrogate, 04:58:40
+803, Raegan Henry, F, 664, Canada, Newmarket, 04:57:58
+804, Ulises Boyd, M, 668, Germany, Landshut, 05:06:21
+805, Alisson Mason, F, 666, France, Martigues, 05:05:39
+806, Zayd Morales, M, 670, Australia, Gladstone, 05:14:03
+807, Annalise Kennedy, F, 668, Spain, Alcobendas, 05:13:21
+808, Arian Butler, M, 672, Italy, Ladispoli, 05:21:46
+809, Briar Bell, F, 670, USA, Boise, 05:21:04
+810, Yahir Dixon, M, 674, Mexico, Cd. Acuna, 05:29:30
+811, Arlet Fisher, F, 672, UK, Margate, 05:28:48
+812, Kaelen Reyes, M, 676, Canada, Estevan, 05:37:15
+813, Bellamy Ellis, F, 674, Germany, Friedrichshafen, 05:36:33
+814, Zaire Edwards, M, 678, France, Briancon, 05:45:01
+815, Kaiya Collins, F, 676, Australia, Mount Barker, 05:44:19
+816, Kase Richardson, M, 680, Spain, Cerdanyola, 05:52:48
+817, Rosalyn Stewart, F, 678, Italy, Fasano, 05:52:06
+818, Kylian Morris, M, 682, USA, Riverside, 06:00:36
+819, Alianna Rogers, F, 680, Mexico, Ciudad Valles, 05:59:54
+820, Kian Reed, M, 684, UK, Stafford, 06:08:25
+821, Kamryn Cook, F, 682, Canada, White Rock, 06:07:43
+822, Kacen Morgan, M, 686, Germany, Stralsund, 06:16:15
+823, Salma Bell, F, 684, France, Montlucon, 06:15:33
+824, Elian Murphy, M, 688, Australia, Traralgon, 06:24:06
+825, Nyla Bailey, F, 686, Spain, Motril, 06:23:24
+826, Jon Rivera, M, 690, Italy, Brindisi, 06:31:58
+827, Kenna Cooper, F, 688, USA, Chandler, 06:31:16
+828, Mekhi Cox, M, 692, Mexico, Escobedo, 06:39:51
+829, Lara Howard, F, 690, UK, Hartlepool, 06:39:09
+830, Marcel Ward, M, 694, Canada, Courtenay, 06:47:45
+831, Kora Torres, F, 692, Germany, Goppingen, 06:47:03
+832, Edison Peterson, M, 696, France, Sannois, 06:55:40
+833, Lina Gray, F, 694, Australia, Moe, 06:54:58
+834, Brantley Ramirez, M, 698, Spain, Alcala de Guadaira, 07:03:36
+835, Mira James, F, 696, Italy, Portici, 07:02:54
+836, Karsen Watson, M, 700, USA, Scottsdale, 07:11:33
+837, Alaya Brooks, F, 698, Mexico, Cosoleacaque, 07:10:51
+838, Alfred Kelly, M, 702, UK, Wakefield, 07:19:31
+839, Jaelynn Sanders, F, 700, Canada, Lethbridge, 07:18:49
+840, Reyansh Price, M, 704, Germany, Worms, 07:27:30
+841, Alaia Bennett, F, 702, France, La Ciotat, 07:26:48
+842, Zaire Wood, M, 706, Australia, Hervey Bay, 07:35:30
+843, Raquel Barnes, F, 704, Spain, Lleida, 07:34:48
+844, Koa Ross, M, 708, Italy, Acerra, 07:43:31
+845, Nylah Henderson, F, 706, USA, San Francisco, 07:42:49
+846, Lucian Coleman, M, 710, Mexico, San Luis Rio Colorado, 07:51:33
+847, Jazlyn Jenkins, F, 708, UK, Blackburn, 07:50:51
+848, Kylan Perry, M, 712, Canada, Sault Ste. Marie, 07:59:36
+849, Scout Long, F, 710, Germany, Lunen, 07:58:54
+850, Kole Patterson, M, 714, France, Saint-Ouen, 08:07:40
+851, Ember Hughes, F, 712, Australia, Forster, 08:06:58
+852, Kylen Flores, M, 716, Spain, Cieza, 08:15:45
+853, Itzel Washington, F, 714, Italy, Afragola, 08:15:03
+854, Karter Butler, M, 718, USA, Akron, 08:23:51
+855, Avah Simmons, F, 716, Mexico, Fresnillo, 08:23:09
+856, Magnus Foster, M, 720, UK, Grimsby, 08:31:58
+857, Kennedi Gonzales, F, 718, Canada, Chilliwack, 08:31:16
+858, Zayden Bryant, M, 722, Germany, Wetzlar, 08:40:06
+859, Cora Alexander, F, 720, France, Choisy-le-Roi, 08:39:24
+860, Ayan Russell, M, 724, Australia, Goulburn, 08:48:15
+861, Jaliyah Griffin, F, 722, Spain, San Bartolome, 08:47:33
+862, Kyler Diaz, M, 726, Italy, Ercolano, 08:56:25
+863, Bailee Hayes, F, 724, USA, Fort Wayne, 08:55:43
+864, Kiaan Ford, M, 728, Mexico, Tulancingo, 09:04:36
+865, Amaris Hamilton, F, 726, UK, Bathgate, 09:03:54
+866, Kase Graham, M, 730, Canada, Quesnel, 09:12:48
+867, Malaysia Sullivan, F, 728, Germany, Bocholt, 09:12:06
+868, Krew Wallace, M, 732, France, Roanne, 09:21:01
+869, Myla Woods, F, 730, Australia, Sale, 09:20:19
+870, Alijah Cole, M, 734, Spain, Torrevieja, 09:29:15
+871, Ayleen Murray, F, 732, Italy, Cosenza, 09:28:33
+872, Cristian Freeman, M, 736, USA, Glendale, 09:37:30
+873, Mckinley Wells, F, 734, Mexico, Ciudad Mante, 09:36:48
+874, Zyaire Webb, M, 738, UK, Eastbourne, 09:45:46
+875, Laylah Simpson, F, 736, Canada, Nelson, 09:45:04
+876, Marcellus Tucker, M, 740, Germany, Celle, 09:54:03
+877, Annabella Porter, F, 738, France, Clermont-Ferrand, 09:53:21
+878, Kacen Hicks, M, 742, Australia, Warrnambool, 10:02:21
+879, Veronica Crawford, F, 740, Spain, Silla, 10:01:39
+880, Kyree Henry, M, 744, Italy, Catanzaro, 10:10:40
+881, Emory Boyd, F, 742, USA, Fresno, 10:09:58
+882, Kenji Mason, M, 746, Mexico, Macuspana, 10:19:00
+883, Emmy Morales, F, 744, UK, Nuneaton, 10:18:18
+884, Cassian Kennedy, M, 748, Canada, Dawson Creek, 10:27:21
+885, Arleth Butler, F, 746, Germany, Kempten, 10:26:39
+886, Boston Bell, M, 750, France, Saintes, 10:35:43
+887, Ariella Dixon, F, 748, Australia, Devonport, 10:35:01
+888, Zaire Fisher, M, 752, Spain, Villajoyosa, 10:44:06
+889, Ariyah Reyes, F, 750, Italy, Aversa, 10:43:24
+890, Aryan Ellis, M, 754, USA, Lubbock, 10:52:30
+891, Braelyn Edwards, F, 752, Mexico, Ciudad Delicias, 10:51:48
+892, Armani Collins, M, 756, UK, Morecambe, 11:00:55
+893, Aliana Richardson, F, 754, Canada, Stouffville, 11:00:13
+894, Kye Stewart, M, 758, Germany, Kaiserslautern, 11:09:21
+895, Madalynn Morris, F, 756, France, Vichy, 11:08:39
+896, Eliezer Rogers, M, 760, Australia, Port Augusta, 11:17:48
+897, Helena Reed, F, 758, Spain, Viladecans, 11:17:06
+898, Azael Cook, M, 762, Italy, Lamezia Terme, 11:26:16
+899, Jream Morgan, F, 760, USA, Irving, 11:25:34
+900, Kolton Bell, M, 764, Mexico, Ciudad Altamirano, 11:34:45
+901, Promise Murphy, F, 762, UK, Dudley, 11:34:03
+902, Jakobe Bailey, M, 766, Canada, Owen Sound, 11:43:15
+903, Estrella Rivera, F, 764, Germany, Schwabisch Gmund, 11:42:33
+904, Karsen Cooper, M, 768, France, Melun, 11:51:46
+905, Aviana Cox, F, 766, Australia, Shepparton, 11:51:04
+906, Kasen Howard, M, 770, Spain, Torrelavega, 12:00:18
+907, Kamari Ward, F, 768, Italy, Crotone, 11:59:36
+908, Kyro Torres, M, 772, USA, New Orleans, 12:08:51
+909, Brynlee Peterson, F, 770, Mexico, Guasave, 12:08:09
+910, Kannon Gray, M, 774, UK, Wallasey, 12:17:25
+911, Avianna Ramirez, F, 772, Canada, Brooks, 12:16:43
+912, Lian James, M, 776, Germany, Giengen, 12:26:00
+913, Anahi Watson, F, 774, France, Haguenau, 12:25:18
+914, Trey Brooks, M, 778, Australia, Echuca, 12:34:36
+915, Arlet Kelly, F, 776, Spain, Laredo, 12:33:54
+916, Omari Sanders, M, 780, Italy, Trapani, 12:43:13
+917, Elia Price, F, 778, USA, Anchorage, 12:42:31
+918, Zaylen Bennett, M, 782, Mexico, Nogales, 12:51:51
+919, Milana Wood, F, 780, UK, Scunthorpe, 12:51:09
+920, Jax Barnes, M, 784, Canada, Sorel-Tracy, 13:00:30
+921, Malayah Ross, F, 782, Germany, Sindelfingen, 12:59:48
+922, Kylar Henderson, M, 786, France, Saint-Chamond, 13:09:10
+923, Madilyn Coleman, F, 784, Australia, Mount Gambier, 13:08:28
+924, Kace Jenkins, M, 788, Spain, Ecija, 13:17:51
+925, Kaia Perry, F, 786, Italy, Anzio, 13:17:09
+926, Axton Long, M, 790, USA, Garland, 13:26:33
+927, Emely Patterson, F, 788, Mexico, Parral, 13:25:51
+928, Kylian Hughes, M, 792, UK, Hastings, 13:35:16
+929, Emeri Flores, F, 790, Canada, Cranbrook, 13:34:34
+930, Eliel Washington, M, 794, Germany, Neubrandenburg, 13:44:00
+931, Amina Butler, F, 792, France, Romans-sur-Isere, 13:43:18
+932, Karsyn Simmons, M, 796, Australia, Port Macquarie, 13:52:45
+933, Renata Foster, F, 794, Spain, Parla, 13:52:03
+934, Jakobe Gonzales, M, 798, Italy, Massa, 14:01:31
+935, Alianna Bryant, F, 796, USA, Colorado Springs, 14:00:49
+936, Kallen Alexander, M, 800, Mexico, Tecate, 14:10:18
+937, Xiomara Russell, F, 798, UK, Dunstable, 14:09:36
+938, Cristian Griffin, M, 802, Canada, Whitehorse, 14:19:06
+939, Alaia Diaz, F, 800, Germany, Fulda, 14:18:24
+940, Randy Hayes, M, 804, France, Saint-Germain-en-Laye, 14:27:55
+941, Veda Ford, F, 802, Australia, Mildura, 14:27:13
+942, Emmitt Hamilton, M, 806, Spain, Pinto, 14:36:45
+943, Anahi Graham, F, 804, Italy, Casoria, 14:36:03
+944, Rohan Sullivan, M, 808, USA, Plano, 14:45:36
+945, Idris Wallace, M, 806, Mexico, Apizaco, 14:44:54
+946, Nayeli Woods, F, 810, UK, Barrow, 14:54:28
+947, Kylar Cole, M, 812, Canada, Timmins, 14:53:46
+948, Mckinley Murray, F, 808, Germany, Sindelfingen, 15:03:21
+949, Koen Freeman, M, 814, France, Saintes, 15:02:39
+950, Anya Wells, F, 810, Australia, Ballarat, 15:12:15
+951, Devin Webb, M, 816, Spain, Estepona, 15:11:33
+952, Emely Simpson, F, 812, Italy, Aprilia, 15:21:10
+953, Karsen Tucker, M, 818, USA, Henderson, 15:20:28
+954, Hallie Porter, F, 814, Mexico, Ciudad Camargo, 15:30:06
+955, Edison Hicks, M, 820, UK, Southport, 15:29:24
+956, Maliyah Crawford, F, 816, Canada, Corner Brook, 15:39:03
+957, Kole Henry, M, 822, Germany, Offenburg, 15:38:21
+958, Bailee Boyd, F, 818, France, Marne-la-Vallee, 15:48:01
+959, Koa Mason, M, 824, Australia, Karratha, 15:47:19
+960, Aliya Morales, F, 820, Spain, Granollers, 15:57:00
+961, Jonathon Kennedy, M, 826, Italy, Aprilia, 15:56:18
+962, Payton Butler, F, 822, USA, Newark, 16:06:00
+963, Kristian Bell, M, 828, Mexico, Emiliano Zapata, 16:05:18
+964, Mikaela Dixon, F, 824, UK, Cumbernauld, 16:15:01
+965, Emilio Fisher, M, 830, Canada, Port Elgin, 16:14:19
+966, Kataleya Reyes, F, 826, Germany, Ahlen, 16:24:03
+967, Kacen Ellis, M, 832, France, Saint-Malo, 16:23:21
+968, Galilea Edwards, F, 828, Australia, Maryborough, 16:33:06
+969, Kael Collins, M, 834, Spain, Villena, 16:32:24
+970, Rosalie Richardson, F, 830, Italy, Giugliano, 16:42:10
+971, Zayd Stewart, M, 836, USA, Toledo, 16:41:28
+972, Ayleen Morris, F, 832, Mexico, San Pedro, 16:51:15
+973, Zechariah Rogers, M, 838, UK, Workington, 16:50:33
+974, Arlet Reed, F, 834, Canada, Yorkton, 17:00:21
+975, Karsen Cook, M, 840, Germany, Langen, 16:59:39
+976, Miley Morgan, F, 836, France, Compiegne, 17:09:28
+977, Rohan Bell, M, 842, Australia, Warrnambool, 17:08:46
+978, Jasmin Murphy, F, 838, Spain, Aranjuez, 17:18:36
+979, Jamison Bailey, M, 844, Italy, Guidonia, 17:17:54
+980, Aya Rivera, F, 840, USA, St. Paul, 17:27:45
+981, Sterling Cooper, M, 846, Mexico, Comitan, 17:27:03
+982, Idris Cox, F, 842, UK, Loughborough, 17:36:55
+983, Kyan Howard, M, 848, Canada, North Vancouver, 17:36:13
+984, Salma Ward, F, 844, Germany, Weiden, 17:46:06
+985, Axton Torres, M, 850, France, Henin-Beaumont, 17:45:24
+986, Alaiya Peterson, F, 846, Australia, Burnie, 17:55:18
+987, Kingsley Gray, M, 852, Spain, Torremolinos, 17:54:36
+988, Madisyn Ramirez, F, 848, Italy, Casoria, 18:04:31
+989, Kylen James, M, 854, USA, Corpus Christi, 18:03:49
+990, Bridget Watson, F, 850, Mexico, Minatitlan, 18:13:45
+991, Kacen Brooks, M, 856, UK, Rugby, 18:13:03
+992, Alena Kelly, F, 852, Canada, Grande Prairie, 18:23:00
+993, Kaden Sanders, M, 858, Germany, Lingen, 18:22:18
+994, Arlet Price, F, 854, France, Six-Fours-les-Plages, 18:32:16
+995, Braiden Bennett, M, 860, Australia, Whyalla, 18:31:34
+996, Elliana Wood, F, 856, Spain, Rivas-Vaciamadrid, 18:41:33
+997, Kyng Barnes, M, 862, Italy, Guidonia, 18:40:51
+998, Lilyana Ross, F, 858, USA, Jersey City, 18:50:51
+999, Kaelen Henderson, M, 864, Mexico, Xalapa, 18:50:09
+1000, Viviana Coleman, F, 860, UK, Basildon, 19:00:10
+1001, Kylan Jenkins, M, 866, Canada, Brockville, 18:59:28
+1002, Maren Perry, F, 862, Germany, Eschweiler, 19:09:29
+1003, Kael Long, M, 868, France, Schiltigheim, 19:08:47
+1004, Lainey Patterson, F, 864, Australia, Gladstone, 19:18:49
+1005, Kashton Hughes, M, 870, Spain, Coslada, 19:18:07
+1006, Giavanna Flores, F, 866, Italy, Crotone, 19:28:10
+1007, Kyson Washington, M, 872, USA, Chandler, 19:27:28
+1008, Maliah Butler, F, 868, Mexico, Ciudad Valles, 19:37:32
+1009, Kylian Simmons, M, 874, UK, Gosport, 19:36:50
+1010, Elora Foster, F, 870, Canada, Drummondville, 19:46:55
+1011, Kairo Gonzales, M, 876, Germany, Limburg, 19:46:13
+1012, Aya Bryant, F, 872, France, Saint-Martin-d'Heres, 19:56:19
+1013, Jamir Alexander, M, 878, Australia, Orange, 19:55:37
+1014, Briar Russell, F, 874, Spain, Majadahonda, 20:05:44
+1015, Kacen Griffin, M, 880, Italy, Mariano Comense, 20:05:02
+1016, Alisson Diaz, F, 876, USA, Reno, 20:15:10
+1017, Ayan Hayes, M, 882, Mexico, Tulancingo, 20:14:28
+1018, Kenna Ford, F, 878, UK, Peterlee, 20:24:37
+1019, Kylar Hamilton, M, 884, Canada, New Glasgow, 20:23:55
+1020, Dayana Graham, F, 880, Germany, Stade, 20:34:05
+1021, Elian Sullivan, M, 886, France, Beaune, 20:33:23
+1022, Aubriella Wallace, F, 882, Australia, Devonport, 20:43:34
+1023, Kameron Woods, M, 888, Spain, Mislata, 20:42:52
+1024, Janiyah Cole, F, 884, Italy, Afragola, 20:53:04
+1025, Kannon Murray, M, 890, USA, Baton Rouge, 20:52:22
+1026, Briella Freeman, F, 886, Mexico, Tula, 21:02:35
+1027, Kamdyn Wells, M, 892, UK, Stafford, 21:01:53
+1028, Ariella Webb, F, 888, Canada, Miramichi, 21:12:07
+1029, Kylen Simpson, M, 894, Germany, Dorsten, 21:11:25
+1030, Lorelei Tucker, F, 890, France, Oyonnax, 21:21:40
+1031, Kace Porter, M, 896, Australia, Burnie, 21:20:58
+1032, Paola Hicks, F, 892, Spain, Mijas, 21:31:14
+1033, Kyson Crawford, M, 898, Italy, Altamura, 21:30:32
+1034, Alora Henry, F, 894, USA, Hialeah, 21:40:49
+1035, Kael Boyd, M, 900, Mexico, Xalapa, 21:40:07
+1036, Avianna Mason, F, 896, UK, Hinckley, 21:50:25
+1037, Karsen Morales, F, 898, Canada, Stratford, 21:49:43
+1038, Zev Kennedy, M, 902, Germany, Herne, 22:00:02
+1039, Nalani Butler, F, 900, France, Romans-sur-Isere, 21:59:20
+1040, Koda Bell, M, 904, Australia, Shepparton, 22:09:40
+1041, Jaslyn Dixon, F, 902, Spain, Olesa, 22:08:58
+1042, Kole Fisher, M, 906, Italy, Molfetta, 22:19:19
+1043, Briella Reyes, F, 904, USA, Aurora, 22:18:37
+1044, Kiaan Ellis, M, 908, Mexico, Fresnillo, 22:28:59
+1045, Emersyn Edwards, F, 906, UK, Cheltenham, 22:28:17
+1046, Axton Collins, M, 910, Canada, Moose Jaw, 22:38:40
+1047, Maleah Richardson, F, 908, Germany, Gutersloh, 22:37:58
+1048, Kylen Stewart, M, 912, France, Cagnes-sur-Mer, 22:48:22
+1049, Nala Morris, F, 910, Australia, Warrnambool, 22:47:40
+1050, Kace Rogers, M, 914, Spain, Catarroja, 22:58:05
+1051, Ayleen Reed, F, 912, Italy, Casoria, 22:57:23
+1052, Kaelen Cook, M, 916, USA, Spokane, 23:07:49
+1053, Raelyn Morgan, F, 914, Mexico, Ciudad Lopez Mateos, 23:07:07
+1054, Kyan Bell, M, 918, UK, Farnborough, 23:17:34
+1055, Ensley Murphy, F, 916, Canada, Leduc, 23:16:52
+1056, Azael Bailey, M, 920, Germany, Wesel, 23:27:20
+1057, Salem Rivera, F, 918, France, Orange, 23:26:38
+1058, Krew Cooper, M, 922, Australia, Port Augusta, 23:37:07
+1059, Kenzie Cox, F, 920, Spain, Paterna, 23:36:25
+1060, Kairo Howard, M, 924, Italy, Cinisello Balsamo, 23:46:55
+1061, Mckinley Ward, F, 922, USA, Fort Lauderdale, 23:46:13
+1062, Kannon Torres, M, 926, Mexico, Ciudad Acuna, 23:56:44
+1063, Lina Peterson, F, 924, UK, Fleetwood, 23:56:02
+1064, Kason Gray, M, 928, Canada, Whitecourt, 00:06:34
+1065, Amira Ramirez, F, 926, Germany, Marburg, 00:05:52
+1066, Kylen James, M, 930, France, Draguignan, 00:16:25
+1067, Amaya Watson, F, 928, Australia, Goulburn, 00:15:43
+1068, Kase Brooks, M, 932, Spain, Alcoy, 00:26:17
+1069, Gracelynn Kelly, F, 930, Italy, Ercolano, 00:25:35
+1070, Karsen Sanders, M, 934, USA, Santa Clarita, 00:36:10
+1071, Nia Price, F, 932, Mexico, Salina Cruz, 00:35:28
+1072, Kylan Bennett, M, 936, UK, Gillingham, 00:46:04
+1073, Aria Wood, F, 934, Canada, Parksville, 00:45:22
+1074, Kacen Barnes, M, 938, Germany, Pinneberg, 00:55:59
+1075, Tessa Ross, F, 936, France, Castres, 00:55:17
+1076, Karsyn Henderson, M, 940, Australia, Tamworth, 01:05:55
+1077, Paityn Coleman, F, 938, Spain, Guadalajara, 01:05:13
+1078, Kyro Jenkins, M, 942, Italy, Aprilia, 01:15:52
+1079, Annika Perry, F, 940, USA, Lubbock, 01:15:10
+1080, Kaelen Long, M, 944, Mexico, Tepic, 01:25:50
+1081, Madilynn Patterson, F, 942, UK, Keighley, 01:25:08
+1082, Kairo Hughes, M, 946, Canada, Charlottetown, 01:35:49
+1083, Elena Flores, F, 944, Germany, Neuwied, 01:35:07
+1084, Karsen Washington, M, 948, France, Maubeuge, 01:45:49
+1085, Kaylani Butler, F, 946, Australia, Mount Barker, 01:45:07
+1086, Kace Simmons, M, 950, Spain, Castelldefels, 01:55:50
+1087, Alianna Foster, F, 948, Italy, Terracina, 01:55:08
+1088, Kylen Gonzales, M, 952, USA, Chesapeake, 02:05:52
+1089, Angelica Bryant, F, 950, Mexico, Ciudad Delicias, 02:05:10
+1090, Kase Alexander, M, 954, UK, Crosby, 02:15:55
+1091, Annalise Russell, F, 952, Canada, Port Alberni, 02:15:13
+1092, Krew Griffin, M, 956, Germany, Kornwestheim, 02:25:59
+1093, Jillian Diaz, F, 954, France, Saint-Priest, 02:25:17
+1094, Kaison Hayes, M, 958, Australia, Gladstone, 02:36:04
+1095, Madalyn Ford, F, 956, Spain, San Feliu, 02:35:22
+1096, Kylan Hamilton, M, 960, Italy, Casoria, 02:46:10
+1097, Liana Graham, F, 958, USA, Chandler, 02:45:28
+1098, Kacen Sullivan, M, 962, Mexico, Minatitlan, 02:56:17
+1099, Ivory Wallace, F, 960, UK, Welwyn Garden City, 02:55:35
+1100, Kyan Woods, M, 964, Canada, Fort St. John, 03:06:25
+1101, Hattie Cole, F, 962, Germany, Neu-Ulm, 03:05:43
+1102, Kason Murray, M, 966, France, Thionville, 03:16:34
+1103, Rayna Freeman, F, 964, Australia, Burnie, 03:15:52
+1104, Kole Wells, M, 968, Spain, Sardañola, 03:26:44
+1105, Lylah Webb, F, 966, Italy, Formia, 03:26:02
+1106, Kyson Simpson, M, 970, USA, Fort Wayne, 03:36:55
+1107, Milani Tucker, F, 968, Mexico, Ciudad Madero, 03:36:13
+1108, Kael Porter, M, 972, UK, Woking, 03:47:07
+1109, Xiomara Hicks, F, 970, Canada, Parksville, 03:46:25
+1110, Kylar Crawford, M, 974, Germany, Reinbek, 03:57:20
+1111, Allyson Henry, F, 972, France, Meyzieu, 03:56:38
+1112, Karsen Boyd, M, 976, Australia, Port Macquarie, 04:07:34
+1113, Ariah Mason, F, 974, Spain, Barbera, 04:06:52
+1114, Kaelen Morales, M, 978, Italy, Porto Torres, 04:17:49
+1115, Novalee Kennedy, F, 976, USA, Greensboro, 04:17:07
+1116, Kole Butler, M, 980, Mexico, Cuautitlan, 04:28:05
+1117, Amira Bell, F, 978, UK, Royal Leamington Spa, 04:27:23
+1118, Kyan Dixon, M, 982, Canada, Brandon, 04:38:22
+1119, Maren Fisher, F, 980, Germany, Ettlingen, 04:37:40
+1120, Kacen Reyes, M, 984, France, Le Blanc-Mesnil, 04:48:40
+1121, Lillianna Ellis, F, 982, Australia, Nowra, 04:47:58
+1122, Kayson Edwards, M, 986, Spain, San Andres, 04:58:59
+1123, Marleigh Collins, F, 984, Italy, Teramo, 04:58:17
+1124, Kael Richardson, M, 988, USA, Lincoln, 05:09:19
+1125, Brittany Stewart, F, 986, Mexico, Ciudad Guzman, 05:08:37
+1126, Kole Morris, M, 990, UK, High Wycombe, 05:19:40
+1127, Kara Rogers, F, 988, Canada, Steinbach, 05:18:58
+1128, Kylan Reed, M, 992, Germany, Goslar, 05:30:02
+1129, Noelle Cook, F, 990, France, Montigny-les-Cormeilles, 05:29:20
+1130, Kacen Morgan, M, 994, Australia, Karratha, 05:40:25
+1131, Maggie Bell, F, 992, Spain, Silla, 05:39:43
+1132, Karsyn Murphy, M, 996, Italy, Acerra, 05:50:49
+1133, Kynlee Bailey, F, 994, USA, Plano, 05:50:07
+1134, Kye Rivera, M, 998, Mexico, Ciudad Juarez, 06:01:14
+1135, Roselyn Cooper, F, 996, UK, South Shields, 06:00:32
+1136, Kyson Cox, M, 1000, Canada, Duncan, 06:11:40
+1137, Aliya Howard, F, 998, Germany, Heidenheim, 06:10:58
+1138, Kael Ward, M, 1002, France, Chaumont, 06:22:07
+1139, Aylin Torres, F, 1000, Australia, Busselton, 06:21:25
+1140, Koda Peterson, M, 1004, Spain, San Vicente, 06:32:35
+1141, Anahi Gray, F, 1002, Italy, Casarano, 06:31:53
+1142, Karsen Ramirez, M, 1006, USA, Orlando, 06:43:04
+1143, Ayleen James, F, 1004, Mexico, Ciudad Obregon, 06:42:22
+1144, Kace Watson, M, 1008, UK, Horsham, 06:53:34
+1145, Ailani Brooks, F, 1006, Canada, North Bay, 06:52:52
+1146, Kylen Kelly, M, 1010, Germany, Menden, 07:04:05
+1147, Nadia Sanders, F, 1008, France, Frontignan, 07:03:23
+1148, Kaison Price, M, 1012, Australia, Gladstone, 07:14:37
+1149, Lexi Bennett, F, 1010, Spain, Majadahonda, 07:13:55
+1150, Kole Wood, M, 1014, Italy, Afragola, 07:25:10
+1151, Raegan Barnes, F, 1012, USA, Bakersfield, 07:24:28
+1152, Kyan Ross, M, 1016, Mexico, Ciudad Mante, 07:35:44
+1153, Malia Henderson, F, 1014, UK, Hove, 07:35:02
+1154, Kaelen Coleman, F, 1018, Canada, Cranbrook, 07:46:19
+1155, Zayd Jenkins, M, 1020, Germany, Buchholz, 07:45:37
+1156, Amayah Perry, F, 1016, France, Chenove, 07:56:55
+1157, Karson Long, M, 1022, Australia, Orange, 07:56:13
+1158, Mylah Patterson, F, 1018, Spain, Siero, 08:07:32
+1159, Kacen Hughes, M, 1024, Italy, Velletri, 08:06:50
+1160, Emely Flores, F, 1020, USA, Durham, 08:18:10
+1161, Kael Washington, M, 1026, Mexico, San Juan del Rio, 08:17:28
+1162, Daleyza Butler, F, 1022, UK, Weymouth, 08:28:49
+1163, Kyler Simmons, M, 1028, Canada, Campbell River, 08:28:07
+1164, Ariella Foster, F, 1024, Germany, Schorndorf, 08:39:29
+1165, Kayson Gonzales, M, 1030, France, Saint-Sebastien-sur-Loire, 08:38:47
+1166, Blakely Bryant, F, 1026, Australia, Port Pirie, 08:50:10
+1167, Kaelen Alexander, M, 1032, Spain, Dos Hermanas, 08:49:28
+1168, Pearl Russell, F, 1028, Italy, Sciacca, 09:00:52
+1169, Kacen Griffin, M, 1034, USA, Buffalo, 09:00:10
+1170, Kynlee Diaz, F, 1030, Mexico, Cuautitlan, 09:11:35
+1171, Kole Hayes, M, 1036, UK, Lowestoft, 09:10:53
+1172, Elina Ford, F, 1032, Canada, Oshawa, 09:22:19
+1173, Kyan Hamilton, M, 1038, Germany, Gummersbach, 09:21:37
+1174, Kennedi Graham, F, 1034, France, Le Creusot, 09:33:04
+1175, Kace Sullivan, M, 1040, Australia, Devonport, 09:32:22
+1176, Avah Wallace, F, 1036, Spain, Sardañola, 09:43:50
+1177, Kaelen Woods, M, 1042, Italy, Corato, 09:43:08
+1178, Maren Cole, F, 1038, USA, Stockton, 09:54:37
+1179, Kase Murray, M, 1044, Mexico, Ciudad Juarez, 09:53:55
+1180, Kenzie Freeman, F, 1040, UK, Rhyl, 10:05:25
+1181, Kylen Wells, M, 1046, Canada, Fredericton, 10:04:43
+1182, Sariah Webb, F, 1042, Germany, Rastatt, 10:16:14
+1183, Kason Simpson, M, 1048, France, La Garde, 10:15:32
+1184, Lina Tucker, F, 1044, Australia, Traralgon, 10:27:04
+1185, Kole Porter, M, 1050, Spain, Basauri, 10:26:22
+1186, Lorelei Hicks, F, 1046, Italy, Pomigliano d'Arco, 10:37:55
+1187, Kairo Crawford, M, 1052, USA, Winston-Salem, 10:37:13
+1188, Lucille Henry, F, 1048, Mexico, Tehuacan, 10:48:47
+1189, Karsyn Boyd, M, 1054, UK, Scarborough, 10:48:05
+1190, Ariah Mason, F, 1050, Canada, Yorkton, 10:59:40
+1191, Kaelen Morales, M, 1056, Germany, Grevenbroich, 10:58:58
+1192, Millie Kennedy, F, 1052, France, Salon-de-Provence, 11:10:34
+1193, Kole Butler, M, 1058, Australia, Warrnambool, 11:09:52
+1194, Zariyah Bell, F, 1054, Spain, Torrent, 11:21:29
+1195, Kyan Dixon, M, 1060, Italy, Sant’Antimo, 11:20:47
+1196, Ayleen Fisher, F, 1056, USA, Garland, 11:32:25
+1197, Kaelen Reyes, M, 1062, Mexico, Emiliano Zapata, 11:31:43
+1198, Madelynn Ellis, F, 1058, UK, Bridgend, 11:43:22
+1199, Kole Edwards, M, 1064, Canada, Sarnia, 11:42:40
+1200, Saige Collins, F, 1060, Germany, Werder, 11:54:20
+1201, Kason Richardson, M, 1066, France, Epinal, 11:53:38
+1202, Leilany Stewart, F, 1062, Australia, Goulburn, 12:05:19
+1203, Kaelen Morris, M, 1068, Spain, Blanes, 12:04:37
+1204, Emersyn Rogers, F, 1064, Italy, Cava de' Tirreni, 12:16:19
+1205, Kole Reed, M, 1070, USA, Boise, 12:15:37
+1206, Ivanna Cook, F, 1066, Mexico, Tulancingo, 12:27:20
+1207, Karsen Morgan, M, 1072, UK, Kettering, 12:26:38
+1208, Iliana Bell, F, 1068, Canada, Quesnel, 12:38:22
+1209, Kyan Murphy, M, 1074, Germany, Meerbusch, 12:37:40
+1210, Zola Bailey, F, 1070, France, Aix-les-Bains, 12:49:25
+1211, Kaelen Rivera, M, 1076, Australia, Shepparton, 12:48:43
+1212, Annalise Cooper, F, 1072, Spain, Olesa, 13:00:29
+1213, Kole Cox, M, 1078, Italy, Casarano, 12:59:47
+1214, Nalani Howard, F, 1074, USA, Spokane, 13:11:34
+1215, Karsen Ward, M, 1080, Mexico, Ciudad Valles, 13:10:52
+1216, Lylah Torres, F, 1076, UK, Stafford, 13:22:40
+1217, Kaelen Peterson, M, 1082, Canada, Charlottetown, 13:21:58
+1218, Selah Gray, F, 1078, Germany, Illertissen, 13:33:47
+1219, Kole Ramirez, M, 1084, France, Saint-Dizier, 13:33:05
+1220, Mikaela James, F, 1080, Australia, Orange, 13:44:55
+1221, Kason Watson, M, 1086, Spain, Villajoyosa, 13:44:13
+1222, Makenzie Brooks, F, 1082, Italy, Crotone, 13:56:04
+1223, Kaelen Kelly, M, 1088, USA, Garland, 13:55:22
+1224, Camila Sanders, F, 1084, Mexico, Ciudad Guzman, 14:07:14
+1225, Kole Price, M, 1090, UK, Macclesfield, 14:06:32
+1226, Brielle Bennett, F, 1086, Canada, Moose Jaw, 14:18:25
+1227, Karsyn Wood, M, 1092, Germany, Rottweil, 14:17:43
+1228, Alena Barnes, F, 1088, France, Carcassonne, 14:29:37
+1229, Kaelen Ross, M, 1094, Australia, Burnie, 14:28:55
+1230, Milena Henderson, F, 1090, Spain, Laredo, 14:40:50
+1231, Kole Coleman, M, 1096, Italy, Corigliano, 14:40:08
+1232, Aya Jenkins, F, 1092, USA, Bakersfield, 14:52:04
+1233, Kason Perry, M, 1098, Mexico, Tehuacan, 14:51:22
+1234, Evangeline Long, F, 1094, UK, Widnes, 15:03:19
+1235, Kaelen Patterson, M, 1100, Canada, Portage la Prairie, 15:02:37
+1236, Jaslyn Hughes, F, 1096, Germany, Kirchheim, 15:14:35
+1237, Kole Flores, M, 1102, France, Montelimar, 15:13:53
+1238, Brynlee Washington, F, 1098, Australia, Mount Gambier, 15:25:52
+1239, Kason Butler, M, 1104, Spain, Aranjuez, 15:25:10
+1240, Kataleya Simmons, F, 1100, Italy, Afragola, 15:37:10
+1241, Kaelen Foster, M, 1106, USA, Norfolk, 15:36:28
+1242, Emberlynn Gonzales, F, 1102, Mexico, Ciudad Madero, 15:48:29
+1243, Kole Bryant, M, 1108, UK, Lowestoft, 15:47:47
+1244, Alianna Alexander, F, 1104, Canada, New Glasgow, 15:59:49
+1245, Karsen Russell, M, 1110, Germany, Rheda-Wiedenbruck, 15:59:07
+1246, Amira Griffin, F, 1106, France, Mont-de-Marsan, 16:11:10
+1247, Kaelen Diaz, M, 1112, Australia, Devonport, 16:10:28
+1248, Saylor Hayes, F, 1108, Spain, Sant Just Desvern, 16:22:32
+1249, Kole Ford, M, 1114, Italy, Pomezia, 16:21:50
+1250, Raelynn Hamilton, F, 1110, USA, Lubbock, 16:33:55
+1251, Kason Graham, M, 1116, Mexico, Teziutlan, 16:33:13
+1252, Anahi Sullivan, F, 1112, UK, Fleetwood, 16:45:19
+1253, Kaelen Wallace, M, 1118, Canada, Drummondville, 16:44:37
+1254, Ayleen Woods, F, 1114, Germany, Rendsburg, 16:56:44
+1255, Kole Cole, M, 1120, France, Montargis, 16:56:02
+1256, Janiyah Murray, F, 1116, Australia, Karratha, 17:08:10
+1257, Karsen Freeman, M, 1122, Spain, Silla, 17:07:28
+1258, Giana Wells, F, 1118, Italy, Casarano, 17:19:37
+1259, Kaelen Webb, M, 1124, USA, Toledo, 17:18:55
+1260, Melany Simpson, F, 1120, Mexico, Tula, 17:31:05
+1261, Kole Tucker, M, 1126, UK, Ellesmere Port, 17:30:23
+1262, Kalani Porter, F, 1122, Canada, Corner Brook, 17:42:34
+1263, Kason Hicks, M, 1128, Germany, Geesthacht, 17:41:52
+1264, Amaris Crawford, F, 1124, France, Vienne, 17:54:04
+1265, Kaelen Henry, M, 1130, Australia, Gladstone, 17:53:22
+1266, Skye Boyd, F, 1126, Spain, Arrecife, 18:05:35
+1267, Kole Mason, M, 1132, Italy, Lamezia Terme, 18:04:53
+1268, Miah Morales, F, 1128, USA, Riverside, 18:17:07
+1269, Karsen Kennedy, M, 1134, Mexico, Tepic, 18:16:25
+1270, Zariyah Butler, F, 1130, UK, Gosport, 18:28:40
+1271, Kaelen Bell, M, 1136, Canada, Timmins, 18:27:58
+1272, Mara Dixon, F, 1132, Germany, Haren, 18:40:14
+1273, Kole Fisher, M, 1138, France, Saint-Sebastien-sur-Loire, 18:39:32
+1274, Maliyah Reyes, F, 1134, Australia, Whyalla, 18:51:49
+1275, Kason Ellis, M, 1140, Spain, Castelldefels, 18:51:07
+1276, Lina Edwards, F, 1136, Italy, Guidonia, 19:03:25
+1277, Kaelen Collins, M, 1142, USA, Newark, 19:02:43
+1278, Siena Richardson, F, 1138, Mexico, Ciudad Valles, 19:15:02
+1279, Kole Stewart, M, 1144, UK, Scunthorpe, 19:14:20
+1280, Kelly Morris, F, 1140, Canada, Summerside, 19:26:40
+1281, Karsyn Rogers, M, 1146, Germany, Schwabisch Hall, 19:25:58
+1282, Alaia Reed, F, 1142, France, Orvault, 19:38:19
+1283, Kaelen Cook, M, 1148, Australia, Shepparton, 19:37:37
+1284, Rylie Morgan, F, 1144, Spain, San Fernando, 19:49:59
+1285, Kole Bell, M, 1150, Italy, Afragola, 19:49:17
+1286, Mckenna Murphy, F, 1146, USA, Chula Vista, 20:01:40
+1287, Kason Bailey, M, 1152, Mexico, Ciudad Obregon, 20:00:58
+1288, Scarlett Rivera, F, 1148, UK, Rotherham, 20:13:22
+1289, Kaelen Cooper, M, 1154, Canada, Stratford, 20:12:40
+1290, Ember Cox, F, 1150, Germany, Beckum, 20:25:05
+1291, Kole Howard, M, 1156, France, Mauguio, 20:24:23
+1292, Hadleigh Ward, F, 1152, Australia, Burnie, 20:36:49
+1293, Karsen Torres, M, 1158, Spain, Olesa, 20:36:07
+1294, Maggie Peterson, F, 1154, Italy, Crotone, 20:48:34
+1295, Kaelen Gray, M, 1160, USA, Lubbock, 20:47:52
+1296, Macey Ramirez, F, 1156, Mexico, Salina Cruz, 21:00:20
+1297, Kole James, M, 1162, UK, Runcorn, 20:59:38
+1298, Adelaide Watson, F, 1158, Canada, Steinbach, 21:12:07
+1299, Kason Brooks, M, 1164, Germany, Fellbach, 21:11:25
+1300, Renata Kelly, F, 1160, France, Le Pontet, 21:23:55
+1301, Kaelen Sanders, M, 1166, Australia, Devonport, 21:23:13
+1302, Briar Price, F, 1162, Spain, Barbera, 21:35:44
+1303, Kole Bennett, M, 1168, Italy, Casarano, 21:35:02
+1304, Ainhoa Wood, F, 1164, USA, Reno, 21:47:34
+1305, Karsyn Barnes, M, 1170, Mexico, Tulancingo, 21:46:52
+1306, Ayleen Ross, F, 1166, UK, Hartlepool, 21:59:25
+1307, Kaelen Henderson, M, 1172, Canada, North Bay, 21:58:43
+1308, Madilynn Coleman, F, 1168, Germany, Balingen, 22:11:17
+1309, Kole Jenkins, M, 1174, France, La Ciotat, 22:10:35
+1310, Elianna Perry, F, 1170, Australia, Orange, 22:23:10
+1311, Kason Long, M, 1176, Spain, Siero, 22:22:28
+1312, Beatrice Patterson, F, 1172, Italy, Cava de' Tirreni, 22:35:04
+1313, Kaelen Hughes, M, 1178, USA, Winston-Salem, 22:34:22
+1314, Amaya Flores, F, 1174, Mexico, Tehuacan, 22:46:59
+1315, Kole Washington, M, 1180, UK, Lowestoft, 22:46:17
+1316, Anaya Butler, F, 1176, Canada, Yorkton, 22:58:55
+1317, Karsen Simmons, M, 1182, Germany, Lunen, 22:58:13
+1318, Lilyana Foster, F, 1178, France, Mont-de-Marsan, 23:10:52
+1319, Kaelen Gonzales, M, 1184, Australia, Warrnambool, 23:10:10
+1320, Briella Bryant, F, 1180, Spain, Aranjuez, 23:22:50
+1321, Kole Alexander, M, 1186, Italy, Corigliano, 23:22:08
+1322, Jazlyn Russell, F, 1182, USA, Bakersfield, 23:34:49
+1323, Kason Griffin, M, 1188, Mexico, Ciudad Madero, 23:34:07
+1324, Kamryn Diaz, F, 1184, UK, Rhyl, 23:46:49
+1325, Kaelen Hayes, M, 1190, Canada, Drummondville, 23:46:07
+1326, Maren Ford, F, 1186, Germany, Rendsburg, 23:58:50
+1327, Kole Hamilton, M, 1192, France, Saint-Dizier, 23:58:08
+1328, Jayleen Graham, F, 1188, Australia, Mount Barker, 00:10:52
+1329, Karsen Sullivan, M, 1194, Spain, Olesa, 00:10:10
+1330, Lyric Wallace, F, 1190, Italy, Pomezia, 00:22:55
+1331, Kaelen Woods, M, 1196, USA, Spokane, 00:22:13
+1332, Raegan Cole, F, 1192, Mexico, Teziutlan, 00:34:59
+1333, Kole Murray, M, 1198, UK, Macclesfield, 00:34:17
+1334, Celeste Freeman, F, 1194, Canada, Moose Jaw, 00:47:04
+1335, Kason Wells, M, 1200, Germany, Illertissen, 00:46:22
+1336, Violet Webb, F, 1196, France, Vienne, 00:59:10
+1337, Kaelen Simpson, M, 1202, Australia, Burnie, 00:58:28
+1338, Nalani Tucker, F, 1198, Spain, San Fernando, 01:11:17
+1339, Kole Porter, M, 1204, Italy, Afragola, 01:10:35
+1340, Angelica Hicks, F, 1200, USA, Garland, 01:23:25
+1341, Karsen Crawford, F, 1202, Mexico, Ciudad Guzman, 01:22:43
+1342, Zayden Henry, M, 1208, UK, Gillingham, 01:35:34
+1343, Jayda Boyd, F, 1204, Canada, Portage la Prairie, 01:34:52
+1344, Kaelen Mason, M, 1210, Germany, Rottweil, 01:47:44
+1345, Amirah Morales, F, 1206, France, Montelimar, 01:47:02
+1346, Kole Kennedy, M, 1212, Australia, Devonport, 02:00:55
+1347, Maggie Butler, F, 1208, Spain, Torrent, 02:00:13
+1348, Kason Bell, M, 1214, Italy, Casarano, 02:13:07
+1349, Elliana Dixon, F, 1210, USA, Norfolk, 02:12:25
+1350, Kaelen Fisher, M, 1216, Mexico, Tula, 02:25:20
+1351, Edith Reyes, F, 1212, UK, Bridgend, 02:24:38
+1352, Kole Ellis, M, 1218, Canada, New Glasgow, 02:37:34
+1353, Alina Edwards, F, 1214, Germany, Rheda-Wiedenbruck, 02:36:52
+1354, Karsen Collins, M, 1220, France, Mont-de-Marsan, 02:49:49
+1355, Ryan Richardson, M, 1216, Australia, Karratha, 02:49:07
+1356, Maddison Stewart, F, 1222, Spain, Sant Just Desvern, 03:02:05
+1357, Kole Morris, M, 1224, Italy, Pomezia, 03:01:23
+1358, Adalynn Rogers, F, 1218, USA, Lubbock, 03:14:22
+1359, Kason Reed, M, 1226, Mexico, Tehuacan, 03:13:40
+1360, Lily Cook, F, 1220, UK, Lowestoft, 03:26:40
+1361, Kaelen Morgan, F, 1228, Canada, Stratford, 03:25:58
+1362, Alden Bell, M, 1230, Germany, Beckum, 03:38:59
+1363, Rayna Murphy, F, 1222, France, Mauguio, 03:38:17
+1364, Kole Bailey, M, 1232, Australia, Shepparton, 03:51:19
+1365, Kenia Rivera, F, 1224, Spain, Arrecife, 03:50:37
+1366, Karsen Cooper, M, 1234, Italy, Lamezia Terme, 04:03:40
+1367, Arianna Cox, F, 1226, USA, Riverside, 04:02:58
+1368, Kaelen Howard, M, 1236, Mexico, Tepic, 04:16:02
+1369, Kayla Ward, F, 1228, UK, Gosport, 04:15:20
+1370, Kole Torres, M, 1238, Canada, Timmins, 04:28:25
+1371, Nala Peterson, F, 1230, Germany, Haren, 04:27:43
+1372, Kason Gray, M, 1240, France, Saint-Sebastien-sur-Loire, 04:40:49
+1373, Janiyah Ramirez, F, 1232, Australia, Whyalla, 04:40:07
+1374, Kaelen James, M, 1242, Spain, Castelldefels, 04:53:14
+1375, Tessa Watson, F, 1234, Italy, Guidonia, 04:52:32
+1376, Kole Brooks, M, 1244, USA, Newark, 05:05:40
+1377, Amayah Kelly, M, 1236, Mexico, Ciudad Valles, 05:04:58
+1378, Aldo Sanders, M, 1248, UK, Scunthorpe, 05:18:07
+1379, Alanna Price, F, 1238, Canada, Summerside, 05:17:25
+1380, Kason Bennett, M, 1250, Germany, Schwabisch Hall, 05:30:35
+1381, Ayleen Wood, F, 1240, France, Orvault, 05:29:53
+1382, Kaelen Barnes, M, 1252, Australia, Gladstone, 05:43:04
+1383, Rylie Ross, F, 1242, Spain, Silla, 05:42:22
+1384, Kole Henderson, M, 1254, Italy, Casarano, 05:55:34
+1385, Miracle Coleman, F, 1244, USA, Toledo, 05:54:52
+1386, Karsyn Jenkins, M, 1256, Mexico, Tula, 06:08:05
+1387, Kynlee Perry, F, 1246, UK, Ellesmere Port, 06:07:23
+1388, Kaelen Long, M, 1258, Canada, Corner Brook, 06:20:37
+1389, Ila Patterson, F, 1248, Germany, Geesthacht, 06:19:55
+1390, Kole Hughes, M, 1260, France, Vienne, 06:33:10
+1391, Mikayla Flores, F, 1250, Australia, Devonport, 06:32:28
+1392, Kason Washington, M, 1262, Spain, Barbera, 06:45:44
+1393, Sloane Butler, F, 1252, Italy, Crotone, 06:45:02
+1394, Kaelen Simmons, F, 1264, USA, Chula Vista, 06:58:19
+1395, Brantley Foster, M, 1266, Mexico, Ciudad Obregon, 06:57:37
+1396, Emelia Gonzales, M, 1268, UK, Rotherham, 07:10:55
+1397, Kole Bryant, M, 1270, Canada, Stratford, 07:10:13
+1398, Eileen Alexander, F, 1254, Germany, Beckum, 07:23:32
+1399, Karsen Russell, M, 1272, France, Mauguio, 07:22:50
+1400, Avah Griffin, F, 1256, Australia, Burnie, 07:36:10
+1401, Kaelen Diaz, M, 1274, Spain, Olesa, 07:35:28
+1402, Kenna Hayes, F, 1258, Italy, Pomezia, 07:48:49
+1403, Kole Ford, M, 1276, USA, Lubbock, 07:48:07
+1404, Milani Hamilton, F, 1260, Mexico, Tehuacan, 08:01:29
+1405, Kason Graham, M, 1278, UK, Lowestoft, 08:00:47
+1406, Isla Sullivan, F, 1262, Canada, Yorkton, 08:14:10
+1407, Kaelen Wallace, M, 1280, Germany, Lunen, 08:13:28
+1408, Alianna Woods, F, 1264, France, Mont-de-Marsan, 08:26:52
+1409, Kole Cole, M, 1282, Australia, Warrnambool, 08:26:10
+1410, Madelyn Murray, F, 1266, Spain, Aranjuez, 08:39:35
+1411, Karsen Freeman, M, 1284, Italy, Corigliano, 08:38:53
+1412, Karina Wells, F, 1268, USA, Bakersfield, 08:52:19
+1413, Kaelen Webb, M, 1286, Mexico, Ciudad Madero, 08:51:37
+1414, Ember Simpson, F, 1270, UK, Rhyl, 09:05:04
+1415, Kole Tucker, M, 1288, Canada, Drummondville, 09:04:22
+1416, Adelaide Porter, F, 1272, Germany, Rendsburg, 09:17:50
+1417, Kason Hicks, M, 1290, France, Saint-Dizier, 09:17:08
+1418, Elliana Crawford, F, 1274, Australia, Mount Barker, 09:30:37
+1419, Kaelen Henry, M, 1292, Spain, Siero, 09:29:55
+1420, Angelina Boyd, F, 1276, Italy, Cava de' Tirreni, 09:43:25
+1421, Kole Mason, M, 1294, USA, Spokane, 09:42:43
+1422, Royalty Morales, F, 1278, Mexico, Teziutlan, 09:56:14
+1423, Karsen Kennedy, M, 1296, UK, Macclesfield, 09:55:32
+1424, Aniyah Butler, F, 1280, Canada, Moose Jaw, 10:09:04
+1425, Kaelen Bell, M, 1298, Germany, Illertissen, 10:08:22
+1426, Haisley Dixon, F, 1282, France, Vienne, 10:21:55
+1427, Kole Fisher, M, 1300, Australia, Burnie, 10:21:13
+1428, Jayla Reyes, F, 1284, Spain, San Fernando, 10:34:47
+1429, Kason Ellis, M, 1302, Italy, Afragola, 10:34:05
+1430, Kaylani Edwards, F, 1286, USA, Garland, 10:47:40
+1431, Kaelen Collins, M, 1304, Mexico, Ciudad Guzman, 10:46:58
+1432, Madeleine Richardson, F, 1288, UK, Gillingham, 11:00:34
+1433, Kole Stewart, M, 1306, Canada, Portage la Prairie, 10:59:52
+1434, Aya Morris, F, 1290, Germany, Rottweil, 11:13:29
+1435, Karsyn Rogers, M, 1308, France, Montelimar, 11:12:47
+1436, Amaris Reed, F, 1292, Australia, Devonport, 11:26:25
+1437, Kaelen Cook, M, 1310, Spain, Torrent, 11:25:43
+1438, Sage Morgan, F, 1294, Italy, Casarano, 11:39:22
+1439, Kole Bell, M, 1312, USA, Norfolk, 11:38:40
+1440, Jasmin Murphy, F, 1296, Mexico, Tula, 11:52:20
+1441, Kason Bailey, M, 1314, UK, Bridgend, 11:51:38
+1442, Amora Rivera, F, 1298, Canada, New Glasgow, 12:05:19
+1443, Kaelen Cooper, M, 1316, Germany, Rheda-Wiedenbruck, 12:04:37
+1444, Giavanna Cox, F, 1300, France, Mont-de-Marsan, 12:18:19
+1445, Kole Howard, M, 1318, Australia, Karratha, 12:17:37
+1446, Jayleen Ward, F, 1302, Spain, Sant Just Desvern, 12:31:20
+1447, Karsen Torres, M, 1320, Italy, Pomezia, 12:30:38
+1448, Angel Peterson, F, 1304, USA, Lubbock, 12:44:22
+1449, Kaelen Gray, M, 1322, Mexico, Tehuacan, 12:43:40
+1450, Lena Ramirez, F, 1306, UK, Lowestoft, 12:57:25
+1451, Kole James, M, 1324, Canada, Stratford, 12:56:43
+1452, Malani Watson, F, 1308, Germany, Beckum, 13:10:29
+1453, Kason Brooks, M, 1326, France, Mauguio, 13:09:47
+1454, Alisson Kelly, F, 1310, Australia, Shepparton, 13:23:34
+1455, Kaelen Sanders, M, 1328, Spain, Arrecife, 13:22:52
+1456, Allyson Price, F, 1312, Italy, Lamezia Terme, 13:36:40
+1457, Kole Bennett, M, 1330, USA, Riverside, 13:35:58
+1458, Maren Wood, F, 1314, Mexico, Tepic, 13:49:47
+1459, Karsyn Barnes, M, 1332, UK, Gosport, 13:49:05
+1460, Aya Ross, F, 1316, Canada, Timmins, 14:02:55
+1461, Kaelen Henderson, M, 1334, Germany, Haren, 14:02:13
+1462, Itzel Coleman, F, 1318, France, Saint-Sebastien-sur-Loire, 14:16:04
+1463, Kole Jenkins, M, 1336, Australia, Whyalla, 14:15:22
+1464, Sarai Jenkins, F, 1320, Spain, Castelldefels, 14:29:14
+1465, Kason Long, M, 1338, Italy, Guidonia, 14:28:32
+1466, Helena Perry, F, 1322, USA, Newark, 14:42:25
+1467, Kaelen Hughes, M, 1340, Mexico, Ciudad Valles, 14:41:43
+1468, Zaniyah Patterson, F, 1324, UK, Scunthorpe, 14:55:37
+1469, Kole Washington, M, 1342, Canada, Summerside, 14:54:55
+1470, Mira Flores, F, 1326, Germany, Schwabisch Hall, 15:08:50
+1471, Karsen Simmons, M, 1344, France, Orvault, 15:08:08
+1472, Ayleen Butler, F, 1328, Australia, Gladstone, 15:22:04
+1473, Kaelen Gonzales, M, 1346, Spain, Silla, 15:21:22
+1474, Alianna Foster, F, 1330, Italy, Casarano, 15:35:19
+1475, Kole Alexander, M, 1348, USA, Toledo, 15:34:37
+1476, Adalyn Bryant, F, 1332, Mexico, Tula, 15:48:35
+1477, Kason Griffin, M, 1350, UK, Ellesmere Port, 15:47:53
+1478, Mckenzie Russell, F, 1334, Canada, Corner Brook, 16:01:52
+1479, Kaelen Diaz, M, 1352, Germany, Geesthacht, 16:01:10
+1480, Jazlyn Hayes, F, 1336, France, Vienne, 16:15:10
+1481, Kole Ford, M, 1354, Australia, Devonport, 16:14:28
+1482, Sariyah Hamilton, F, 1338, Spain, Barbera, 16:28:29
+1483, Karsen Graham, M, 1356, Italy, Crotone, 16:27:47
+1484, Gwen Sullivan, F, 1340, USA, Chula Vista, 16:41:49
+1485, Kaelen Wallace, M, 1358, Mexico, Ciudad Obregon, 16:41:07
+1486, Kora Woods, F, 1342, UK, Rotherham, 16:55:10
+1487, Kole Cole, M, 1360, Canada, Stratford, 16:54:28
+1488, Nala Murray, F, 1344, Germany, Beckum, 17:08:32
+1489, Kason Freeman, M, 1362, France, Mauguio, 17:07:50
+1490, Tiana Wells, F, 1346, Australia, Burnie, 17:21:55
+1491, Kaelen Webb, M, 1364, Spain, Olesa, 17:21:13
+1492, Emberlynn Simpson, F, 1348, Italy, Pomezia, 17:35:19
+1493, Kole Tucker, M, 1366, USA, Lubbock, 17:34:37
+1494, Alora Porter, F, 1350, Mexico, Tehuacan, 17:48:44
+1495, Karsen Hicks, M, 1368, UK, Lowestoft, 17:48:02
+1496, Alayna Crawford, F, 1352, Canada, Yorkton, 18:02:10
+1497, Kaelen Henry, M, 1370, Germany, Lunen, 18:01:28
+1498, Ryan Mason, F, 1354, France, Mont-de-Marsan, 18:15:37
+1499, Kole Morales, M, 1372, Australia, Warrnambool, 18:14:55
+1500, Royalty Kennedy, F, 1356, Spain, Aranjuez, 18:29:05
+1501, Kaelen Butler, M, 1374, Italy, Corigliano, 18:28:23
+1502, Mikayla Bell, F, 1358, USA, Bakersfield, 18:42:34
+1503, Kole Dixon, M, 1376, Mexico, Ciudad Madero, 18:41:52
+1504, Addilyn Fisher, F, 1360, UK, Rhyl, 18:56:04
+1505, Kason Reyes, M, 1378, Canada, Drummondville, 18:55:22
+1506, Ariella Ellis, F, 1362, Germany, Rendsburg, 19:09:35
+1507, Kaelen Edwards, M, 1380, France, Saint-Dizier, 19:08:53
+1508, Amira Collins, F, 1364, Australia, Mount Barker, 19:23:07
+1509, Kole Richardson, M, 1382, Spain, Siero, 19:22:25
+1510, Emery Stewart, F, 1366, Italy, Cava de' Tirreni, 19:36:40
+1511, Karsen Morris, M, 1384, USA, Spokane, 19:35:58
+1512, Novah Rogers, F, 1368, Mexico, Teziutlan, 19:50:14
+1513, Kaelen Reed, M, 1386, UK, Macclesfield, 19:49:32
+1514, Annalise Cook, F, 1370, Canada, Moose Jaw, 20:03:49
+1515, Kole Morgan, M, 1388, Germany, Illertissen, 20:03:07
+1516, Maren Bell, F, 1372, France, Vienne, 20:17:25
+1517, Kason Murphy, M, 1390, Australia, Burnie, 20:16:43
+1518, Lexi Bailey, F, 1374, Spain, San Fernando, 20:31:02
+1519, Kaelen Rivera, M, 1392, Italy, Afragola, 20:30:20
+1520, Rylie Cooper, F, 1376, USA, Garland, 20:44:40
+1521, Kole Cox, M, 1394, Mexico, Ciudad Guzman, 20:43:58
+1522, Daniella Howard, F, 1378, UK, Gillingham, 20:58:19
+1523, Karsen Ward, M, 1396, Canada, Portage la Prairie, 20:57:37
+1524, Malaysia Torres, F, 1380, Germany, Rottweil, 21:11:59
+1525, Kaelen Peterson, M, 1398, France, Montelimar, 21:11:17
+1526, Brielle Gray, F, 1382, Australia, Devonport, 21:25:40
+1527, Kole Ramirez, M, 1400, Spain, Torrent, 21:24:58
+1528, Saige James, F, 1384, Italy, Casarano, 21:39:22
+1529, Kason Watson, M, 1402, USA, Norfolk, 21:38:40
+1530, Alanna Brooks, F, 1386, Mexico, Tula, 21:53:05
+1531, Kaelen Kelly, M, 1404, UK, Bridgend, 21:52:23
+1532, Kaylani Sanders, F, 1388, Canada, New Glasgow, 22:06:49
+1533, Kole Price, M, 1406, Germany, Rheda-Wiedenbruck, 22:06:07
+1534, Zendaya Bennett, F, 1390, France, Mont-de-Marsan, 22:20:34
+1535, Karsen Wood, M, 1408, Australia, Karratha, 22:19:52
+1536, Blakely Barnes, F, 1392, Spain, Sant Just Desvern, 22:34:20
+1537, Kaelen Ross, M, 1410, Italy, Pomezia, 22:33:38
+1538, Lillian Henderson, F, 1394, USA, Lubbock, 22:48:07
+1539, Kole Coleman, M, 1412, Mexico, Tehuacan, 22:47:25
+1540, Holly Jenkins, F, 1396, UK, Lowestoft, 23:01:55
+1541, Kason Perry, M, 1414, Canada, Stratford, 23:01:13
+1542, Brynlee Long, F, 1398, Germany, Beckum, 23:15:44
+1543, Kaelen Patterson, M, 1416, France, Mauguio, 23:15:02
+1544, Alexandra Hughes, F, 1400, Australia, Shepparton, 23:29:34
+1545, Kole Flores, M, 1418, Spain, Arrecife, 23:28:52
+1546, Miah Washington, F, 1402, Italy, Lamezia Terme, 23:43:25
+1547, Karsen Butler, M, 1420, USA, Riverside, 23:42:43
+1548, Zariyah Simmons, F, 1404, Mexico, Tepic, 23:57:17
+1549, Kaelen Foster, M, 1422, UK, Gosport, 23:56:35
+1550, Lainey Gonzales, F, 1406, Canada, Timmins, 00:11:10
+1551, Kole Bryant, M, 1424, Germany, Haren, 00:10:28
+1552, Jayleen Alexander, F, 1408, France, Saint-Sebastien-sur-Loire, 00:25:04
+1553, Kason Russell, M, 1426, Australia, Whyalla, 00:24:22
+1554, Emberlynn Griffin, F, 1410, Spain, Castelldefels, 00:38:59
+1555, Kaelen Diaz, M, 1428, Italy, Guidonia, 00:38:17
+1556, Ryan Hayes, M, 1430, USA, Newark, 00:52:55
+1557, Kole Ford, M, 1432, Mexico, Ciudad Valles, 00:52:13
+1558, Ayleen Hamilton, F, 1412, UK, Scunthorpe, 01:06:52
+1559, Karsen Graham, M, 1434, Canada, Summerside, 01:06:10
+1560, Mckinley Sullivan, F, 1414, Germany, Schwabisch Hall, 01:20:50
+1561, Kaelen Wallace, M, 1436, France, Orvault, 01:20:08
+1562, Emelia Woods, F, 1416, Australia, Gladstone, 01:34:49
+1563, Kole Cole, M, 1438, Spain, Silla, 01:34:07
+1564, Galilea Murray, F, 1418, Italy, Casarano, 01:48:49
+1565, Kason Freeman, M, 1440, USA, Toledo, 01:48:07
+1566, Elsie Wells, F, 1420, Mexico, Tula, 02:02:50
+1567, Kaelen Webb, M, 1442, UK, Ellesmere Port, 02:02:08
+1568, Mariah Simpson, F, 1422, Canada, Corner Brook, 02:16:52
+1569, Kole Tucker, M, 1444, Germany, Geesthacht, 02:16:10
+1570, Celeste Porter, F, 1424, France, Vienne, 02:30:55
+1571, Karsen Hicks, M, 1446, Australia, Devonport, 02:30:13
+1572, Hattie Crawford, F, 1426, Spain, Barbera, 02:44:59
+1573, Kaelen Henry, M, 1448, Italy, Crotone, 02:44:17
+1574, Ila Boyd, F, 1428, USA, Chula Vista, 02:59:04
+1575, Kole Mason, M, 1450, Mexico, Ciudad Obregon, 02:58:22
+1576, Veronika Morales, F, 1430, UK, Rotherham, 03:13:10
+1577, Kason Kennedy, M, 1452, Canada, Stratford, 03:12:28
+1578, Alison Butler, F, 1432, Germany, Beckum, 03:27:17
+1579, Kaelen Bell, M, 1454, France, Mauguio, 03:26:35
+1580, Angelina Dixon, F, 1434, Australia, Burnie, 03:41:25
+1581, Kole Fisher, M, 1456, Spain, Olesa, 03:40:43
+1582, Willa Reyes, F, 1436, Italy, Pomezia, 03:55:34
+1583, Karsen Ellis, M, 1458, USA, Lubbock, 03:54:52
+1584, Holly Edwards, F, 1438, Mexico, Tehuacan, 04:09:44
+1585, Kaelen Collins, M, 1460, UK, Lowestoft, 04:09:02
+1586, Briar Richardson, F, 1440, Canada, Yorkton, 04:23:55
+1587, Kole Stewart, M, 1462, Germany, Lunen, 04:23:13
+1588, Milani Morris, F, 1442, France, Mont-de-Marsan, 04:38:07
+1589, Kason Rogers, M, 1464, Australia, Warrnambool, 04:37:25
+1590, Amira Reed, F, 1444, Spain, Aranjuez, 04:52:20
+1591, Kaelen Cook, M, 1466, Italy, Corigliano, 04:51:38
+1592, Keilani Morgan, F, 1446, USA, Bakersfield, 05:06:34
+1593, Kole Bell, M, 1468, Mexico, Ciudad Madero, 05:05:52
+1594, Maren Murphy, F, 1448, UK, Rhyl, 05:20:49
+1595, Karsen Bailey, M, 1470, Canada, Drummondville, 05:20:07
+1596, Aya Rivera, F, 1450, Germany, Rendsburg, 05:35:05
+1597, Kaelen Cooper, M, 1472, France, Saint-Dizier, 05:34:23
+1598, Mckinley Cox, F, 1452, Australia, Mount Barker, 05:49:22
+1599, Kole Howard, M, 1474, Spain, Siero, 05:48:40
+1600, Ayleen Ward, F, 1454, Italy, Cava de' Tirreni, 06:03:40
+1601, Kason Torres, M, 1476, USA, Spokane, 06:02:58
+1602, Samara Peterson, F, 1456, Mexico, Teziutlan, 06:17:59
+1603, Kaelen Gray, M, 1478, UK, Macclesfield, 06:17:17
+1604, Alianna Ramirez, F, 1458, Canada, Moose Jaw, 06:32:19
+1605, Kole James, M, 1480, Germany, Illertissen, 06:31:37
+1606, Ember Watson, F, 1460, France, Vienne, 06:46:40
+1607, Karsen Brooks, M, 1482, Australia, Burnie, 06:45:58
+1608, Lylah Kelly, F, 1462, Spain, San Fernando, 07:01:02
+1609, Kaelen Sanders, M, 1484, Italy, Afragola, 07:00:20
+1610, Evangeline Price, F, 1464, USA, Garland, 07:15:25
+1611, Kole Bennett, M, 1486, Mexico, Ciudad Guzman, 07:14:43
+1612, Briar Wood, F, 1466, UK, Gillingham, 07:29:49
+1613, Kason Barnes, M, 1488, Canada, Portage la Prairie, 07:29:07
+1614, Amaya Ross, F, 1468, Germany, Rottweil, 07:44:14
+1615, Kaelen Henderson, M, 1490, France, Montelimar, 07:43:32
+1616, Maggie Coleman, F, 1470, Australia, Devonport, 07:58:40
+1617, Kole Jenkins, M, 1492, Spain, Torrent, 07:57:58
+1618, Sarahi Jenkins, F, 1472, Italy, Casarano, 08:13:07
+1619, Karsen Long, M, 1494, USA, Norfolk, 08:12:25
+1620, Kenna Perry, F, 1474, Mexico, Tula, 08:27:35
+1621, Kaelen Hughes, M, 1496, UK, Bridgend, 08:26:53
+1622, Raegan Patterson, F, 1476, Canada, New Glasgow, 08:42:04
+1623, Kole Washington, M, 1498, Germany, Rheda-Wiedenbruck, 08:41:22
+1624, Everly Flores, F, 1478, France, Mont-de-Marsan, 08:56:34
+1625, Kason Simmons, M, 1500, Australia, Karratha, 08:55:52
+1626, Maleah Butler, F, 1480, Spain, Sant Just Desvern, 09:11:05
+1627, Kaelen Gonzales, M, 1502, Italy, Pomezia, 09:10:23
+1628, Heaven Foster, F, 1482, USA, Lubbock, 09:25:37
+1629, Kole Alexander, M, 1504, Mexico, Tehuacan, 09:24:55
+1630, Celia Bryant, F, 1484, UK, Lowestoft, 09:40:10
+1631, Karsen Griffin, M, 1506, Canada, Stratford, 09:39:28
+1632, Gwen Russell, F, 1486, Germany, Beckum, 09:54:44
+1633, Kaelen Diaz, M, 1508, France, Mauguio, 09:54:02
+1634, Ariana Hayes, F, 1488, Australia, Shepparton, 10:09:19
+1635, Kole Ford, M, 1510, Spain, Arrecife, 10:08:37
+1636, Kaliyah Hamilton, F, 1490, Italy, Lamezia Terme, 10:23:55
+1637, Kason Graham, M, 1512, USA, Riverside, 10:23:13
+1638, Adelynn Sullivan, F, 1492, Mexico, Tepic, 10:38:32
+1639, Kaelen Wallace, M, 1514, UK, Gosport, 10:37:50
+1640, Julissa Woods, F, 1494, Canada, Timmins, 10:53:10
+1641, Kole Cole, M, 1516, Germany, Haren, 10:52:28
+1642, Mylah Murray, F, 1496, France, Saint-Sebastien-sur-Loire, 11:07:49
+1643, Karsen Freeman, M, 1518, Australia, Whyalla, 11:07:07
+1644, Ada Wells, F, 1498, Spain, Castelldefels, 11:22:29
+1645, Kaelen Webb, M, 1520, Italy, Guidonia, 11:21:47
+1646, Brylee Simpson, F, 1500, USA, Newark, 11:37:10
+1647, Kole Tucker, M, 1522, Mexico, Ciudad Valles, 11:36:28
+1648, Mikaela Porter, F, 1502, UK, Scunthorpe, 11:51:52
+1649, Kason Hicks, M, 1524, Canada, Summerside, 11:51:10
+1650, Raelynn Crawford, F, 1504, Germany, Schwabisch Hall, 12:06:35
+1651, Kaelen Henry, M, 1526, France, Orvault, 12:05:53
+1652, Alora Boyd, F, 1506, Australia, Gladstone, 12:21:19
+1653, Kole Mason, M, 1528, Spain, Silla, 12:20:37
+1654, Miah Morales, F, 1508, Italy, Casarano, 12:36:04
+1655, Karsen Kennedy, M, 1530, USA, Toledo, 12:35:22
+1656, Maggie Butler, F, 1510, Mexico, Tula, 12:50:50
+1657, Kaelen Bell, M, 1532, UK, Ellesmere Port, 12:50:08
+1658, Amirah Dixon, F, 1512, Canada, Corner Brook, 13:05:37
+1659, Kole Fisher, M, 1534, Germany, Geesthacht, 13:04:55
+1660, Rylie Reyes, F, 1514, France, Vienne, 13:20:25
+1661, Kason Ellis, M, 1536, Australia, Devonport, 13:19:43
+1662, Tessa Edwards, F, 1516, Spain, Barbera, 13:35:14
+1663, Kaelen Collins, M, 1538, Italy, Crotone, 13:34:32
+1664, Maliyah Richardson, F, 1518, USA, Chula Vista, 13:50:04
+1665, Kole Stewart, M, 1540, Mexico, Ciudad Obregon, 13:49:22
+1666, Jayleen Morris, F, 1520, UK, Rotherham, 14:04:55
+1667, Karsen Rogers, M, 1542, Canada, Stratford, 14:04:13
+1668, Alianna Reed, F, 1522, Germany, Beckum, 14:19:47
+1669, Kaelen Cook, M, 1544, France, Mauguio, 14:19:05
+1670, Lyric Morgan, F, 1524, Australia, Burnie, 14:34:40
+1671, Kole Bell, M, 1546, Spain, Olesa, 14:33:58
+1672, Kenia Murphy, F, 1526, Italy, Pomezia, 14:49:34
+1673, Kason Bailey, M, 1548, USA, Lubbock, 14:48:52
+1674, Maren Rivera, F, 1528, Mexico, Tehuacan, 15:04:29
+1675, Kaelen Cooper, M, 1550, UK, Lowestoft, 15:03:47
+1676, Jazlyn Cox, F, 1530, Canada, Yorkton, 15:19:25
+1677, Kole Howard, M, 1552, Germany, Lunen, 15:18:43
+1678, Emely Ward, F, 1532, France, Mont-de-Marsan, 15:34:22
+1679, Karsen Torres, M, 1554, Australia, Warrnambool, 15:33:40
+1680, Aya Peterson, F, 1534, Spain, Aranjuez, 15:49:20
+1681, Kaelen Gray, M, 1556, Italy, Corigliano, 15:48:38
+1682, Avah Ramirez, F, 1536, USA, Bakersfield, 16:04:19
+1683, Kole James, M, 1558, Mexico, Ciudad Madero, 16:03:37
+1684, Annalise Watson, F, 1538, UK, Rhyl, 16:19:19
+1685, Kason Brooks, M, 1560, Canada, Drummondville, 16:18:37
+1686, Maleah Kelly, F, 1540, Germany, Rendsburg, 16:34:20
+1687, Kaelen Sanders, M, 1562, France, Saint-Dizier, 16:33:38
+1688, Ayleen Price, F, 1542, Australia, Mount Barker, 16:49:22
+1689, Kole Bennett, M, 1564, Spain, Siero, 16:48:40
+1690, Esmeralda Wood, F, 1544, Italy, Cava de' Tirreni, 17:04:25
+1691, Karsen Barnes, M, 1566, USA, Spokane, 17:03:43
+1692, Raegan Ross, F, 1546, Mexico, Teziutlan, 17:19:29
+1693, Kaelen Henderson, M, 1568, UK, Macclesfield, 17:18:47
+1694, Brynlee Coleman, F, 1548, Canada, Moose Jaw, 17:34:34
+1695, Kole Jenkins, M, 1570, Germany, Illertissen, 17:33:52
+1696, Maren Jenkins, F, 1550, France, Vienne, 17:49:40
+1697, Kason Long, M, 1572, Australia, Burnie, 17:48:58
+1698, Ayleen Perry, F, 1552, Spain, San Fernando, 18:04:47
+1699, Kaelen Hughes, M, 1574, Italy, Afragola, 18:04:05
+1700, Logan Patterson, F, 1554, USA, Garland, 18:19:55
+1701, Kole Washington, M, 1576, Mexico, Ciudad Guzman, 18:19:13
+1702, Haylee Flores, F, 1556, UK, Gillingham, 18:35:04
+1703, Karsen Simmons, M, 1578, Canada, Portage la Prairie, 18:34:22
+1704, Marleigh Butler, F, 1558, Germany, Rottweil, 18:50:14
+1705, Kaelen Gonzales, M, 1580, France, Montelimar, 18:49:32
+1706, Celia Foster, F, 1560, Australia, Devonport, 19:05:25
+1707, Kole Alexander, M, 1582, Spain, Torrent, 19:04:43
+1708, Helen Bryant, F, 1562, Italy, Casarano, 19:20:37
+1709, Kason Griffin, M, 1584, USA, Norfolk, 19:19:55
+1710, Emberlynn Russell, F, 1564, Mexico, Tula, 19:35:50
+1711, Kaelen Diaz, M, 1586, UK, Bridgend, 19:35:08
+1712, Kaliyah Hayes, F, 1566, Canada, New Glasgow, 19:51:04
+1713, Kole Ford, M, 1588, Germany, Rheda-Wiedenbruck, 19:50:22
+1714, Julissa Hamilton, F, 1568, France, Mont-de-Marsan, 20:06:19
+1715, Karsen Graham, M, 1590, Australia, Karratha, 20:05:37
+1716, Emery Sullivan, F, 1570, Spain, Sant Just Desvern, 20:21:35
+1717, Kaelen Wallace, M, 1592, Italy, Pomezia, 20:20:53
+1718, Briar Woods, F, 1572, USA, Lubbock, 20:36:52
+1719, Kole Cole, M, 1594, Mexico, Tehuacan, 20:36:10
+1720, Lina Murray, F, 1574, UK, Lowestoft, 20:52:10
+1721, Kason Freeman, M, 1596, Canada, Stratford, 20:51:28
+1722, Alaya Wells, F, 1576, Germany, Beckum, 21:07:29
+1723, Kaelen Webb, M, 1598, France, Mauguio, 21:06:47
+1724, Janiyah Simpson, F, 1578, Australia, Shepparton, 21:22:49
+1725, Kole Tucker, M, 1600, Spain, Arrecife, 21:22:07
+1726, Nadia Porter, F, 1580, Italy, Lamezia Terme, 21:38:10
+1727, Karsen Hicks, M, 1602, USA, Riverside, 21:37:28
+1728, Kensley Crawford, F, 1582, Mexico, Tepic, 21:53:32
+1729, Kaelen Henry, M, 1604, UK, Gosport, 21:52:50
+1730, Lainey Boyd, F, 1584, Canada, Timmins, 22:08:55
+1731, Kole Mason, M, 1606, Germany, Haren, 22:08:13
+1732, Mckinley Morales, F, 1586, France, Saint-Sebastien-sur-Loire, 22:24:19
+1733, Kason Kennedy, M, 1608, Australia, Whyalla, 22:23:37
+1734, Maleah Butler, F, 1588, Spain, Castelldefels, 22:39:44
+1735, Kaelen Bell, M, 1610, Italy, Guidonia, 22:39:02
+1736, Saige Dixon, F, 1590, USA, Newark, 22:55:10
+1737, Kole Fisher, M, 1612, Mexico, Ciudad Valles, 22:54:28
+1738, Kenna Reyes, F, 1592, UK, Scunthorpe, 23:10:37
+1739, Karsen Ellis, M, 1614, Canada, Summerside, 23:09:55
+1740, Amira Edwards, F, 1594, Germany, Schwabisch Hall, 23:26:05
+1741, Kaelen Collins, M, 1616, France, Orvault, 23:25:23
+1742, Ayla Richardson, F, 1596, Australia, Gladstone, 23:41:34
+1743, Kole Stewart, M, 1618, Spain, Silla, 23:40:52
+1744, Jazmin Morris, F, 1598, Italy, Casarano, 23:57:04
+1745, Kason Rogers, M, 1620, USA, Toledo, 23:56:22
+1746, Jaycee Reed, F, 1600, Mexico, Tula, 00:12:35
+1747, Kaelen Cook, M, 1622, UK, Ellesmere Port, 00:11:53
+1748, Kenzie Morgan, F, 1602, Canada, Corner Brook, 00:28:07
+1749, Kole Bell, M, 1624, Germany, Geesthacht, 00:27:25
+1750, Saylor Murphy, F, 1604, France, Vienne, 00:43:40
+1751, Karsen Bailey, M, 1626, Australia, Devonport, 00:42:58
+1752, Veronika Rivera, F, 1606, Spain, Barbera, 00:59:14
+1753, Kaelen Cooper, M, 1628, Italy, Crotone, 00:58:32
+1754, Amayah Cox, F, 1608, USA, Chula Vista, 01:14:49
+1755, Kole Howard, M, 1630, Mexico, Ciudad Obregon, 01:14:07
+1756, Roselyn Ward, F, 1610, UK, Rotherham, 01:30:25
+1757, Karsen Torres, M, 1632, Canada, Stratford, 01:29:43
+1758, Lilyana Peterson, F, 1612, Germany, Beckum, 01:46:02
+1759, Kaelen Gray, M, 1634, France, Mauguio, 01:45:20
+1760, Briella Ramirez, F, 1614, Australia, Burnie, 02:01:40
+1761, Kole James, M, 1636, Spain, Olesa, 02:00:58
+1762, Milana Watson, F, 1616, Italy, Pomezia, 02:17:19
+1763, Kason Brooks, M, 1638, USA, Lubbock, 02:16:37
+1764, Ariah Kelly, F, 1618, Mexico, Tehuacan, 02:32:59
+1765, Kaelen Sanders, M, 1640, UK, Lowestoft, 02:32:17
+1766, Aya Price, F, 1620, Canada, Yorkton, 02:48:40
+1767, Kole Bennett, M, 1642, Germany, Lunen, 02:47:58
+1768, Nia Wood, F, 1622, France, Mont-de-Marsan, 03:04:22
+1769, Karsen Barnes, M, 1644, Australia, Warrnambool, 03:03:40
+1770, Ayleen Ross, F, 1624, Spain, Aranjuez, 03:20:05
+1771, Kaelen Henderson, M, 1646, Italy, Corigliano, 03:19:23
+1772, Maren Coleman, F, 1626, USA, Bakersfield, 03:35:49
+1773, Kole Jenkins, M, 1648, Mexico, Ciudad Madero, 03:35:07
+1774, Ensley Jenkins, F, 1628, UK, Rhyl, 03:51:34
+1775, Kason Long, M, 1650, Canada, Drummondville, 03:50:52
+1776, Bellamy Perry, F, 1630, Germany, Rendsburg, 04:07:20
+1777, Kaelen Hughes, M, 1652, France, Saint-Dizier, 04:06:38
+1778, Saige Patterson, F, 1632, Australia, Mount Barker, 04:23:07
+1779, Kole Washington, M, 1654, Spain, Siero, 04:22:25
+1780, Tiana Flores, F, 1634, Italy, Cava de' Tirreni, 04:38:55
+1781, Karsen Simmons, M, 1656, USA, Spokane, 04:38:13
+1782, Emery Butler, F, 1636, Mexico, Teziutlan, 04:54:44
+1783, Kaelen Gonzales, M, 1658, UK, Macclesfield, 04:54:02
+1784, Mckinley Foster, F, 1638, Canada, Moose Jaw, 05:10:34
+1785, Kole Alexander, M, 1660, Germany, Illertissen, 05:09:52
+1786, Paisley Bryant, F, 1640, France, Vienne, 05:26:25
+1787, Kason Griffin, M, 1662, Australia, Burnie, 05:25:43
+1788, Blakely Russell, F, 1642, Spain, San Fernando, 05:42:17
+1789, Kaelen Diaz, M, 1664, Italy, Afragola, 05:41:35
+1790, Jayla Hayes, F, 1644, USA, Garland, 05:58:10
+1791, Kole Ford, M, 1666, Mexico, Ciudad Guzman, 05:57:28
+1792, Elsie Hamilton, F, 1646, UK, Gillingham, 06:14:04
+1793, Karsen Graham, M, 1668, Canada, Portage la Prairie, 06:13:22
+1794, Addilyn Sullivan, F, 1648, Germany, Rottweil, 06:29:59
+1795, Kaelen Wallace, M, 1670, France, Montelimar, 06:29:17
+1796, Nalani Woods, F, 1650, Australia, Devonport, 06:45:55
+1797, Kole Cole, M, 1672, Spain, Torrent, 06:45:13
+1798, Anika Murray, F, 1652, Italy, Casarano, 07:01:52
+1799, Kason Freeman, M, 1674, USA, Norfolk, 07:01:10
+1800, Viviana Wells, F, 1654, Mexico, Tula, 07:17:50
+1801, Kaelen Webb, M, 1676, UK, Bridgend, 07:17:08
+1802, Leila Simpson, F, 1656, Canada, New Glasgow, 07:33:49
+1803, Kole Tucker, M, 1678, Germany, Rheda-Wiedenbruck, 07:33:07
+1804, Maren Porter, F, 1658, France, Mont-de-Marsan, 07:49:49
+1805, Karsen Hicks, M, 1680, Australia, Karratha, 07:49:07
+1806, Emberlynn Crawford, F, 1660, Spain, Sant Just Desvern, 08:05:50
+1807, Kaelen Henry, M, 1682, Italy, Pomezia, 08:05:08
+1808, Ayleen Boyd, F, 1662, USA, Lubbock, 08:21:52
+1809, Kole Mason, M, 1684, Mexico, Tehuacan, 08:21:10
+1810, Zariyah Morales, F, 1664, UK, Lowestoft, 08:37:55
+1811, Kason Kennedy, M, 1686, Canada, Stratford, 08:37:13
+1812, Zara Butler, F, 1666, Germany, Beckum, 08:53:59
+1813, Kaelen Bell, M, 1688, France, Mauguio, 08:53:17
+1814, Alisson Dixon, F, 1668, Australia, Shepparton, 09:10:04
+1815, Kole Fisher, M, 1690, Spain, Arrecife, 09:09:22
+1816, Miah Reyes, F, 1670, Italy, Lamezia Terme, 09:26:10
+1817, Karsen Ellis, M, 1692, USA, Riverside, 09:25:28
+1818, Charleigh Edwards, F, 1672, Mexico, Tepic, 09:42:17
+1819, Kaelen Collins, M, 1694, UK, Gosport, 09:41:35
+1820, Emelia Richardson, F, 1674, Canada, Timmins, 09:58:25
+1821, Kole Stewart, M, 1696, Germany, Haren, 09:57:43
+1822, Logan Morris, F, 1676, France, Saint-Sebastien-sur-Loire, 10:14:34
+1823, Kason Rogers, M, 1698, Australia, Whyalla, 10:13:52
+1824, Hattie Reed, F, 1678, Spain, Castelldefels, 10:30:44
+1825, Kaelen Cook, M, 1700, Italy, Guidonia, 10:30:02
+1826, Amira Morgan, F, 1680, USA, Newark, 10:46:55
+1827, Kole Bell, M, 1702, Mexico, Ciudad Valles, 10:46:13
+1828, Raegan Murphy, F, 1682, UK, Scunthorpe, 11:03:07
+1829, Karsen Bailey, M, 1704, Canada, Summerside, 11:02:25
+1830, Emery Rivera, F, 1684, Germany, Schwabisch Hall, 11:19:20
+1831, Kaelen Cooper, M, 1706, France, Orvault, 11:18:38
+1832, Janiyah Cox, F, 1686, Australia, Gladstone, 11:35:34
+1833, Kole Howard, M, 1708, Spain, Silla, 11:34:52
+1834, Mckinley Ward, F, 1688, Italy, Casarano, 11:51:49
+1835, Kason Torres, M, 1710, USA, Toledo, 11:51:07
+1836, Briella Peterson, F, 1690, Mexico, Tula, 12:08:05
+1837, Kaelen Gray, M, 1712, UK, Ellesmere Port, 12:07:23
+1838, Aya Ramirez, F, 1692, Canada, Corner Brook, 12:24:22
+1839, Kole James, M, 1714, Germany, Geesthacht, 12:23:40
+1840, Emberlynn Watson, F, 1694, France, Vienne, 12:40:40
+1841, Karsen Brooks, M, 1716, Australia, Devonport, 12:39:58
+1842, Nia Kelly, F, 1696, Spain, Barbera, 12:56:59
+1843, Kaelen Sanders, M, 1718, Italy, Crotone, 12:56:17
+1844, Alison Price, F, 1698, USA, Chula Vista, 13:13:19
+1845, Kole Bennett, M, 1720, Mexico, Ciudad Obregon, 13:12:37
+1846, Maren Wood, F, 1700, UK, Rotherham, 13:29:40
+1847, Kason Barnes, M, 1722, Canada, Stratford, 13:28:58
+1848, Jaylee Ross, F, 1702, Germany, Beckum, 13:46:02
+1849, Kaelen Henderson, M, 1724, France, Mauguio, 13:45:20
+1850, Alayna Coleman, F, 1704, Australia, Burnie, 14:02:25
+1851, Kole Jenkins, M, 1726, Spain, Olesa, 14:01:43
+1852, Kaylani Jenkins, F, 1706, Italy, Pomezia, 14:18:49
+1853, Karsen Long, M, 1728, USA, Lubbock, 14:18:07
+1854, Lylah Perry, F, 1708, Mexico, Tehuacan, 14:35:14
+1855, Kaelen Hughes, M, 1730, UK, Lowestoft, 14:34:32
+1856, Heaven Patterson, F, 1710, Canada, Yorkton, 14:51:40
+1857, Kole Washington, M, 1732, Germany, Lunen, 14:50:58
+1858, Kora Flores, F, 1712, France, Mont-de-Marsan, 15:08:07
+1859, Kason Simmons, M, 1734, Australia, Warrnambool, 15:07:25
+1860, Kynlee Butler, F, 1714, Spain, Aranjuez, 15:24:35
+1861, Kaelen Gonzales, M, 1736, Italy, Corigliano, 15:23:53
+1862, Salma Foster, F, 1716, USA, Bakersfield, 15:41:04
+1863, Kole Alexander, M, 1738, Mexico, Ciudad Madero, 15:40:22
+1864, Emely Bryant, F, 1718, UK, Rhyl, 15:57:34
+1865, Karsen Griffin, M, 1740, Canada, Drummondville, 15:56:52
+1866, Itzel Russell, F, 1720, Germany, Rendsburg, 16:14:05
+1867, Kaelen Diaz, M, 1742, France, Saint-Dizier, 16:13:23
+1868, Alianna Hayes, F, 1722, Australia, Mount Barker, 16:30:37
+1869, Kole Ford, M, 1744, Spain, Siero, 16:29:55
+1870, Mckenna Hamilton, F, 1724, Italy, Cava de' Tirreni, 16:47:10
+1871, Kason Graham, M, 1746, USA, Spokane, 16:46:28
+1872, Alison Sullivan, F, 1726, Mexico, Teziutlan, 17:03:44
+1873, Kaelen Wallace, M, 1748, UK, Macclesfield, 17:03:02
+1874, Jaylani Woods, F, 1728, Canada, Moose Jaw, 17:20:19
+1875, Kole Cole, M, 1750, Germany, Illertissen, 17:19:37
+1876, Ayleen Murray, F, 1730, France, Vienne, 17:36:55
+1877, Karsen Freeman, M, 1752, Australia, Burnie, 17:36:13
+1878, Melany Wells, F, 1732, Spain, San Fernando, 17:53:32
+1879, Kaelen Webb, M, 1754, Italy, Afragola, 17:52:50
+1880, Amira Simpson, F, 1734, USA, Garland, 18:10:10
+1881, Kole Tucker, M, 1756, Mexico, Ciudad Guzman, 18:09:28
+1882, Giana Porter, F, 1736, UK, Gillingham, 18:26:49
+1883, Kason Hicks, M, 1758, Canada, Portage la Prairie, 18:26:07
+1884, Ainhoa Crawford, F, 1738, Germany, Rottweil, 18:43:29
+1885, Kaelen Henry, M, 1760, France, Montelimar, 18:42:47
+1886, Avah Boyd, F, 1740, Australia, Devonport, 19:00:10
+1887, Kole Mason, M, 1762, Spain, Torrent, 18:59:28
+1888, Luciana Morales, F, 1742, Italy, Casarano, 19:16:52
+1889, Karsen Kennedy, M, 1764, USA, Norfolk, 19:16:10
+1890, Kenzie Butler, F, 1744, Mexico, Tula, 19:33:35
+1891, Kaelen Bell, M, 1766, UK, Bridgend, 19:32:53
+1892, Maren Dixon, F, 1746, Canada, New Glasgow, 19:50:19
+1893, Kole Fisher, M, 1768, Germany, Rheda-Wiedenbruck, 19:49:37
+1894, Mikaela Reyes, F, 1748, France, Mont-de-Marsan, 20:07:04
+1895, Kason Ellis, M, 1770, Australia, Karratha, 20:06:22
+1896, Kaliyah Edwards, F, 1750, Spain, Sant Just Desvern, 20:23:50
+1897, Kaelen Collins, M, 1772, Italy, Pomezia, 20:23:08
+1898, Camryn Richardson, F, 1752, USA, Lubbock, 20:40:37
+1899, Kole Stewart, M, 1774, Mexico, Tehuacan, 20:39:55
+1900, Aylin Morris, F, 1754, UK, Lowestoft, 20:57:25
+1901, Karsen Rogers, M, 1776, Canada, Stratford, 20:56:43
+1902, Amira Reed, F, 1756, Germany, Beckum, 21:14:14
+1903, Kaelen Cook, M, 1778, France, Mauguio, 21:13:32
+1904, Kenna Morgan, F, 1758, Australia, Shepparton, 21:31:04
+1905, Kole Bell, M, 1780, Spain, Arrecife, 21:30:22
+1906, Julissa Murphy, F, 1760, Italy, Lamezia Terme, 21:47:55
+1907, Kason Bailey, M, 1782, USA, Riverside, 21:47:13
+1908, Ariah Rivera, F, 1762, Mexico, Tepic, 22:04:47
+1909, Kaelen Cooper, M, 1784, UK, Gosport, 22:04:05
+1910, Magdalena Cox, F, 1764, Canada, Timmins, 22:21:40
+1911, Kole Howard, M, 1786, Germany, Haren, 22:20:58
+1912, Maleah Ward, F, 1766, France, Saint-Sebastien-sur-Loire, 22:38:34
+1913, Karsen Torres, M, 1788, Australia, Whyalla, 22:37:52
+1914, Celeste Peterson, F, 1768, Spain, Castelldefels, 22:55:29
+1915, Kaelen Gray, M, 1790, Italy, Guidonia, 22:54:47
+1916, Aya Ramirez, F, 1770, USA, Newark, 23:12:25
+1917, Kole James, M, 1792, Mexico, Ciudad Valles, 23:11:43
+1918, Jazlyn Watson, F, 1772, UK, Scunthorpe, 23:29:22
+1919, Kason Brooks, M, 1794, Canada, Summerside, 23:28:40
+1920, Alora Kelly, F, 1774, Germany, Schwabisch Hall, 23:46:20
+1921, Kaelen Sanders, M, 1796, France, Orvault, 23:45:38
+1922, Janiyah Price, F, 1776, Australia, Gladstone, 00:03:19
+1923, Kole Bennett, M, 1798, Spain, Silla, 00:02:37
+1924, Miah Wood, F, 1778, Italy, Casarano, 00:20:19
+1925, Karsen Barnes, M, 1800, USA, Toledo, 00:19:37
+1926, Gracelynn Ross, F, 1780, Mexico, Tula, 00:37:20
+1927, Kaelen Henderson, M, 1802, UK, Ellesmere Port, 00:36:38
+1928, Maliyah Coleman, F, 1782, Canada, Corner Brook, 00:54:22
+1929, Kole Jenkins, M, 1804, Germany, Geesthacht, 00:53:40
+1930, Amirah Jenkins, F, 1784, France, Vienne, 01:11:25
+1931, Kason Long, M, 1806, Australia, Devonport, 01:10:43
+1932, Maren Perry, F, 1786, Spain, Barbera, 01:28:29
+1933, Kaelen Hughes, M, 1808, Italy, Crotone, 01:27:47
+1934, Ensley Patterson, F, 1788, USA, Chula Vista, 01:45:34
+1935, Kole Washington, M, 1810, Mexico, Ciudad Obregon, 01:44:52
+1936, Ryan Flores, M, 1812, UK, Rotherham, 02:02:40
+1937, Karsen Simmons, M, 1814, Canada, Stratford, 02:01:58
+1938, Novah Butler, F, 1790, Germany, Beckum, 02:19:47
+1939, Kaelen Gonzales, M, 1816, France, Mauguio, 02:19:05
+1940, Kamryn Foster, F, 1792, Australia, Burnie, 02:36:55
+1941, Kole Alexander, M, 1818, Spain, Olesa, 02:36:13
+1942, Kenia Bryant, F, 1794, Italy, Pomezia, 02:54:04
+1943, Kason Griffin, M, 1820, USA, Lubbock, 02:53:22
+1944, Bellamy Russell, F, 1796, Mexico, Tehuacan, 03:11:14
+1945, Kaelen Diaz, M, 1822, UK, Lowestoft, 03:10:32
+1946, Kaia Hayes, F, 1798, Canada, Yorkton, 03:28:25
+1947, Kole Ford, M, 1824, Germany, Lunen, 03:27:43
+1948, Lainey Hamilton, F, 1800, France, Mont-de-Marsan, 03:45:37
+1949, Karsen Graham, M, 1826, Australia, Warrnambool, 03:44:55
+1950, Kyra Sullivan, F, 1802, Spain, Aranjuez, 04:02:50
+1951, Kaelen Wallace, M, 1828, Italy, Corigliano, 04:02:08
+1952, Saylor Woods, F, 1804, USA, Bakersfield, 04:20:04
+1953, Kole Cole, M, 1830, Mexico, Ciudad Madero, 04:19:22
+1954, Adalyn Murray, F, 1806, UK, Rhyl, 04:37:19
+1955, Kason Freeman, M, 1832, Canada, Drummondville, 04:36:37
+1956, Lyric Wells, F, 1808, Germany, Rendsburg, 04:54:35
+1957, Kaelen Webb, M, 1834, France, Saint-Dizier, 04:53:53
+1958, Maren Simpson, F, 1810, Australia, Mount Barker, 05:11:52
+1959, Kole Tucker, M, 1836, Spain, Siero, 05:11:10
+1960, Zendaya Porter, F, 1812, Italy, Cava de' Tirreni, 05:29:10
+1961, Karsen Hicks, M, 1838, USA, Spokane, 05:28:28
+1962, Khloe Crawford, F, 1814, Mexico, Teziutlan, 05:46:29
+1963, Kaelen Henry, M, 1840, UK, Macclesfield, 05:45:47
+1964, Kaliyah Boyd, F, 1816, Canada, Moose Jaw, 06:03:49
+1965, Kole Mason, M, 1842, Germany, Illertissen, 06:03:07
+1966, Mckenzie Morales, F, 1818, France, Vienne, 06:21:10
+1967, Kason Kennedy, M, 1844, Australia, Burnie, 06:20:28
+1968, Heaven Butler, F, 1820, Spain, San Fernando, 06:38:32
+1969, Kaelen Bell, M, 1846, Italy, Afragola, 06:37:50
+1970, Maleah Dixon, F, 1822, USA, Garland, 06:55:55
+1971, Kole Fisher, M, 1848, Mexico, Ciudad Guzman, 06:55:13
+1972, Ayleen Reyes, F, 1824, UK, Gillingham, 07:13:19
+1973, Karsen Ellis, M, 1850, Canada, Portage la Prairie, 07:12:37
+1974, Raegan Edwards, F, 1826, Germany, Rottweil, 07:30:44
+1975, Kaelen Collins, M, 1852, France, Montelimar, 07:30:02
+1976, Alianna Richardson, F, 1828, Australia, Devonport, 07:48:10
+1977, Kole Stewart, M, 1854, Spain, Torrent, 07:47:28
+1978, Emberlynn Morris, F, 1830, Italy, Casarano, 08:05:37
+1979, Kason Rogers, M, 1856, USA, Norfolk, 08:04:55
+1980, Kenna Reed, F, 1832, Mexico, Tula, 08:23:05
+1981, Kaelen Cook, M, 1858, UK, Bridgend, 08:22:23
+1982, Miah Morgan, F, 1834, Canada, New Glasgow, 08:40:34
+1983, Kole Bell, M, 1860, Germany, Rheda-Wiedenbruck, 08:39:52
+1984, Maliyah Murphy, F, 1836, France, Mont-de-Marsan, 08:58:04
+1985, Karsen Bailey, M, 1862, Australia, Karratha, 08:57:22
+1986, Lila Rivera, F, 1838, Spain, Sant Just Desvern, 09:15:35
+1987, Kaelen Cooper, M, 1864, Italy, Pomezia, 09:14:53
+1988, Maren Cox, F, 1840, USA, Lubbock, 09:33:07
+1989, Kole Howard, M, 1866, Mexico, Tehuacan, 09:32:25
+1990, Emery Ward, F, 1842, UK, Lowestoft, 09:50:40
+1991, Kason Torres, M, 1868, Canada, Stratford, 09:49:58
+1992, Nia Peterson, F, 1844, Germany, Beckum, 10:08:14
+1993, Kaelen Gray, M, 1870, France, Mauguio, 10:07:32
+1994, Aya Ramirez, F, 1846, Australia, Shepparton, 10:25:49
+1995, Kole James, M, 1872, Spain, Arrecife, 10:25:07
+1996, Emelia Watson, F, 1848, Italy, Lamezia Terme, 10:43:25
+1997, Karsen Brooks, M, 1874, USA, Riverside, 10:42:43
+1998, Briar Kelly, F, 1850, Mexico, Tepic, 11:01:02
+1999, Kaelen Sanders, M, 1876, UK, Gosport, 11:00:20
+2000, Annalise Price, F, 1852, Canada, Timmins, 11:18:40
+2001, Kole Bennett, M, 1878, Germany, Haren, 11:17:58
+2002, Ayleen Wood, F, 1854, France, Saint-Sebastien-sur-Loire, 11:36:19
+2003, Kason Barnes, M, 1880, Australia, Whyalla, 11:35:37
+2004, Alora Ross, F, 1856, Spain, Castelldefels, 11:53:59
+2005, Kaelen Henderson, M, 1882, Italy, Guidonia, 11:53:17
+2006, Maliyah Coleman, F, 1858, USA, Newark, 12:11:40
+2007, Kole Jenkins, M, 1884, Mexico, Ciudad Valles, 12:10:58
+2008, Raegan Jenkins, F, 1860, UK, Scunthorpe, 12:29:22
+2009, Karsen Long, M, 1886, Canada, Summerside, 12:28:40
+2010, Mckinley Perry, F, 1862, Germany, Schwabisch Hall, 12:47:05
+2011, Kaelen Hughes, M, 1888, France, Orvault, 12:46:23
+2012, Briella Patterson, F, 1864, Australia, Gladstone, 13:04:49
+2013, Kole Washington, M, 1890, Spain, Silla, 13:04:07
+2014, Veronika Flores, F, 1866, Italy, Casarano, 13:22:34
+2015, Kason Simmons, M, 1892, USA, Toledo, 13:21:52
+2016, Kenzie Butler, F, 1868, Mexico, Tula, 13:40:20
+2017, Kaelen Gonzales, M, 1894, UK, Ellesmere Port, 13:39:38
+2018, Briar Foster, F, 1870, Canada, Corner Brook, 13:58:07
+2019, Kole Alexander, M, 1896, Germany, Geesthacht, 13:57:25
+2020, Maren Bryant, F, 1872, France, Vienne, 14:15:55
+2021, Karsen Griffin, M, 1898, Australia, Devonport, 14:15:13
+2022, Aya Russell, F, 1874, Spain, Barbera, 14:33:44
+2023, Kaelen Diaz, M, 1900, Italy, Crotone, 14:33:02
+2024, Emely Hayes, F, 1876, USA, Chula Vista, 14:51:34
+2025, Kole Ford, M, 1902, Mexico, Ciudad Obregon, 14:50:52
+2026, Alianna Hamilton, F, 1878, UK, Rotherham, 15:09:25
+2027, Kason Graham, M, 1904, Canada, Stratford, 15:08:43
+2028, Lilyana Sullivan, F, 1880, Germany, Beckum, 15:27:17
+2029, Kaelen Wallace, M, 1906, France, Mauguio, 15:26:35
+2030, Saylor Woods, F, 1882, Australia, Burnie, 15:45:10
+2031, Kole Cole, M, 1908, Spain, Olesa, 15:44:28
+2032, Ember Murray, F, 1884, Italy, Pomezia, 16:03:04
+2033, Karsen Freeman, M, 1910, USA, Lubbock, 16:02:22
+2034, Maleah Wells, F, 1886, Mexico, Tehuacan, 16:20:59
+2035, Kaelen Webb, M, 1912, UK, Lowestoft, 16:20:17
+2036, Janiyah Simpson, F, 1888, Canada, Yorkton, 16:38:55
+2037, Kole Tucker, M, 1914, Germany, Lunen, 16:38:13
+2038, Mckenna Porter, F, 1890, France, Mont-de-Marsan, 16:56:52
+2039, Kason Hicks, M, 1916, Australia, Warrnambool, 16:56:10
+2040, Ensley Crawford, F, 1892, Spain, Aranjuez, 17:14:50
+2041, Kaelen Henry, M, 1918, Italy, Corigliano, 17:14:08
+2042, Amira Boyd, F, 1894, USA, Bakersfield, 17:32:49
+2043, Kole Mason, M, 1920, Mexico, Ciudad Madero, 17:32:07
+2044, Amayah Morales, F, 1896, UK, Rhyl, 17:50:49
+2045, Karsen Kennedy, M, 1922, Canada, Drummondville, 17:50:07
+2046, Kyra Butler, F, 1898, Germany, Rendsburg, 18:08:50
+2047, Kaelen Bell, M, 1924, France, Saint-Dizier, 18:08:08
+2048, Kaylani Dixon, F, 1900, Australia, Mount Barker, 18:26:52
+2049, Kole Fisher, M, 1926, Spain, Siero, 18:26:10
+2050, Jayleen Reyes, F, 1902, Italy, Cava de' Tirreni, 18:44:55
+2051, Kason Ellis, M, 1928, USA, Spokane, 18:44:13
+2052, Celeste Edwards, F, 1904, Mexico, Teziutlan, 19:02:59
+2053, Kaelen Collins, M, 1930, UK, Macclesfield, 19:02:17
+2054, Zariyah Richardson, F, 1906, Canada, Moose Jaw, 19:21:04
+2055, Kole Stewart, M, 1932, Germany, Illertissen, 19:20:22
+2056, Raegan Morris, F, 1908, France, Vienne, 19:39:10
+2057, Karsen Rogers, M, 1934, Australia, Burnie, 19:38:28
+2058, Maren Reed, F, 1910, Spain, San Fernando, 19:57:17
+2059, Kaelen Cook, M, 1936, Italy, Afragola, 19:56:35
+2060, Ayleen Morgan, F, 1912, USA, Garland, 20:15:25
+2061, Kole Bell, M, 1938, Mexico, Ciudad Guzman, 20:14:43
+2062, Brynlee Murphy, F, 1914, UK, Gillingham, 20:33:34
+2063, Kason Bailey, M, 1940, Canada, Portage la Prairie, 20:32:52
+2064, Ensley Rivera, F, 1916, Germany, Rottweil, 20:51:44
+2065, Kaelen Cooper, M, 1942, France, Montelimar, 20:51:02
+2066, Amira Cox, F, 1918, Australia, Devonport, 21:09:55
+2067, Kole Howard, M, 1944, Spain, Torrent, 21:09:13
+2068, Novah Ward, F, 1920, Italy, Casarano, 21:28:07
+2069, Karsen Torres, M, 1946, USA, Norfolk, 21:27:25
+2070, Miah Peterson, F, 1922, Mexico, Tula, 21:46:20
+2071, Kaelen Gray, M, 1948, UK, Bridgend, 21:45:38
+2072, Mckinley Ramirez, F, 1924, Canada, New Glasgow, 22:04:34
+2073, Kole James, M, 1950, Germany, Rheda-Wiedenbruck, 22:03:52
+2074, Alisson Watson, F, 1926, France, Mont-de-Marsan, 22:22:49
+2075, Kason Brooks, M, 1952, Australia, Karratha, 22:22:07
+2076, Emberlynn Kelly, F, 1928, Spain, Sant Just Desvern, 22:41:05
+2077, Kaelen Sanders, M, 1954, Italy, Pomezia, 22:40:23
+2078, Maren Price, F, 1930, USA, Lubbock, 22:59:22
+2079, Kole Bennett, M, 1956, Mexico, Tehuacan, 22:58:40
+2080, Amirah Wood, F, 1932, UK, Lowestoft, 23:17:40
+2081, Karsen Barnes, M, 1958, Canada, Stratford, 23:16:58
+2082, Aya Ross, F, 1934, Germany, Beckum, 23:35:59
+2083, Kaelen Henderson, M, 1960, France, Mauguio, 23:35:17
+2084, Jayla Coleman, F, 1936, Australia, Shepparton, 23:54:19
+2085, Kole Jenkins, M, 1962, Spain, Arrecife, 23:53:37
+2086, Ayleen Jenkins, F, 1938, Italy, Lamezia Terme, 00:12:40
+2087, Kason Long, M, 1964, USA, Riverside, 00:11:58
+2088, Gracelynn Perry, F, 1940, Mexico, Tepic, 00:31:02
+2089, Kaelen Hughes, M, 1966, UK, Gosport, 00:30:20
+2090, Raegan Patterson, F, 1942, Canada, Timmins, 00:49:25
+2091, Kole Washington, M, 1968, Germany, Haren, 00:48:43
+2092, Kenna Flores, F, 1944, France, Saint-Sebastien-sur-Loire, 01:07:49
+2093, Karsen Simmons, M, 1970, Australia, Whyalla, 01:07:07
+2094, Emery Butler, F, 1946, Spain, Castelldefels, 01:26:14
+2095, Kaelen Gonzales, M, 1972, Italy, Guidonia, 01:25:32
+2096, Maliyah Foster, F, 1948, USA, Newark, 01:44:40
+2097, Kole Alexander, M, 1974, Mexico, Ciudad Valles, 01:43:58
+2098, Miah Bryant, F, 1950, UK, Scunthorpe, 02:03:07
+2099, Kason Griffin, M, 1976, Canada, Summerside, 02:02:25
+2100, Kenzie Russell, F, 1952, Germany, Schwabisch Hall, 02:21:35
+2101, Kaelen Diaz, M, 1978, France, Orvault, 02:20:53
+2102, Lylah Hayes, F, 1954, Australia, Gladstone, 02:40:04
+2103, Kole Ford, M, 1980, Spain, Silla, 02:39:22
+2104, Alora Hamilton, F, 1956, Italy, Casarano, 02:58:34
+2105, Karsen Graham, M, 1982, USA, Toledo, 02:57:52
+2106, Briar Sullivan, F, 1958, Mexico, Tula, 03:17:05
+2107, Kaelen Wallace, M, 1984, UK, Ellesmere Port, 03:16:23
+2108, Mckenna Woods, F, 1960, Canada, Corner Brook, 03:35:37
+2109, Kole Cole, M, 1986, Germany, Geesthacht, 03:34:55
+2110, Emberlynn Murray, F, 1962, France, Vienne, 03:54:10
+2111, Kason Freeman, M, 1988, Australia, Devonport, 03:53:28
+2112, Nia Wells, F, 1964, Spain, Barbera, 04:12:44
+2113, Kaelen Webb, M, 1990, Italy, Crotone, 04:12:02
+2114, Jaylani Simpson, F, 1966, USA, Chula Vista, 04:31:19
+2115, Kole Tucker, M, 1992, Mexico, Ciudad Obregon, 04:30:37
+2116, Saylor Porter, F, 1968, UK, Rotherham, 04:49:55
+2117, Karsen Hicks, M, 1994, Canada, Stratford, 04:49:13
+2118, Ayleen Crawford, F, 1970, Germany, Beckum, 05:08:32
+2119, Kaelen Henry, M, 1996, France, Mauguio, 05:07:50
+2120, Milana Boyd, F, 1972, Australia, Burnie, 05:27:10
+2121, Kole Mason, M, 1998, Spain, Olesa, 05:26:28
+2122, Jaylee Morales, F, 1974, Italy, Pomezia, 05:45:49
+2123, Kason Kennedy, M, 2000, USA, Lubbock, 05:45:07
+2124, Amira Butler, F, 1976, Mexico, Tehuacan, 06:04:29
+2125, Kaelen Bell, M, 2002, UK, Lowestoft, 06:03:47
+2126, Alison Dixon, F, 1978, Canada, Yorkton, 06:23:10
+2127, Kole Fisher, M, 2004, Germany, Lunen, 06:22:28
+2128, Emelia Reyes, F, 1980, France, Mont-de-Marsan, 06:41:52
+2129, Karsen Ellis, M, 2006, Australia, Warrnambool, 06:41:10
+2130, Jayleen Edwards, F, 1982, Spain, Aranjuez, 07:00:35
+2131, Kaelen Collins, M, 2008, Italy, Corigliano, 06:59:53
+2132, Zariyah Richardson, F, 1984, USA, Bakersfield, 07:19:19
+2133, Kole Stewart, M, 2010, Mexico, Ciudad Madero, 07:18:37
+2134, Raegan Morris, F, 1986, UK, Rhyl, 07:38:04
+2135, Kason Rogers, M, 2012, Canada, Drummondville, 07:37:22
+2136, Maren Reed, F, 1988, Germany, Rendsburg, 07:56:50
+2137, Kaelen Cook, M, 2014, France, Saint-Dizier, 07:56:08
+2138, Aya Morgan, F, 1990, Australia, Mount Barker, 08:15:37
+2139, Kole Bell, M, 2016, Spain, Siero, 08:14:55
+2140, Brynlee Murphy, F, 1992, Italy, Cava de' Tirreni, 08:34:25
+2141, Karsen Bailey, M, 2018, USA, Spokane, 08:33:43
+2142, Ensley Rivera, F, 1994, Mexico, Teziutlan, 08:53:14
+2143, Kaelen Cooper, M, 2020, UK, Macclesfield, 08:52:32
+2144, Amira Cox, F, 1996, Canada, Moose Jaw, 09:12:04
+2145, Kole Howard, M, 2022, Germany, Illertissen, 09:11:22
+2146, Novah Ward, F, 1998, France, Vienne, 09:30:55
+2147, Kason Torres, M, 2024, Australia, Burnie, 09:30:13
+2148, Miah Peterson, F, 2000, Spain, San Fernando, 09:49:47
+2149, Kaelen Gray, M, 2026, Italy, Afragola, 09:49:05
+2150, Mckinley Ramirez, F, 2002, USA, Garland, 10:08:40
+2151, Kole James, M, 2028, Mexico, Ciudad Guzman, 10:07:58
+2152, Alisson Watson, F, 2004, UK, Gillingham, 10:27:34
+2153, Karsen Brooks, M, 2030, Canada, Portage la Prairie, 10:26:52
+2154, Emberlynn Kelly, F, 2006, Germany, Rottweil, 10:46:29
+2155, Kaelen Sanders, M, 2032, France, Montelimar, 10:45:47
+2156, Maren Price, F, 2008, Australia, Devonport, 11:05:25
+2157, Kole Bennett, M, 2034, Spain, Torrent, 11:04:43
+2158, Amirah Wood, F, 2010, Italy, Casarano, 11:24:22
+2159, Kason Barnes, M, 2036, USA, Norfolk, 11:23:40
+2160, Aya Ross, F, 2012, Mexico, Tula, 11:43:20
+2161, Kaelen Henderson, M, 2038, UK, Bridgend, 11:42:38
+2162, Jayla Coleman, F, 2014, Canada, New Glasgow, 12:02:19
+2163, Kole Jenkins, M, 2040, Germany, Rheda-Wiedenbruck, 12:01:37
+2164, Ayleen Jenkins, F, 2016, France, Mont-de-Marsan, 12:21:19
+2165, Karsen Long, M, 2042, Australia, Karratha, 12:20:37
+2166, Gracelynn Perry, F, 2018, Spain, Sant Just Desvern, 12:40:20
+2167, Kaelen Hughes, M, 2044, Italy, Pomezia, 12:39:38
+2168, Raegan Patterson, F, 2020, USA, Lubbock, 12:59:22
+2169, Kole Washington, M, 2046, Mexico, Tehuacan, 12:58:40
+2170, Kenna Flores, F, 2022, UK, Lowestoft, 13:18:25
+2171, Karsen Simmons, M, 2048, Canada, Stratford, 13:17:43
+2172, Emery Butler, F, 2024, Germany, Beckum, 13:37:29
+2173, Kaelen Gonzales, M, 2050, France, Mauguio, 13:36:47
+2174, Maliyah Foster, F, 2026, Australia, Shepparton, 13:56:34
+2175, Kole Alexander, M, 2052, Spain, Arrecife, 13:55:52
+2176, Miah Bryant, F, 2028, Italy, Lamezia Terme, 14:15:40
+2177, Kason Griffin, M, 2054, USA, Riverside, 14:14:58
+2178, Kenzie Russell, F, 2030, Mexico, Tepic, 14:34:47
+2179, Kaelen Diaz, M, 2056, UK, Gosport, 14:34:05
+2180, Lylah Hayes, F, 2032, Canada, Timmins, 14:53:55
+2181, Kole Ford, M, 2058, Germany, Haren, 14:53:13
+2182, Alora Hamilton, F, 2034, France, Saint-Sebastien-sur-Loire, 15:13:04
+2183, Karsen Graham, M, 2060, Australia, Whyalla, 15:12:22
+2184, Briar Sullivan, F, 2036, Spain, Castelldefels, 15:32:14
+2185, Kaelen Wallace, M, 2062, Italy, Guidonia, 15:31:32
+2186, Mckenna Woods, F, 2038, USA, Newark, 15:51:25
+2187, Kole Cole, M, 2064, Mexico, Ciudad Valles, 15:50:43
+2188, Emberlynn Murray, F, 2040, UK, Scunthorpe, 16:10:37
+2189, Kason Freeman, M, 2066, Canada, Summerside, 16:09:55
+2190, Nia Wells, F, 2042, Germany, Schwabisch Hall, 16:29:50
+2191, Kaelen Webb, M, 2068, France, Orvault, 16:29:08
+2192, Jaylani Simpson, F, 2044, Australia, Gladstone, 16:49:04
+2193, Kole Tucker, M, 2070, Spain, Silla, 16:48:22
+2194, Saylor Porter, F, 2046, Italy, Casarano, 17:08:19
+2195, Karsen Hicks, M, 2072, USA, Toledo, 17:07:37
+2196, Ayleen Crawford, F, 2048, Mexico, Tula, 17:27:35
+2197, Kaelen Henry, M, 2074, UK, Ellesmere Port, 17:26:53
+2198, Milana Boyd, F, 2050, Canada, Corner Brook, 17:46:52
+2199, Kole Mason, M, 2076, Germany, Geesthacht, 17:46:10
+2200, Jaylee Morales, F, 2052, France, Vienne, 18:06:10
+2201, Kason Kennedy, M, 2078, Australia, Devonport, 18:05:28
+2202, Amira Butler, F, 2054, Spain, Barbera, 18:25:29
+2203, Kaelen Bell, M, 2080, Italy, Crotone, 18:24:47
+2204, Alison Dixon, F, 2056, USA, Chula Vista, 18:44:49
+2205, Kole Fisher, M, 2082, Mexico, Ciudad Obregon, 18:44:07
+2206, Emelia Reyes, F, 2058, UK, Rotherham, 19:04:10
+2207, Karsen Ellis, M, 2084, Canada, Stratford, 19:03:28
+2208, Jayleen Edwards, F, 2060, Germany, Beckum, 19:23:32
+2209, Kaelen Collins, M, 2086, France, Mauguio, 19:22:50
+2210, Zariyah Richardson, F, 2062, Australia, Burnie, 19:42:55
+2211, Kole Stewart, M, 2088, Spain, Olesa, 19:42:13
+2212, Raegan Morris, F, 2064, Italy, Pomezia, 20:02:19
+2213, Kason Rogers, M, 2090, USA, Lubbock, 20:01:37
+2214, Maren Reed, F, 2066, Mexico, Tehuacan, 20:21:44
+2215, Kaelen Cook, M, 2092, UK, Lowestoft, 20:21:02
+2216, Aya Morgan, F, 2068, Canada, Yorkton, 20:41:10
+2217, Kole Bell, M, 2094, Germany, Lunen, 20:40:28
+2218, Brynlee Murphy, F, 2070, France, Mont-de-Marsan, 21:00:37
+2219, Karsen Bailey, M, 2096, Australia, Warrnambool, 20:59:55
+2220, Ensley Rivera, F, 2072, Spain, Aranjuez, 21:20:05
+2221, Kaelen Cooper, M, 2098, Italy, Corigliano, 21:19:23
+2222, Amira Cox, F, 2074, USA, Bakersfield, 21:39:34
+2223, Kole Howard, M, 2100, Mexico, Ciudad Madero, 21:38:52
+2224, Novah Ward, F, 2076, UK, Rhyl, 21:59:04
+2225, Kason Torres, M, 2102, Canada, Drummondville, 21:58:22
+2226, Miah Peterson, F, 2078, Germany, Rendsburg, 22:18:35
+2227, Kaelen Gray, M, 2104, France, Saint-Dizier, 22:17:53
+2228, Mckinley Ramirez, F, 2080, Australia, Mount Barker, 22:38:07
+2229, Kole James, M, 2106, Spain, Siero, 22:37:25
+2230, Alisson Watson, F, 2082, Italy, Cava de' Tirreni, 22:57:40
+2231, Karsen Brooks, M, 2108, USA, Spokane, 22:56:58
+2232, Emberlynn Kelly, F, 2084, Mexico, Teziutlan, 23:17:14
+2233, Kaelen Sanders, M, 2110, UK, Macclesfield, 23:16:32
+2234, Maren Price, F, 2086, Canada, Moose Jaw, 23:36:49
+2235, Kole Bennett, M, 2112, Germany, Illertissen, 23:36:07
+2236, Amirah Wood, F, 2088, France, Vienne, 23:56:25
+2237, Kason Barnes, M, 2114, Australia, Burnie, 23:55:43
+2238, Aya Ross, F, 2090, Spain, San Fernando, 00:16:02
+2239, Kaelen Henderson, M, 2116, Italy, Afragola, 00:15:20
+2240, Jayla Coleman, F, 2092, USA, Garland, 00:35:40
+2241, Kole Jenkins, M, 2118, Mexico, Ciudad Guzman, 00:34:58
+2242, Ayleen Jenkins, F, 2094, UK, Gillingham, 00:55:19
+2243, Karsen Long, M, 2120, Canada, Portage la Prairie, 00:54:37
+2244, Gracelynn Perry, F, 2096, Germany, Rottweil, 01:14:59
+2245, Kaelen Hughes, M, 2122, France, Montelimar, 01:14:17
+2246, Raegan Patterson, F, 2098, Australia, Devonport, 01:34:40
+2247, Kole Washington, M, 2124, Spain, Torrent, 01:33:58
+2248, Kenna Flores, F, 2100, Italy, Casarano, 01:54:22
+2249, Karsen Simmons, M, 2126, USA, Norfolk, 01:53:40
+2250, Emery Butler, F, 2102, Mexico, Tula, 02:14:05
+2251, Kaelen Gonzales, M, 2128, UK, Bridgend, 02:13:23
+2252, Maliyah Foster, F, 2104, Canada, New Glasgow, 02:33:49
+2253, Kole Alexander, M, 2130, Germany, Rheda-Wiedenbruck, 02:33:07
+2254, Miah Bryant, F, 2106, France, Mont-de-Marsan, 02:53:34
+2255, Kason Griffin, M, 2132, Australia, Karratha, 02:52:52
+2256, Kenzie Russell, F, 2108, Spain, Sant Just Desvern, 03:13:20
+2257, Kaelen Diaz, M, 2134, Italy, Pomezia, 03:12:38
+2258, Lylah Hayes, F, 2110, USA, Lubbock, 03:33:07
+2259, Kole Ford, M, 2136, Mexico, Tehuacan, 03:32:25
+2260, Alora Hamilton, F, 2112, UK, Lowestoft, 03:52:55
+2261, Karsen Graham, M, 2138, Canada, Stratford, 03:52:13
+2262, Briar Sullivan, F, 2114, Germany, Beckum, 04:12:44
+2263, Kaelen Wallace, M, 2140, France, Mauguio, 04:12:02
+2264, Mckenna Woods, F, 2116, Australia, Shepparton, 04:32:34
+2265, Kole Cole, M, 2142, Spain, Arrecife, 04:31:52
+2266, Emberlynn Murray, F, 2118, Italy, Lamezia Terme, 04:52:25
+2267, Kason Freeman, M, 2144, USA, Riverside, 04:51:43
+2268, Nia Wells, F, 2120, Mexico, Tepic, 05:12:17
+2269, Kaelen Webb, M, 2146, UK, Gosport, 05:11:35
+2270, Jaylani Simpson, F, 2122, Canada, Timmins, 05:32:10
+2271, Kole Tucker, M, 2148, Germany, Haren, 05:31:28
+2272, Saylor Porter, F, 2124, France, Saint-Sebastien-sur-Loire, 05:52:04
+2273, Karsen Hicks, M, 2150, Australia, Whyalla, 05:51:22
+2274, Ayleen Crawford, F, 2126, Spain, Castelldefels, 06:11:59
+2275, Kaelen Henry, M, 2152, Italy, Guidonia, 06:11:17
+2276, Milana Boyd, F, 2128, USA, Newark, 06:31:55
+2277, Kole Mason, M, 2154, Mexico, Ciudad Valles, 06:31:13
+2278, Jaylee Morales, F, 2130, UK, Scunthorpe, 06:51:52
+2279, Kason Kennedy, M, 2156, Canada, Summerside, 06:51:10
+2280, Amira Butler, F, 2132, Germany, Schwabisch Hall, 07:11:50
+2281, Kaelen Bell, M, 2158, France, Orvault, 07:11:08
+2282, Alison Dixon, F, 2134, Australia, Gladstone, 07:31:49
+2283, Kole Fisher, M, 2160, Spain, Silla, 07:31:07
+2284, Emelia Reyes, F, 2136, Italy, Casarano, 07:51:49
+2285, Karsen Ellis, M, 2162, USA, Toledo, 07:51:07
+2286, Jayleen Edwards, F, 2138, Mexico, Tula, 08:11:50
+2287, Kaelen Collins, M, 2164, UK, Ellesmere Port, 08:11:08
+2288, Zariyah Richardson, F, 2140, Canada, Corner Brook, 08:31:52
+2289, Kole Stewart, M, 2166, Germany, Geesthacht, 08:31:10
+2290, Raegan Morris, F, 2142, France, Vienne, 08:51:55
+2291, Kason Rogers, M, 2168, Australia, Devonport, 08:51:13
+2292, Maren Reed, F, 2144, Spain, Barbera, 09:11:59
+2293, Kaelen Cook, M, 2170, Italy, Crotone, 09:11:17
+2294, Aya Morgan, F, 2146, USA, Chula Vista, 09:32:04
+2295, Kole Bell, M, 2172, Mexico, Ciudad Obregon, 09:31:22
+2296, Brynlee Murphy, F, 2148, UK, Rotherham, 09:52:10
+2297, Karsen Bailey, M, 2174, Canada, Stratford, 09:51:28
+2298, Ensley Rivera, F, 2150, Germany, Beckum, 10:12:17
+2299, Kaelen Cooper, M, 2176, France, Mauguio, 10:11:35
+2300, Amira Cox, F, 2152, Australia, Burnie, 10:32:25
+2301, Kole Howard, M, 2178, Spain, Olesa, 10:31:43
+2302, Novah Ward, F, 2154, Italy, Pomezia, 10:52:34
+2303, Kason Torres, M, 2180, USA, Lubbock, 10:51:52
+2304, Miah Peterson, F, 2156, Mexico, Tehuacan, 11:12:44
+2305, Kaelen Gray, M, 2182, UK, Lowestoft, 11:12:02
+2306, Mckinley Ramirez, F, 2158, Canada, Yorkton, 11:32:55
+2307, Kole James, M, 2184, Germany, Lunen, 11:32:13
+2308, Alisson Watson, F, 2160, France, Mont-de-Marsan, 11:53:07
+2309, Karsen Brooks, M, 2186, Australia, Warrnambool, 11:52:25
+2310, Emberlynn Kelly, F, 2162, Spain, Aranjuez, 12:13:20
+2311, Kaelen Sanders, M, 2188, Italy, Corigliano, 12:12:38
+2312, Maren Price, F, 2164, USA, Bakersfield, 12:33:34
+2313, Kole Bennett, M, 2190, Mexico, Ciudad Madero, 12:32:52
+2314, Amirah Wood, F, 2166, UK, Rhyl, 12:53:49
+2315, Kason Barnes, M, 2192, Canada, Drummondville, 12:53:07
+2316, Aya Ross, F, 2168, Germany, Rendsburg, 13:14:05
+2317, Kaelen Henderson, M, 2194, France, Saint-Dizier, 13:13:23
+2318, Jayla Coleman, F, 2170, Australia, Mount Barker, 13:34:22
+2319, Kole Jenkins, M, 2196, Spain, Siero, 13:33:40
+2320, Ayleen Jenkins, F, 2172, Italy, Cava de' Tirreni, 13:54:40
+2321, Karsen Long, M, 2198, USA, Spokane, 13:53:58
+2322, Gracelynn Perry, F, 2174, Mexico, Teziutlan, 14:14:59
+2323, Kaelen Hughes, M, 2200, UK, Macclesfield, 14:14:17
+2324, Raegan Patterson, F, 2176, Canada, Moose Jaw, 14:35:19
+2325, Kole Washington, M, 2202, Germany, Illertissen, 14:34:37
+2326, Kenna Flores, F, 2178, France, Vienne, 14:55:40
+2327, Karsen Simmons, M, 2204, Australia, Burnie, 14:54:58
+2328, Emery Butler, F, 2180, Spain, San Fernando, 15:16:02
+2329, Kaelen Gonzales, M, 2206, Italy, Afragola, 15:15:20
+2330, Maliyah Foster, F, 2182, USA, Garland, 15:36:25
+2331, Kole Alexander, M, 2208, Mexico, Ciudad Guzman, 15:35:43
+2332, Miah Bryant, F, 2184, UK, Gillingham, 15:56:49
+2333, Kason Griffin, M, 2210, Canada, Portage la Prairie, 15:56:07
+2334, Kenzie Russell, F, 2186, Germany, Rottweil, 16:17:14
+2335, Kaelen Diaz, M, 2212, France, Montelimar, 16:16:32
+2336, Lylah Hayes, F, 2188, Australia, Devonport, 16:37:40
+2337, Kole Ford, M, 2214, Spain, Torrent, 16:36:58
+2338, Alora Hamilton, F, 2190, Italy, Casarano, 16:58:07
+2339, Karsen Graham, M, 2216, USA, Norfolk, 16:57:25
+2340, Briar Sullivan, F, 2192, Mexico, Tula, 17:18:35
+2341, Kaelen Wallace, M, 2218, UK, Bridgend, 17:17:53
+2342, Mckenna Woods, F, 2194, Canada, New Glasgow, 17:39:04
+2343, Kole Cole, M, 2220, Germany, Rheda-Wiedenbruck, 17:38:22
+2344, Emberlynn Murray, F, 2196, France, Mont-de-Marsan, 17:59:34
+2345, Kason Freeman, M, 2222, Australia, Karratha, 17:58:52
+2346, Nia Wells, F, 2198, Spain, Sant Just Desvern, 18:20:05
+2347, Kaelen Webb, M, 2224, Italy, Pomezia, 18:19:23
+2348, Jaylani Simpson, F, 2200, USA, Lubbock, 18:40:37
+2349, Kole Tucker, M, 2226, Mexico, Tehuacan, 18:39:55
+2350, Saylor Porter, F, 2202, UK, Lowestoft, 19:01:10
+2351, Karsen Hicks, M, 2228, Canada, Stratford, 19:00:28
+2352, Ayleen Crawford, F, 2204, Germany, Beckum, 19:21:44
+2353, Kaelen Henry, M, 2230, France, Mauguio, 19:21:02
+2354, Milana Boyd, F, 2206, Australia, Shepparton, 19:42:19
+2355, Kole Mason, M, 2232, Spain, Arrecife, 19:41:37
+2356, Jaylee Morales, F, 2208, Italy, Lamezia Terme, 20:02:55
+2357, Kason Kennedy, M, 2234, USA, Riverside, 20:02:13
+2358, Amira Butler, F, 2210, Mexico, Tepic, 20:23:32
+2359, Kaelen Bell, M, 2236, UK, Gosport, 20:22:50
+2360, Alison Dixon, F, 2212, Canada, Timmins, 20:44:10
+2361, Kole Fisher, M, 2238, Germany, Haren, 20:43:28
+2362, Emelia Reyes, F, 2214, France, Saint-Sebastien-sur-Loire, 21:04:49
+2363, Karsen Ellis, M, 2240, Australia, Whyalla, 21:04:07
+2364, Jayleen Edwards, F, 2216, Spain, Castelldefels, 21:25:29
+2365, Kaelen Collins, M, 2242, Italy, Guidonia, 21:24:47
+2366, Zariyah Richardson, F, 2218, USA, Newark, 21:46:10
+2367, Kole Stewart, M, 2244, Mexico, Ciudad Valles, 21:45:28
+2368, Raegan Morris, F, 2220, UK, Scunthorpe, 22:06:52
+2369, Kason Rogers, M, 2246, Canada, Summerside, 22:06:10
+2370, Maren Reed, F, 2222, Germany, Schwabisch Hall, 22:27:35
+2371, Kaelen Cook, M, 2248, France, Orvault, 22:26:53
+2372, Aya Morgan, F, 2224, Australia, Gladstone, 22:48:19
+2373, Kole Bell, M, 2250, Spain, Silla, 22:47:37
+2374, Brynlee Murphy, F, 2226, Italy, Casarano, 23:09:04
+2375, Karsen Bailey, M, 2252, USA, Toledo, 23:08:22
+2376, Ensley Rivera, F, 2228, Mexico, Tula, 23:29:50
+2377, Kaelen Cooper, M, 2254, UK, Ellesmere Port, 23:29:08
+2378, Amira Cox, F, 2230, Canada, Corner Brook, 23:50:37
+2379, Kole Howard, M, 2256, Germany, Geesthacht, 23:49:55
+2380, Novah Ward, F, 2232, France, Vienne, 00:11:25
+2381, Kason Torres, M, 2258, Australia, Devonport, 00:10:43
+2382, Miah Peterson, F, 2234, Spain, Barbera, 00:32:14
+2383, Kaelen Gray, M, 2260, Italy, Crotone, 00:31:32
+2384, Mckinley Ramirez, F, 2236, USA, Chula Vista, 00:53:04
+2385, Kole James, M, 2262, Mexico, Ciudad Obregon, 00:52:22
+2386, Alisson Watson, F, 2238, UK, Rotherham, 01:13:55
+2387, Karsen Brooks, M, 2264, Canada, Stratford, 01:13:13
+2388, Emberlynn Kelly, F, 2240, Germany, Beckum, 01:34:47
+2389, Kaelen Sanders, M, 2266, France, Mauguio, 01:34:05
+2390, Maren Price, F, 2242, Australia, Burnie, 01:55:40
+2391, Kole Bennett, M, 2268, Spain, Olesa, 01:54:58
+2392, Amirah Wood, F, 2244, Italy, Pomezia, 02:16:34
+2393, Kason Barnes, M, 2270, USA, Lubbock, 02:15:52
+2394, Aya Ross, F, 2246, Mexico, Tehuacan, 02:37:29
+2395, Kaelen Henderson, M, 2272, UK, Lowestoft, 02:36:47
+2396, Jayla Coleman, F, 2248, Canada, Yorkton, 02:58:25
+2397, Kole Jenkins, M, 2274, Germany, Lunen, 02:57:43
+2398, Ayleen Jenkins, F, 2250, France, Mont-de-Marsan, 03:19:22
+2399, Karsen Long, M, 2276, Australia, Warrnambool, 03:18:40
+2400, Gracelynn Perry, F, 2252, Spain, Aranjuez, 03:40:20
+2401, Kaelen Hughes, M, 2278, Italy, Corigliano, 03:39:38
+2402, Raegan Patterson, F, 2254, USA, Bakersfield, 04:01:19
+2403, Kole Washington, M, 2280, Mexico, Ciudad Madero, 04:00:37
+2404, Kenna Flores, F, 2256, UK, Rhyl, 04:22:19
+2405, Karsen Simmons, M, 2282, Canada, Drummondville, 04:21:37
+2406, Emery Butler, F, 2258, Germany, Rendsburg, 04:43:20
+2407, Kaelen Gonzales, M, 2284, France, Saint-Dizier, 04:42:38
+2408, Maliyah Foster, F, 2260, Australia, Mount Barker, 05:04:22
+2409, Kole Alexander, M, 2286, Spain, Siero, 05:03:40
+2410, Miah Bryant, F, 2262, Italy, Cava de' Tirreni, 05:25:25
+2411, Kason Griffin, M, 2288, USA, Spokane, 05:24:43
+2412, Kenzie Russell, F, 2264, Mexico, Teziutlan, 05:46:29
+2413, Kaelen Diaz, M, 2290, UK, Macclesfield, 05:45:47
+2414, Lylah Hayes, F, 2266, Canada, Moose Jaw, 06:07:34
+2415, Kole Ford, M, 2292, Germany, Illertissen, 06:06:52
+2416, Alora Hamilton, F, 2268, France, Vienne, 06:28:40
+2417, Karsen Graham, M, 2294, Australia, Burnie, 06:27:58
+2418, Briar Sullivan, F, 2270, Spain, San Fernando, 06:49:47
+2419, Kaelen Wallace, M, 2296, Italy, Afragola, 06:49:05
+2420, Mckenna Woods, F, 2272, USA, Garland, 07:10:55
+2421, Kole Cole, M, 2298, Mexico, Ciudad Guzman, 07:10:13
+2422, Emberlynn Murray, F, 2274, UK, Gillingham, 07:32:04
+2423, Kason Freeman, M, 2300, Canada, Portage la Prairie, 07:31:22
+2424, Nia Wells, F, 2276, Germany, Rottweil, 07:53:14
+2425, Kaelen Webb, M, 2302, France, Montelimar, 07:52:32
+2426, Jaylani Simpson, F, 2278, Australia, Devonport, 08:14:25
+2427, Kole Tucker, M, 2304, Spain, Torrent, 08:13:43
+2428, Saylor Porter, F, 2280, Italy, Casarano, 08:35:37
+2429, Karsen Hicks, M, 2306, USA, Norfolk, 08:34:55
+2430, Ayleen Crawford, F, 2282, Mexico, Tula, 08:56:50
+2431, Kaelen Henry, M, 2308, UK, Bridgend, 08:56:08
+2432, Milana Boyd, F, 2284, Canada, New Glasgow, 09:18:04
+2433, Kole Mason, M, 2310, Germany, Rheda-Wiedenbruck, 09:17:22
+2434, Jaylee Morales, F, 2286, France, Mont-de-Marsan, 09:39:19
+2435, Kason Kennedy, M, 2312, Australia, Karratha, 09:38:37
+2436, Amira Butler, F, 2288, Spain, Sant Just Desvern, 10:00:35
+2437, Kaelen Bell, M, 2314, Italy, Pomezia, 09:59:53
+2438, Alison Dixon, F, 2290, USA, Lubbock, 10:21:52
+2439, Kole Fisher, M, 2316, Mexico, Tehuacan, 10:21:10
+2440, Emelia Reyes, F, 2292, UK, Lowestoft, 10:43:10
+2441, Karsen Ellis, M, 2318, Canada, Stratford, 10:42:28
+2442, Jayleen Edwards, F, 2294, Germany, Beckum, 11:04:29
+2443, Kaelen Collins, M, 2320, France, Mauguio, 11:03:47
+2444, Zariyah Richardson, F, 2296, Australia, Shepparton, 11:25:49
+2445, Kole Stewart, M, 2322, Spain, Arrecife, 11:25:07
+2446, Raegan Morris, F, 2298, Italy, Lamezia Terme, 11:47:10
+2447, Kason Rogers, M, 2324, USA, Riverside, 11:46:28
+2448, Maren Reed, F, 2300, Mexico, Tepic, 12:08:32
+2449, Kaelen Cook, M, 2326, UK, Gosport, 12:07:50
+2450, Aya Morgan, F, 2302, Canada, Timmins, 12:29:55
+2451, Kole Bell, M, 2328, Germany, Haren, 12:29:13
+2452, Brynlee Murphy, F, 2304, France, Saint-Sebastien-sur-Loire, 12:51:19
+2453, Karsen Bailey, M, 2330, Australia, Whyalla, 12:50:37
+2454, Ensley Rivera, F, 2306, Spain, Castelldefels, 13:12:44
+2455, Kaelen Cooper, M, 2332, Italy, Guidonia, 13:12:02
+2456, Amira Cox, F, 2308, USA, Newark, 13:34:10
+2457, Kole Howard, M, 2334, Mexico, Ciudad Valles, 13:33:28
+2458, Novah Ward, F, 2310, UK, Scunthorpe, 13:55:37
+2459, Kason Torres, M, 2336, Canada, Summerside, 13:54:55
+2460, Miah Peterson, F, 2312, Germany, Schwabisch Hall, 14:17:05
+2461, Kaelen Gray, M, 2338, France, Orvault, 14:16:23
+2462, Mckinley Ramirez, F, 2314, Australia, Gladstone, 14:38:34
+2463, Kole James, M, 2340, Spain, Silla, 14:37:52
+2464, Alisson Watson, F, 2316, Italy, Casarano, 15:00:04
+2465, Karsen Brooks, M, 2342, USA, Toledo, 14:59:22
+2466, Emberlynn Kelly, F, 2318, Mexico, Tula, 15:21:35
+2467, Kaelen Sanders, M, 2344, UK, Ellesmere Port, 15:20:53
+2468, Maren Price, F, 2320, Canada, Corner Brook, 15:43:07
+2469, Kole Bennett, M, 2346, Germany, Geesthacht, 15:42:25
+2470, Amirah Wood, F, 2322, France, Vienne, 16:04:40
+2471, Kason Barnes, M, 2348, Australia, Devonport, 16:03:58
+2472, Aya Ross, F, 2324, Spain, Barbera, 16:26:14
+2473, Kaelen Henderson, M, 2350, Italy, Crotone, 16:25:32
+2474, Jayla Coleman, F, 2326, USA, Chula Vista, 16:47:49
+2475, Kole Jenkins, M, 2352, Mexico, Ciudad Obregon, 16:47:07
+2476, Ayleen Jenkins, F, 2328, UK, Rotherham, 17:09:25
+2477, Karsen Long, M, 2354, Canada, Stratford, 17:08:43
+2478, Gracelynn Perry, F, 2330, Germany, Beckum, 17:31:02
+2479, Kaelen Hughes, M, 2356, France, Mauguio, 17:30:20
+2480, Raegan Patterson, F, 2332, Australia, Burnie, 17:52:40
+2481, Kole Washington, M, 2358, Spain, Olesa, 17:51:58
+2482, Kenna Flores, F, 2334, Italy, Pomezia, 18:14:19
+2483, Karsen Simmons, M, 2360, USA, Lubbock, 18:13:37
+2484, Emery Butler, F, 2336, Mexico, Tehuacan, 18:35:59
+2485, Kaelen Gonzales, M, 2362, UK, Lowestoft, 18:35:17
+2486, Maliyah Foster, F, 2338, Canada, Yorkton, 18:57:40
+2487, Kole Alexander, M, 2364, Germany, Lunen, 18:56:58
+2488, Miah Bryant, F, 2340, France, Mont-de-Marsan, 19:19:22
+2489, Kason Griffin, M, 2366, Australia, Warrnambool, 19:18:40
+2490, Kenzie Russell, F, 2342, Spain, Aranjuez, 19:41:05
+2491, Kaelen Diaz, M, 2368, Italy, Corigliano, 19:40:23
+2492, Lylah Hayes, F, 2344, USA, Bakersfield, 20:02:49
+2493, Kole Ford, M, 2370, Mexico, Ciudad Madero, 20:02:07
+2494, Alora Hamilton, F, 2346, UK, Rhyl, 20:24:34
+2495, Karsen Graham, M, 2372, Canada, Drummondville, 20:23:52
+2496, Briar Sullivan, F, 2348, Germany, Rendsburg, 20:46:20
+2497, Kaelen Wallace, M, 2374, France, Saint-Dizier, 20:45:38
+2498, Mckenna Woods, F, 2350, Australia, Mount Barker, 21:08:07
+2499, Kole Cole, M, 2376, Spain, Siero, 21:07:25
+2500, Emberlynn Murray, F, 2352, Italy, Cava de' Tirreni, 21:29:55
+2501, Kason Freeman, M, 2378, USA, Spokane, 21:29:13
+2502, Nia Wells, F, 2354, Mexico, Teziutlan, 21:51:44
+2503, Kaelen Webb, M, 2380, UK, Macclesfield, 21:51:02
+2504, Jaylani Simpson, F, 2356, Canada, Moose Jaw, 22:13:34
+2505, Kole Tucker, M, 2382, Germany, Illertissen, 22:12:52
+2506, Saylor Porter, F, 2358, France, Vienne, 22:35:25
+2507, Karsen Hicks, M, 2384, Australia, Burnie, 22:34:43
+2508, Ayleen Crawford, F, 2360, Spain, San Fernando, 22:57:17
+2509, Kaelen Henry, M, 2386, Italy, Afragola, 22:56:35
+2510, Milana Boyd, F, 2362, USA, Garland, 23:19:10
+2511, Kole Mason, M, 2388, Mexico, Ciudad Guzman, 23:18:28
+2512, Jaylee Morales, F, 2364, UK, Gillingham, 23:41:04
+2513, Kason Kennedy, M, 2390, Canada, Portage la Prairie, 23:40:22
+2514, Amira Butler, F, 2366, Germany, Rottweil, 00:03:00
+2515, Kaelen Bell, M, 2392, France, Montelimar, 00:02:18
+2516, Alison Dixon, F, 2368, Australia, Devonport, 00:24:55
+2517, Kole Fisher, M, 2394, Spain, Torrent, 00:24:13
+2518, Emelia Reyes, F, 2370, Italy, Casarano, 00:46:51
+2519, Karsen Ellis, M, 2396, USA, Norfolk, 00:46:09
+2520, Jayleen Edwards, F, 2372, Mexico, Tula, 01:08:48
+2521, Kaelen Collins, M, 2398, UK, Bridgend, 01:08:06
+2522, Zariyah Richardson, F, 2374, Canada, New Glasgow, 01:30:46
+2523, Kole Stewart, M, 2400, Germany, Rheda-Wiedenbruck, 01:30:04
+2524, Raegan Morris, F, 2376, France, Mont-de-Marsan, 01:52:45
+2525, Kason Rogers, M, 2402, Australia, Karratha, 01:52:03
+2526, Maren Reed, F, 2378, Spain, Sant Just Desvern, 02:14:45
+2527, Kaelen Cook, M, 2404, Italy, Pomezia, 02:14:03
+2528, Aya Morgan, F, 2380, USA, Lubbock, 02:36:46
+2529, Kole Bell, M, 2406, Mexico, Tehuacan, 02:36:04
+2530, Brynlee Murphy, F, 2382, UK, Lowestoft, 02:58:48
+2531, Karsen Bailey, M, 2408, Canada, Stratford, 02:58:06
+2532, Ensley Rivera, F, 2384, Germany, Beckum, 03:20:51
+2533, Kaelen Cooper, M, 2410, France, Mauguio, 03:20:09
+2534, Amira Cox, F, 2386, Australia, Shepparton, 03:42:55
+2535, Kole Howard, M, 2412, Spain, Arrecife, 03:42:13
+2536, Novah Ward, F, 2388, Italy, Lamezia Terme, 04:05:00
+2537, Kason Torres, M, 2414, USA, Riverside, 04:04:18
+2538, Miah Peterson, F, 2390, Mexico, Tepic, 04:27:06
+2539, Kaelen Gray, M, 2416, UK, Gosport, 04:26:24
+2540, Mckinley Ramirez, F, 2392, Canada, Timmins, 04:49:13
+2541, Kole James, M, 2418, Germany, Haren, 04:48:31
+2542, Alisson Watson, F, 2394, France, Saint-Sebastien-sur-Loire, 05:11:21
+2543, Karsen Brooks, M, 2420, Australia, Whyalla, 05:10:39
+2544, Emberlynn Kelly, F, 2396, Spain, Castelldefels, 05:33:30
+2545, Kaelen Sanders, M, 2422, Italy, Guidonia, 05:32:48
+2546, Maren Price, F, 2398, USA, Newark, 05:55:40
+2547, Kole Bennett, M, 2424, Mexico, Ciudad Valles, 05:54:58
+2548, Amirah Wood, F, 2400, UK, Scunthorpe, 06:17:51
+2549, Kason Barnes, M, 2426, Canada, Summerside, 06:17:09
+2550, Aya Ross, F, 2402, Germany, Schwabisch Hall, 06:40:03
+2551, Kaelen Henderson, M, 2428, France, Orvault, 06:39:21
+2552, Jayla Coleman, F, 2404, Australia, Gladstone, 07:02:16
+2553, Kole Jenkins, M, 2430, Spain, Silla, 07:01:34
+2554, Ayleen Jenkins, F, 2406, Italy, Casarano, 07:24:30
+2555, Karsen Long, M, 2432, USA, Toledo, 07:23:48
+2556, Gracelynn Perry, F, 2408, Mexico, Tula, 07:46:45
+2557, Kaelen Hughes, M, 2434, UK, Ellesmere Port, 07:46:03
+2558, Raegan Patterson, F, 2410, Canada, Corner Brook, 08:09:01
+2559, Kole Washington, M, 2436, Germany, Geesthacht, 08:08:19
+2560, Kenna Flores, F, 2412, France, Vienne, 08:31:18
+2561, Karsen Simmons, M, 2438, Australia, Devonport, 08:30:36
+2562, Emery Butler, F, 2414, Spain, Barbera, 08:53:36
+2563, Kaelen Gonzales, M, 2440, Italy, Crotone, 08:52:54
+2564, Maliyah Foster, F, 2416, USA, Chula Vista, 09:15:55
+2565, Kole Alexander, M, 2442, Mexico, Ciudad Obregon, 09:15:13
+2566, Miah Bryant, F, 2418, UK, Rotherham, 09:38:15
+2567, Kason Griffin, M, 2444, Canada, Stratford, 09:37:33
+2568, Kenzie Russell, F, 2420, Germany, Beckum, 10:00:36
+2569, Kaelen Diaz, M, 2446, France, Mauguio, 09:59:54
+2570, Lylah Hayes, F, 2422, Australia, Burnie, 10:22:58
+2571, Kole Ford, M, 2448, Spain, Olesa, 10:22:16
+2572, Alora Hamilton, F, 2424, Italy, Pomezia, 10:45:21
+2573, Karsen Graham, M, 2450, USA, Lubbock, 10:44:39
+2574, Briar Sullivan, F, 2426, Mexico, Tehuacan, 11:07:45
+2575, Kaelen Wallace, M, 2452, UK, Lowestoft, 11:07:03
+2576, Mckenna Woods, F, 2428, Canada, Yorkton, 11:30:10
+2577, Kole Cole, M, 2454, Germany, Lunen, 11:29:28
+2578, Emberlynn Murray, F, 2430, France, Mont-de-Marsan, 11:52:36
+2579, Kason Freeman, M, 2456, Australia, Warrnambool, 11:51:54
+2580, Nia Wells, F, 2432, Spain, Aranjuez, 12:15:03
+2581, Kaelen Webb, M, 2458, Italy, Corigliano, 12:14:21
+2582, Jaylani Simpson, F, 2434, USA, Bakersfield, 12:37:31
+2583, Kole Tucker, M, 2460, Mexico, Ciudad Madero, 12:36:49
+2584, Saylor Porter, F, 2436, UK, Rhyl, 13:00:00
+2585, Karsen Hicks, M, 2462, Canada, Drummondville, 12:59:18
+2586, Ayleen Crawford, F, 2438, Germany, Rendsburg, 13:22:30
+2587, Kaelen Henry, M, 2464, France, Saint-Dizier, 13:21:48
+2588, Milana Boyd, F, 2440, Australia, Mount Barker, 13:45:01
+2589, Kole Mason, M, 2466, Spain, Siero, 13:44:19
+2590, Jaylee Morales, F, 2442, Italy, Cava de' Tirreni, 14:07:33
+2591, Kason Kennedy, M, 2468, USA, Spokane, 14:06:51
+2592, Amira Butler, F, 2444, Mexico, Teziutlan, 14:30:06
+2593, Kaelen Bell, M, 2470, UK, Macclesfield, 14:29:24
+2594, Alison Dixon, F, 2446, Canada, Moose Jaw, 14:52:40
+2595, Kole Fisher, M, 2472, Germany, Illertissen, 14:51:58
+2596, Emelia Reyes, F, 2448, France, Vienne, 15:15:15
+2597, Karsen Ellis, M, 2474, Australia, Burnie, 15:14:33
+2598, Jayleen Edwards, F, 2450, Spain, San Fernando, 15:37:51
+2599, Kaelen Collins, M, 2476, Italy, Afragola, 15:37:09
+2600, Zariyah Richardson, F, 2452, USA, Garland, 16:00:28
+2601, Kole Stewart, M, 2478, Mexico, Ciudad Guzman, 15:59:46
+2602, Raegan Morris, F, 2454, UK, Gillingham, 16:23:06
+2603, Kason Rogers, M, 2480, Canada, Portage la Prairie, 16:22:24
+2604, Maren Reed, F, 2456, Germany, Rottweil, 16:45:45
+2605, Kaelen Cook, M, 2482, France, Montelimar, 16:45:03
+2606, Aya Morgan, F, 2458, Australia, Devonport, 17:08:25
+2607, Kole Bell, M, 2484, Spain, Torrent, 17:07:43
+2608, Brynlee Murphy, F, 2460, Italy, Casarano, 17:31:06
+2609, Karsen Bailey, M, 2486, USA, Norfolk, 17:30:24
+2610, Ensley Rivera, F, 2462, Mexico, Tula, 17:53:48
+2611, Kaelen Cooper, M, 2488, UK, Bridgend, 17:53:06
+2612, Amira Cox, F, 2464, Canada, New Glasgow, 18:16:31
+2613, Kole Howard, M, 2490, Germany, Rheda-Wiedenbruck, 18:15:49
+2614, Novah Ward, F, 2466, France, Mont-de-Marsan, 18:39:15
+2615, Kason Torres, M, 2492, Australia, Karratha, 18:38:33
+2616, Miah Peterson, F, 2468, Spain, Sant Just Desvern, 19:02:00
+2617, Kaelen Gray, M, 2494, Italy, Pomezia, 19:01:18
+2618, Mckinley Ramirez, F, 2470, USA, Lubbock, 19:24:46
+2619, Kole James, M, 2496, Mexico, Tehuacan, 19:24:04
+2620, Alisson Watson, F, 2472, UK, Lowestoft, 19:47:33
+2621, Karsen Brooks, M, 2498, Canada, Stratford, 19:46:51
+2622, Emberlynn Kelly, F, 2474, Germany, Beckum, 20:10:21
+2623, Kaelen Sanders, M, 2500, France, Mauguio, 20:09:39
+2624, Maren Price, F, 2476, Australia, Shepparton, 20:33:10
+2625, Kole Bennett, M, 2502, Spain, Arrecife, 20:32:28
+2626, Amirah Wood, F, 2478, Italy, Lamezia Terme, 20:56:00
+2627, Kason Barnes, M, 2504, USA, Riverside, 20:55:18
+2628, Aya Ross, F, 2480, Mexico, Tepic, 21:18:51
+2629, Kaelen Henderson, M, 2506, UK, Gosport, 21:18:09
+2630, Jayla Coleman, F, 2482, Canada, Timmins, 21:41:43
+2631, Kole Jenkins, M, 2508, Germany, Haren, 21:41:01
+2632, Ayleen Jenkins, F, 2484, France, Saint-Sebastien-sur-Loire, 22:04:36
+2633, Karsen Long, M, 2510, Australia, Whyalla, 22:03:54
+2634, Gracelynn Perry, F, 2486, Spain, Castelldefels, 22:27:30
+2635, Kaelen Hughes, M, 2512, Italy, Guidonia, 22:26:48
+2636, Raegan Patterson, F, 2488, USA, Newark, 22:50:25
+2637, Kole Washington, M, 2514, Mexico, Ciudad Valles, 22:49:43
+2638, Kenna Flores, F, 2490, UK, Scunthorpe, 23:13:21
+2639, Karsen Simmons, M, 2516, Canada, Summerside, 23:12:39
+2640, Emery Butler, F, 2492, Germany, Schwabisch Hall, 23:36:18
+2641, Kaelen Gonzales, M, 2518, France, Orvault, 23:35:36
+2642, Maliyah Foster, F, 2494, Australia, Gladstone, 23:59:16
+2643, Kole Alexander, M, 2520, Spain, Silla, 23:58:34
+2644, Miah Bryant, F, 2496, Italy, Casarano, 00:22:15
+2645, Kason Griffin, M, 2522, USA, Toledo, 00:21:33
+2646, Kenzie Russell, F, 2498, Mexico, Tula, 00:45:15
+2647, Kaelen Diaz, M, 2524, UK, Ellesmere Port, 00:44:33
+2648, Lylah Hayes, F, 2500, Canada, Corner Brook, 01:08:16
+2649, Kole Ford, M, 2526, Germany, Geesthacht, 01:07:34
+2650, Alora Hamilton, F, 2502, France, Vienne, 01:31:18
+2651, Karsen Graham, M, 2528, Australia, Devonport, 01:30:36
+2652, Briar Sullivan, F, 2504, Spain, Barbera, 01:54:21
+2653, Kaelen Wallace, M, 2530, Italy, Crotone, 01:53:39
+2654, Mckenna Woods, F, 2506, USA, Chula Vista, 02:17:25
+2655, Kole Cole, M, 2532, Mexico, Ciudad Obregon, 02:16:43
+2656, Emberlynn Murray, F, 2508, UK, Rotherham, 02:40:30
+2657, Kason Freeman, M, 2534, Canada, Stratford, 02:39:48
+2658, Nia Wells, F, 2510, Germany, Beckum, 03:03:36
+2659, Kaelen Webb, M, 2536, France, Mauguio, 03:02:54
+2660, Jaylani Simpson, F, 2512, Australia, Burnie, 03:26:43
+2661, Kole Tucker, M, 2538, Spain, Olesa, 03:26:01
+2662, Saylor Porter, F, 2514, Italy, Pomezia, 03:49:51
+2663, Karsen Hicks, M, 2540, USA, Lubbock, 03:49:09
+2664, Ayleen Crawford, F, 2516, Mexico, Tehuacan, 04:13:00
+2665, Kaelen Henry, M, 2542, UK, Lowestoft, 04:12:18
+2666, Milana Boyd, F, 2518, Canada, Yorkton, 04:36:10
+2667, Kole Mason, M, 2544, Germany, Lunen, 04:35:28
+2668, Jaylee Morales, F, 2520, France, Mont-de-Marsan, 04:59:21
+2669, Kason Kennedy, M, 2546, Australia, Warrnambool, 04:58:39
+2670, Amira Butler, F, 2522, Spain, Aranjuez, 05:22:33
+2671, Kaelen Bell, M, 2548, Italy, Corigliano, 05:21:51
+2672, Alison Dixon, F, 2524, USA, Bakersfield, 05:45:46
+2673, Kole Fisher, M, 2550, Mexico, Ciudad Madero, 05:45:04
+2674, Emelia Reyes, F, 2526, UK, Rhyl, 06:09:00
+2675, Karsen Ellis, M, 2552, Canada, Drummondville, 06:08:18
+2676, Jayleen Edwards, F, 2528, Germany, Rendsburg, 06:32:15
+2677, Kaelen Collins, M, 2554, France, Saint-Dizier, 06:31:33
+2678, Zariyah Richardson, F, 2530, Australia, Mount Barker, 06:55:31
+2679, Kole Stewart, M, 2556, Spain, Siero, 06:54:49
+2680, Raegan Morris, F, 2532, Italy, Cava de' Tirreni, 07:18:48
+2681, Kason Rogers, M, 2558, USA, Spokane, 07:18:06
+2682, Maren Reed, F, 2534, Mexico, Teziutlan, 07:42:06
+2683, Kaelen Cook, M, 2560, UK, Macclesfield, 07:41:24
+2684, Aya Morgan, F, 2536, Canada, Moose Jaw, 08:05:25
+2685, Kole Bell, M, 2562, Germany, Illertissen, 08:04:43
+2686, Brynlee Murphy, F, 2538, France, Vienne, 08:28:45
+2687, Karsen Bailey, M, 2564, Australia, Burnie, 08:28:03
+2688, Ensley Rivera, F, 2540, Spain, San Fernando, 08:52:06
+2689, Kaelen Cooper, M, 2566, Italy, Afragola, 08:51:24
+2690, Amira Cox, F, 2542, USA, Garland, 09:15:28
+2691, Kole Howard, M, 2568, Mexico, Ciudad Guzman, 09:14:46
+2692, Novah Ward, F, 2544, UK, Gillingham, 09:38:51
+2693, Kason Torres, M, 2570, Canada, Portage la Prairie, 09:38:09
+2694, Miah Peterson, F, 2546, Germany, Rottweil, 10:02:15
+2695, Kaelen Gray, M, 2572, France, Montelimar, 10:01:33
+2696, Mckinley Ramirez, F, 2548, Australia, Devonport, 10:25:40
+2697, Kole James, M, 2574, Spain, Torrent, 10:24:58
+2698, Alisson Watson, F, 2550, Italy, Casarano, 10:49:06
+2699, Karsen Brooks, M, 2576, USA, Norfolk, 10:48:24
+2700, Emberlynn Kelly, F, 2552, Mexico, Tula, 11:12:33
+2701, Kaelen Sanders, M, 2578, UK, Bridgend, 11:11:51
+2702, Maren Price, F, 2554, Canada, New Glasgow, 11:36:01
+2703, Kole Bennett, M, 2580, Germany, Rheda-Wiedenbruck, 11:35:19
+2704, Amirah Wood, F, 2556, France, Mont-de-Marsan, 11:59:30
+2705, Kason Barnes, M, 2582, Australia, Karratha, 11:58:48
+2706, Aya Ross, F, 2558, Spain, Sant Just Desvern, 12:23:00
+2707, Kaelen Henderson, M, 2584, Italy, Pomezia, 12:22:18
+2708, Jayla Coleman, F, 2560, USA, Lubbock, 12:46:31
+2709, Kole Jenkins, M, 2586, Mexico, Tehuacan, 12:45:49
+2710, Ayleen Jenkins, F, 2562, UK, Lowestoft, 13:10:03
+2711, Karsen Long, M, 2588, Canada, Stratford, 13:09:21
+2712, Gracelynn Perry, F, 2564, Germany, Beckum, 13:33:36
+2713, Kaelen Hughes, M, 2590, France, Mauguio, 13:32:54
+2714, Raegan Patterson, F, 2566, Australia, Shepparton, 13:57:10
+2715, Kole Washington, M, 2592, Spain, Arrecife, 13:56:28
+2716, Kenna Flores, F, 2568, Italy, Lamezia Terme, 14:20:45
+2717, Karsen Simmons, M, 2594, USA, Riverside, 14:20:03
+2718, Emery Butler, F, 2570, Mexico, Tepic, 14:44:21
+2719, Kaelen Gonzales, M, 2596, UK, Gosport, 14:43:39
+2720, Maliyah Foster, F, 2572, Canada, Timmins, 15:07:58
+2721, Kole Alexander, M, 2598, Germany, Haren, 15:07:16
+2722, Miah Bryant, F, 2574, France, Saint-Sebastien-sur-Loire, 15:31:36
+2723, Kason Griffin, M, 2600, Australia, Whyalla, 15:30:54
+2724, Kenzie Russell, F, 2576, Spain, Castelldefels, 15:55:15
+2725, Kaelen Diaz, M, 2602, Italy, Guidonia, 15:54:33
+2726, Lylah Hayes, F, 2578, USA, Newark, 16:18:55
+2727, Kole Ford, M, 2604, Mexico, Ciudad Valles, 16:18:13
+2728, Alora Hamilton, F, 2580, UK, Scunthorpe, 16:42:36
+2729, Karsen Graham, M, 2606, Canada, Summerside, 16:41:54
+2730, Briar Sullivan, F, 2582, Germany, Schwabisch Hall, 17:06:18
+2731, Kaelen Wallace, M, 2608, France, Orvault, 17:05:36
+2732, Mckenna Woods, F, 2584, Australia, Gladstone, 17:30:01
+2733, Kole Cole, M, 2610, Spain, Silla, 17:29:19
+2734, Emberlynn Murray, F, 2586, Italy, Casarano, 17:53:45
+2735, Kason Freeman, M, 2612, USA, Toledo, 17:53:03
+2736, Nia Wells, F, 2588, Mexico, Tula, 18:17:30
+2737, Kaelen Webb, M, 2614, UK, Ellesmere Port, 18:16:48
+2738, Jaylani Simpson, F, 2590, Canada, Corner Brook, 18:41:16
+2739, Kole Tucker, M, 2616, Germany, Geesthacht, 18:40:34
+2740, Saylor Porter, F, 2592, France, Vienne, 19:05:03
+2741, Karsen Hicks, M, 2618, Australia, Devonport, 19:04:21
+2742, Ayleen Crawford, F, 2594, Spain, Barbera, 19:28:51
+2743, Kaelen Henry, M, 2620, Italy, Crotone, 19:28:09
+2744, Milana Boyd, F, 2596, USA, Chula Vista, 19:52:40
+2745, Kole Mason, M, 2622, Mexico, Ciudad Obregon, 19:51:58
+2746, Jaylee Morales, F, 2598, UK, Rotherham, 20:16:30
+2747, Kason Kennedy, M, 2624, Canada, Stratford, 20:15:48
+2748, Amira Butler, F, 2600, Germany, Beckum, 20:40:21
+2749, Kaelen Bell, M, 2626, France, Mauguio, 20:39:39
+2750, Alison Dixon, F, 2602, Australia, Burnie, 21:04:13
+2751, Kole Fisher, M, 2628, Spain, Olesa, 21:03:31
+2752, Emelia Reyes, F, 2604, Italy, Pomezia, 21:28:06
+2753, Karsen Ellis, M, 2630, USA, Lubbock, 21:27:24
+2754, Jayleen Edwards, F, 2606, Mexico, Tehuacan, 21:52:00
+2755, Kaelen Collins, M, 2632, UK, Lowestoft, 21:51:18
+2756, Zariyah Richardson, F, 2608, Canada, Yorkton, 22:15:55
+2757, Kole Stewart, M, 2634, Germany, Lunen, 22:15:13
+2758, Raegan Morris, F, 2610, France, Mont-de-Marsan, 22:39:51
+2759, Kason Rogers, M, 2636, Australia, Warrnambool, 22:39:09
+2760, Maren Reed, F, 2612, Spain, Aranjuez, 23:03:48
+2761, Kaelen Cook, M, 2638, Italy, Corigliano, 23:03:06
+2762, Aya Morgan, F, 2614, USA, Bakersfield, 23:27:46
+2763, Kole Bell, M, 2640, Mexico, Ciudad Madero, 23:27:04
+2764, Brynlee Murphy, F, 2616, UK, Rhyl, 23:51:45
+2765, Karsen Bailey, M, 2642, Canada, Drummondville, 23:51:03
+2766, Ensley Rivera, F, 2618, Germany, Rendsburg, 00:15:45
+2767, Kaelen Cooper, M, 2644, France, Saint-Dizier, 00:15:03
+2768, Amira Cox, F, 2620, Australia, Mount Barker, 00:39:46
+2769, Kole Howard, M, 2646, Spain, Siero, 00:39:04
+2770, Novah Ward, F, 2622, Italy, Cava de' Tirreni, 01:03:48
+2771, Kason Torres, M, 2648, USA, Spokane, 01:03:06
+2772, Miah Peterson, F, 2624, Mexico, Teziutlan, 01:27:51
+2773, Kaelen Gray, M, 2650, UK, Macclesfield, 01:27:09
+2774, Mckinley Ramirez, F, 2626, Canada, Moose Jaw, 01:51:55
+2775, Kole James, M, 2652, Germany, Illertissen, 01:51:13
+2776, Alisson Watson, F, 2628, France, Vienne, 02:16:00
+2777, Karsen Brooks, M, 2654, Australia, Burnie, 02:15:18
+2778, Emberlynn Kelly, F, 2630, Spain, San Fernando, 02:40:06
+2779, Kaelen Sanders, M, 2656, Italy, Afragola, 02:39:24
+2780, Maren Price, F, 2632, USA, Garland, 03:04:13
+2781, Kole Bennett, M, 2658, Mexico, Ciudad Guzman, 03:03:31
+2782, Amirah Wood, F, 2634, UK, Gillingham, 03:28:21
+2783, Kason Barnes, M, 2660, Canada, Portage la Prairie, 03:27:39
+2784, Aya Ross, F, 2636, Germany, Rottweil, 03:52:30
+2785, Kaelen Henderson, M, 2662, France, Montelimar, 03:51:48
+2786, Jayla Coleman, F, 2638, Australia, Devonport, 04:16:40
+2787, Kole Jenkins, M, 2664, Spain, Torrent, 04:15:58
+2788, Ayleen Jenkins, F, 2640, Italy, Casarano, 04:40:51
+2789, Karsen Long, M, 2666, USA, Norfolk, 04:40:09
+2790, Gracelynn Perry, F, 2642, Mexico, Tula, 05:05:03
+2791, Kaelen Hughes, M, 2668, UK, Bridgend, 05:04:21
+2792, Raegan Patterson, F, 2644, Canada, New Glasgow, 05:29:16
+2793, Kole Washington, M, 2670, Germany, Rheda-Wiedenbruck, 05:28:34
+2794, Kenna Flores, F, 2646, France, Mont-de-Marsan, 05:53:30
+2795, Karsen Simmons, M, 2672, Australia, Karratha, 05:52:48
+2796, Emery Butler, F, 2648, Spain, Sant Just Desvern, 06:17:45
+2797, Kaelen Gonzales, M, 2674, Italy, Pomezia, 06:17:03
+2798, Maliyah Foster, F, 2650, USA, Lubbock, 06:42:01
+2799, Kole Alexander, M, 2676, Mexico, Tehuacan, 06:41:19
+2800, Miah Bryant, F, 2652, UK, Lowestoft, 07:06:18
+2801, Kason Griffin, M, 2678, Canada, Stratford, 07:05:36
+2802, Kenzie Russell, F, 2654, Germany, Beckum, 07:30:36
+2803, Kaelen Diaz, M, 2680, France, Mauguio, 07:29:54
+2804, Lylah Hayes, F, 2656, Australia, Shepparton, 07:54:55
+2805, Kole Ford, M, 2682, Spain, Arrecife, 07:54:13
+2806, Alora Hamilton, F, 2658, Italy, Lamezia Terme, 08:19:15
+2807, Karsen Graham, M, 2684, USA, Riverside, 08:18:33
+2808, Briar Sullivan, F, 2660, Mexico, Tepic, 08:43:36
+2809, Kaelen Wallace, M, 2686, UK, Gosport, 08:42:54
+2810, Mckenna Woods, F, 2662, Canada, Timmins, 09:07:58
+2811, Kole Cole, M, 2688, Germany, Haren, 09:07:16
+2812, Emberlynn Murray, F, 2664, France, Saint-Sebastien-sur-Loire, 09:32:21
+2813, Kason Freeman, M, 2690, Australia, Whyalla, 09:31:39
+2814, Nia Wells, F, 2666, Spain, Castelldefels, 09:56:45
+2815, Kaelen Webb, M, 2692, Italy, Guidonia, 09:56:03
+2816, Jaylani Simpson, F, 2668, USA, Newark, 10:21:10
+2817, Kole Tucker, M, 2694, Mexico, Ciudad Valles, 10:20:28
+2818, Saylor Porter, F, 2670, UK, Scunthorpe, 10:45:36
+2819, Karsen Hicks, M, 2696, Canada, Summerside, 10:44:54
+2820, Ayleen Crawford, F, 2672, Germany, Schwabisch Hall, 11:10:03
+2821, Kaelen Henry, M, 2698, France, Orvault, 11:09:21
+2822, Milana Boyd, F, 2674, Australia, Gladstone, 11:34:31
+2823, Kole Mason, M, 2700, Spain, Silla, 11:33:49
+2824, Jaylee Morales, F, 2676, Italy, Casarano, 11:59:00
+2825, Kason Kennedy, M, 2702, USA, Toledo, 11:58:18
+2826, Amira Butler, F, 2678, Mexico, Tula, 12:23:30
+2827, Kaelen Bell, M, 2704, UK, Ellesmere Port, 12:22:48
+2828, Alison Dixon, F, 2680, Canada, Corner Brook, 12:48:01
+2829, Kole Fisher, M, 2706, Germany, Geesthacht, 12:47:19
+2830, Emelia Reyes, F, 2682, France, Vienne, 13:12:33
+2831, Karsen Ellis, M, 2708, Australia, Devonport, 13:11:51
+2832, Jayleen Edwards, F, 2684, Spain, Barbera, 13:37:06
+2833, Kaelen Collins, M, 2710, Italy, Crotone, 13:36:24
+2834, Zariyah Richardson, F, 2686, USA, Chula Vista, 14:01:40
+2835, Kole Stewart, M, 2712, Mexico, Ciudad Obregon, 14:00:58
+2836, Raegan Morris, F, 2688, UK, Rotherham, 14:26:15
+2837, Kason Rogers, M, 2714, Canada, Stratford, 14:25:33
+2838, Maren Reed, F, 2690, Germany, Beckum, 14:50:51
+2839, Kaelen Cook, M, 2716, France, Mauguio, 14:50:09
+2840, Aya Morgan, F, 2692, Australia, Burnie, 15:15:28
+2841, Kole Bell, M, 2718, Spain, Olesa, 15:14:46
+2842, Brynlee Murphy, F, 2694, Italy, Pomezia, 15:40:06
+2843, Karsen Bailey, M, 2720, USA, Lubbock, 15:39:24
+2844, Ensley Rivera, F, 2696, Mexico, Tehuacan, 16:04:45
+2845, Kaelen Cooper, M, 2722, UK, Lowestoft, 16:04:03
+2846, Amira Cox, F, 2698, Canada, Yorkton, 16:29:25
+2847, Kole Howard, M, 2724, Germany, Lunen, 16:28:43
+2848, Novah Ward, F, 2700, France, Mont-de-Marsan, 16:54:06
+2849, Kason Torres, M, 2726, Australia, Warrnambool, 16:53:24
+2850, Miah Peterson, F, 2702, Spain, Aranjuez, 17:18:48
+2851, Kaelen Gray, M, 2728, Italy, Corigliano, 17:18:06
+2852, Mckinley Ramirez, F, 2704, USA, Bakersfield, 17:43:31
+2853, Kole James, M, 2730, Mexico, Ciudad Madero, 17:42:49
+2854, Alisson Watson, F, 2706, UK, Rhyl, 18:08:15
+2855, Karsen Brooks, M, 2732, Canada, Drummondville, 18:07:33
+2856, Emberlynn Kelly, F, 2708, Germany, Rendsburg, 18:33:00
+2857, Kaelen Sanders, M, 2734, France, Saint-Dizier, 18:32:18
+2858, Maren Price, F, 2710, Australia, Mount Barker, 18:57:46
+2859, Kole Bennett, M, 2736, Spain, Siero, 18:57:04
+2860, Amirah Wood, F, 2712, Italy, Cava de' Tirreni, 19:22:33
+2861, Kason Barnes, M, 2738, USA, Spokane, 19:21:51
+2862, Aya Ross, F, 2714, Mexico, Teziutlan, 19:47:21
+2863, Kaelen Henderson, M, 2740, UK, Macclesfield, 19:46:39
+2864, Jayla Coleman, F, 2716, Canada, Moose Jaw, 20:12:10
+2865, Kole Jenkins, M, 2742, Germany, Illertissen, 20:11:28
+2866, Ayleen Jenkins, F, 2718, France, Vienne, 20:37:00
+2867, Karsen Long, M, 2744, Australia, Burnie, 20:36:18
+2868, Gracelynn Perry, F, 2720, Spain, San Fernando, 21:01:51
+2869, Kaelen Hughes, M, 2746, Italy, Afragola, 21:01:09
+2870, Raegan Patterson, F, 2722, USA, Garland, 21:26:43
+2871, Kole Washington, M, 2748, Mexico, Ciudad Guzman, 21:26:01
+2872, Kenna Flores, F, 2724, UK, Gillingham, 21:51:36
+2873, Karsen Simmons, M, 2750, Canada, Portage la Prairie, 21:50:54
+2874, Emery Butler, F, 2726, Germany, Rottweil, 22:16:30
+2875, Kaelen Gonzales, M, 2752, France, Montelimar, 22:15:48
+2876, Maliyah Foster, F, 2728, Australia, Devonport, 22:41:25
+2877, Kole Alexander, M, 2754, Spain, Torrent, 22:40:43
+2878, Miah Bryant, F, 2730, Italy, Casarano, 23:06:21
+2879, Kason Griffin, M, 2756, USA, Norfolk, 23:05:39
+2880, Kenzie Russell, F, 2732, Mexico, Tula, 23:31:18
+2881, Kaelen Diaz, M, 2758, UK, Bridgend, 23:30:36
+2882, Lylah Hayes, F, 2734, Canada, New Glasgow, 23:56:16
+2883, Kole Ford, M, 2760, Germany, Rheda-Wiedenbruck, 23:55:34
+2884, Alora Hamilton, F, 2736, France, Mont-de-Marsan, 00:21:15
+2885, Karsen Graham, M, 2762, Australia, Karratha, 00:20:33
+2886, Briar Sullivan, F, 2738, Spain, Sant Just Desvern, 00:46:15
+2887, Kaelen Wallace, M, 2764, Italy, Pomezia, 00:45:33
+2888, Mckenna Woods, F, 2740, USA, Lubbock, 01:11:16
+2889, Kole Cole, M, 2766, Mexico, Tehuacan, 01:10:34
+2890, Emberlynn Murray, F, 2742, UK, Lowestoft, 01:36:18
+2891, Kason Freeman, M, 2768, Canada, Stratford, 01:35:36
+2892, Nia Wells, F, 2744, Germany, Beckum, 02:01:21
+2893, Kaelen Webb, M, 2770, France, Mauguio, 02:00:39
+2894, Jaylani Simpson, F, 2746, Australia, Shepparton, 02:26:25
+2895, Kole Tucker, M, 2772, Spain, Arrecife, 02:25:43
+2896, Saylor Porter, F, 2748, Italy, Lamezia Terme, 02:51:30
+2897, Karsen Hicks, M, 2774, USA, Riverside, 02:50:48
+2898, Ayleen Crawford, F, 2750, Mexico, Tepic, 03:16:36
+2899, Kaelen Henry, M, 2776, UK, Gosport, 03:15:54
+2900, Milana Boyd, F, 2752, Canada, Timmins, 03:41:43
+2901, Kole Mason, M, 2778, Germany, Haren, 03:41:01
+2902, Jaylee Morales, F, 2754, France, Saint-Sebastien-sur-Loire, 04:06:51
+2903, Kason Kennedy, M, 2780, Australia, Whyalla, 04:06:09
+2904, Amira Butler, F, 2756, Spain, Castelldefels, 04:32:00
+2905, Kaelen Bell, M, 2782, Italy, Guidonia, 04:31:18
+2906, Alison Dixon, F, 2758, USA, Newark, 04:57:10
+2907, Kole Fisher, M, 2784, Mexico, Ciudad Valles, 04:56:28
+2908, Emelia Reyes, F, 2760, UK, Scunthorpe, 05:22:21
+2909, Karsen Ellis, M, 2786, Canada, Summerside, 05:21:39
+2910, Jayleen Edwards, F, 2762, Germany, Schwabisch Hall, 05:47:33
+2911, Kaelen Collins, M, 2788, France, Orvault, 05:46:51
+2912, Zariyah Richardson, F, 2764, Australia, Gladstone, 06:12:46
+2913, Kole Stewart, M, 2790, Spain, Silla, 06:12:04
+2914, Raegan Morris, F, 2766, Italy, Casarano, 06:38:00
+2915, Kason Rogers, M, 2792, USA, Toledo, 06:37:18
+2916, Maren Reed, F, 2768, Mexico, Tula, 07:03:15
+2917, Kaelen Cook, M, 2794, UK, Ellesmere Port, 07:02:33
+2918, Aya Morgan, F, 2770, Canada, Corner Brook, 07:28:31
+2919, Kole Bell, M, 2796, Germany, Geesthacht, 07:27:49
+2920, Brynlee Murphy, F, 2772, France, Vienne, 07:53:48
+2921, Karsen Bailey, M, 2798, Australia, Devonport, 07:53:06
+2922, Ensley Rivera, F, 2774, Spain, Barbera, 08:19:06
+2923, Kaelen Cooper, M, 2800, Italy, Crotone, 08:18:24
+2924, Amira Cox, F, 2776, USA, Chula Vista, 08:44:25
+2925, Kole Howard, M, 2802, Mexico, Ciudad Obregon, 08:43:43
+2926, Novah Ward, F, 2778, UK, Rotherham, 09:09:45
+2927, Kason Torres, M, 2804, Canada, Stratford, 09:09:03
+2928, Miah Peterson, F, 2780, Germany, Beckum, 09:35:06
+2929, Kaelen Gray, M, 2806, France, Mauguio, 09:34:24
+2930, Mckinley Ramirez, F, 2782, Australia, Burnie, 10:00:28
+2931, Kole James, M, 2808, Spain, Olesa, 09:59:46
+2932, Alisson Watson, F, 2784, Italy, Pomezia, 10:25:51
+2933, Karsen Brooks, M, 2810, USA, Lubbock, 10:25:09
+2934, Emberlynn Kelly, F, 2786, Mexico, Tehuacan, 10:51:15
+2935, Kaelen Sanders, M, 2812, UK, Lowestoft, 10:50:33
+2936, Maren Price, F, 2788, Canada, Yorkton, 11:16:40
+2937, Kole Bennett, M, 2814, Germany, Lunen, 11:15:58
+2938, Amirah Wood, F, 2790, France, Mont-de-Marsan, 11:42:06
+2939, Kason Barnes, M, 2816, Australia, Warrnambool, 11:41:24
+2940, Aya Ross, F, 2792, Spain, Aranjuez, 12:07:33
+2941, Kaelen Henderson, M, 2818, Italy, Corigliano, 12:06:51
+2942, Jayla Coleman, F, 2794, USA, Bakersfield, 12:33:01
+2943, Kole Jenkins, M, 2820, Mexico, Ciudad Madero, 12:32:19
+2944, Ayleen Jenkins, F, 2796, UK, Rhyl, 12:58:30
+2945, Karsen Long, M, 2822, Canada, Drummondville, 12:57:48
+2946, Gracelynn Perry, F, 2798, Germany, Rendsburg, 13:24:00
+2947, Kaelen Hughes, M, 2824, France, Saint-Dizier, 13:23:18
+2948, Raegan Patterson, F, 2800, Australia, Mount Barker, 13:49:31
+2949, Kole Washington, M, 2826, Spain, Siero, 13:48:49
+2950, Kenna Flores, F, 2802, Italy, Cava de' Tirreni, 14:15:03
+2951, Karsen Simmons, M, 2828, USA, Spokane, 14:14:21
+2952, Emery Butler, F, 2804, Mexico, Teziutlan, 14:40:36
+2953, Kaelen Gonzales, M, 2830, UK, Macclesfield, 14:39:54
+2954, Maliyah Foster, F, 2806, Canada, Moose Jaw, 15:06:10
+2955, Kole Alexander, M, 2832, Germany, Illertissen, 15:05:28
+2956, Miah Bryant, F, 2808, France, Vienne, 15:31:45
+2957, Kason Griffin, M, 2834, Australia, Burnie, 15:31:03
+2958, Kenzie Russell, F, 2810, Spain, San Fernando, 15:57:21
+2959, Kaelen Diaz, M, 2836, Italy, Afragola, 15:56:39
+2960, Lylah Hayes, F, 2812, USA, Garland, 16:22:58
+2961, Kole Ford, M, 2838, Mexico, Ciudad Guzman, 16:22:16
+2962, Alora Hamilton, F, 2814, UK, Gillingham, 16:48:36
+2963, Karsen Graham, M, 2840, Canada, Portage la Prairie, 16:47:54
+2964, Briar Sullivan, F, 2816, Germany, Rottweil, 17:14:15
+2965, Kaelen Wallace, M, 2842, France, Montelimar, 17:13:33
+2966, Mckenna Woods, F, 2818, Australia, Devonport, 17:39:55
+2967, Kole Cole, M, 2844, Spain, Torrent, 17:39:13
+2968, Emberlynn Murray, F, 2820, Italy, Casarano, 18:05:36
+2969, Kason Freeman, M, 2846, USA, Norfolk, 18:04:54
+2970, Nia Wells, F, 2822, Mexico, Tula, 18:31:18
+2971, Kaelen Webb, M, 2848, UK, Bridgend, 18:30:36
+2972, Jaylani Simpson, F, 2824, Canada, New Glasgow, 18:57:01
+2973, Kole Tucker, M, 2850, Germany, Rheda-Wiedenbruck, 18:56:19
+2974, Saylor Porter, F, 2826, France, Mont-de-Marsan, 19:22:45
+2975, Karsen Hicks, M, 2852, Australia, Karratha, 19:22:03
+2976, Ayleen Crawford, F, 2828, Spain, Sant Just Desvern, 19:48:30
+2977, Kaelen Henry, M, 2854, Italy, Pomezia, 19:47:48
+2978, Milana Boyd, F, 2830, USA, Lubbock, 20:14:16
+2979, Kole Mason, M, 2856, Mexico, Tehuacan, 20:13:34
+2980, Jaylee Morales, F, 2832, UK, Lowestoft, 20:40:03
+2981, Kason Kennedy, M, 2858, Canada, Stratford, 20:39:21
+2982, Amira Butler, F, 2834, Germany, Beckum, 21:05:51
+2983, Kaelen Bell, M, 2860, France, Mauguio, 21:05:09
+2984, Alison Dixon, F, 2836, Australia, Shepparton, 21:31:40
+2985, Kole Fisher, M, 2862, Spain, Arrecife, 21:30:58
+2986, Emelia Reyes, F, 2838, Italy, Lamezia Terme, 21:57:30
+2987, Karsen Ellis, M, 2864, USA, Riverside, 21:56:48
+2988, Jayleen Edwards, F, 2840, Mexico, Tepic, 22:23:21
+2989, Kaelen Collins, M, 2866, UK, Gosport, 22:22:39
+2990, Zariyah Richardson, F, 2842, Canada, Timmins, 22:49:13
+2991, Kole Stewart, M, 2868, Germany, Haren, 22:48:31
+2992, Raegan Morris, F, 2844, France, Saint-Sebastien-sur-Loire, 23:15:06
+2993, Kason Rogers, M, 2870, Australia, Whyalla, 23:14:24
+2994, Maren Reed, F, 2846, Spain, Castelldefels, 23:41:00
+2995, Kaelen Cook, M, 2872, Italy, Guidonia, 23:40:18
+2996, Aya Morgan, F, 2848, USA, Newark, 00:06:55
+2997, Kole Bell, M, 2874, Mexico, Ciudad Valles, 00:06:13
+2998, Brynlee Murphy, F, 2850, UK, Scunthorpe, 00:32:51
+2999, Karsen Bailey, M, 2876, Canada, Summerside, 00:32:09
+3000, Ensley Rivera, F, 2852, Germany, Schwabisch Hall, 00:58:48
